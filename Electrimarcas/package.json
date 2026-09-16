@@ -1,0 +1,11 @@
+{
+  "name": "mi-proyecto-completo",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "concurrently \"npm run dev --prefix ELECTRIMARCAS-FRONTEND\" \"npm run dev --prefix electrimarcas-backend\""
+  },
+
+  "devDependencies": {
+    "concurrently": "^9.2.1"
+  }
+}

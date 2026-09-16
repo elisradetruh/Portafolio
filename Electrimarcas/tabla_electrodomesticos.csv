@@ -1,0 +1,1101 @@
+id_categoria,nombre_categoria,id_electrodomestico,nombre_electrodomestico,id_marca,nombre_marca,id_modelo,nombre_modelo,año_fabricacion,descripcion,voltaje,potencia
+C02,limpieza,E00001,Secadora,M00001,Bosch,MD0001,Serie 4 WTG86400UC,2021,"Secadora marca Bosch modelo Serie 4 WTG86400UC, eficiente y de uso doméstico.",220,2527
+C02,limpieza,E00002,Secadora,M00002,LG,MD0002,DLE3500W,2016,"Secadora marca LG modelo DLE3500W, eficiente y de uso doméstico.",220,2037
+C02,limpieza,E00003,Hidrolavadora,M00003,Karcher,MD0003,K4 Full Control,2015,"Hidrolavadora marca Karcher modelo K4 Full Control, eficiente y de uso doméstico.",127,1483
+C02,limpieza,E00004,Vaporeta,M00004,Karcher,MD0004,SC 3,2022,"Vaporeta marca Karcher modelo SC 3, eficiente y de uso doméstico.",240,1810
+C02,limpieza,E00005,Aspiradora,M00005,iRobot,MD0005,Roomba s9,2024,"Aspiradora marca iRobot modelo Roomba s9, eficiente y de uso doméstico.",120,1000
+C02,limpieza,E00006,Vaporeta,M00006,Polti,MD0006,Vaporella,2015,"Vaporeta marca Polti modelo Vaporella, eficiente y de uso doméstico.",240,1223
+C02,limpieza,E00007,Plancha,M00007,Rowenta,MD0007,DW5080,2017,"Plancha marca Rowenta modelo DW5080, eficiente y de uso doméstico.",240,2214
+C02,limpieza,E00008,Aspiradora,M00008,Hoover,MD0008,WindTunnel 2 UH72630,2016,"Aspiradora marca Hoover modelo WindTunnel 2 UH72630, eficiente y de uso doméstico.",120,870
+C02,limpieza,E00009,Hidrolavadora,M00009,Karcher,MD0009,K4 Full Control,2016,"Hidrolavadora marca Karcher modelo K4 Full Control, eficiente y de uso doméstico.",127,2453
+C02,limpieza,E00010,Aspiradora,M00010,Roborock,MD0010,S7,2024,"Aspiradora marca Roborock modelo S7, eficiente y de uso doméstico.",240,849
+C02,limpieza,E00011,Aspiradora,M00011,Dyson,MD0011,V8 Absolute,2023,"Aspiradora marca Dyson modelo V8 Absolute, eficiente y de uso doméstico.",220,924
+C02,limpieza,E00012,Aspiradora,M00012,Shark,MD0012,Navigator Lift-Away NV352,2015,"Aspiradora marca Shark modelo Navigator Lift-Away NV352, eficiente y de uso doméstico.",127,1348
+C02,limpieza,E00013,Secadora,M00013,Whirlpool,MD0013,WED4815EW,2017,"Secadora marca Whirlpool modelo WED4815EW, eficiente y de uso doméstico.",220,2395
+C02,limpieza,E00014,Lavavajillas,M00014,Whirlpool,MD0014,WDF330PAHW,2021,"Lavavajillas marca Whirlpool modelo WDF330PAHW, eficiente y de uso doméstico.",220,1622
+C02,limpieza,E00015,Plancha,M00015,Rowenta,MD0015,DW5080,2023,"Plancha marca Rowenta modelo DW5080, eficiente y de uso doméstico.",220,1796
+C02,limpieza,E00016,Lavadora,M00016,Whirlpool,MD0016,WTW5000DW,2024,"Lavadora marca Whirlpool modelo WTW5000DW, eficiente y de uso doméstico.",240,1765
+C02,limpieza,E00017,Lavavajillas,M00017,GE,MD0017,GDT665SSNSS,2019,"Lavavajillas marca GE modelo GDT665SSNSS, eficiente y de uso doméstico.",120,1967
+C02,limpieza,E00018,Vaporeta,M00018,Karcher,MD0018,SC 3,2021,"Vaporeta marca Karcher modelo SC 3, eficiente y de uso doméstico.",240,1973
+C02,limpieza,E00019,Secadora,M00019,Samsung,MD0019,DV42H5000EW,2021,"Secadora marca Samsung modelo DV42H5000EW, eficiente y de uso doméstico.",220,2611
+C02,limpieza,E00020,Secadora,M00020,Whirlpool,MD0020,WED4815EW,2019,"Secadora marca Whirlpool modelo WED4815EW, eficiente y de uso doméstico.",220,4467
+C02,limpieza,E00021,Lavadora,M00021,Samsung,MD0021,WA50R5400AV,2022,"Lavadora marca Samsung modelo WA50R5400AV, eficiente y de uso doméstico.",120,1262
+C02,limpieza,E00022,Lavadora,M00022,Whirlpool,MD0022,WTW5000DW,2024,"Lavadora marca Whirlpool modelo WTW5000DW, eficiente y de uso doméstico.",120,1216
+C02,limpieza,E00023,Secadora,M00023,Bosch,MD0023,Serie 4 WTG86400UC,2019,"Secadora marca Bosch modelo Serie 4 WTG86400UC, eficiente y de uso doméstico.",120,1271
+C02,limpieza,E00024,Lavadora,M00024,Samsung,MD0024,WA50R5400AV,2019,"Lavadora marca Samsung modelo WA50R5400AV, eficiente y de uso doméstico.",220,1295
+C02,limpieza,E00025,Lavadora,M00025,Whirlpool,MD0025,WTW5000DW,2021,"Lavadora marca Whirlpool modelo WTW5000DW, eficiente y de uso doméstico.",127,1543
+C02,limpieza,E00026,Vaporeta,M00026,Polti,MD0026,Vaporella,2017,"Vaporeta marca Polti modelo Vaporella, eficiente y de uso doméstico.",127,1726
+C02,limpieza,E00027,Lavadora,M00027,Samsung,MD0027,WA50R5400AV,2024,"Lavadora marca Samsung modelo WA50R5400AV, eficiente y de uso doméstico.",127,1219
+C02,limpieza,E00028,Lavadora,M00028,Bosch,MD0028,Serie 6 WAU28PH9ES,2025,"Lavadora marca Bosch modelo Serie 6 WAU28PH9ES, eficiente y de uso doméstico.",240,614
+C02,limpieza,E00029,Plancha,M00029,Black+Decker,MD0029,D3030,2015,"Plancha marca Black+Decker modelo D3030, eficiente y de uso doméstico.",127,2652
+C02,limpieza,E00030,Secadora,M00030,Whirlpool,MD0030,WED4815EW,2025,"Secadora marca Whirlpool modelo WED4815EW, eficiente y de uso doméstico.",240,1437
+C02,limpieza,E00031,Lavavajillas,M00031,Bosch,MD0031,Serie 4 SMS46KW02E,2018,"Lavavajillas marca Bosch modelo Serie 4 SMS46KW02E, eficiente y de uso doméstico.",127,1624
+C02,limpieza,E00032,Lavadora,M00032,Samsung,MD0032,WA50R5400AV,2015,"Lavadora marca Samsung modelo WA50R5400AV, eficiente y de uso doméstico.",120,1803
+C02,limpieza,E00033,Secadora,M00033,Bosch,MD0033,Serie 4 WTG86400UC,2019,"Secadora marca Bosch modelo Serie 4 WTG86400UC, eficiente y de uso doméstico.",220,1960
+C02,limpieza,E00034,Lavavajillas,M00034,Mabe,MD0034,LP8000WG,2022,"Lavavajillas marca Mabe modelo LP8000WG, eficiente y de uso doméstico.",120,1855
+C02,limpieza,E00035,Aspiradora,M00035,Miele,MD0035,Classic C1,2017,"Aspiradora marca Miele modelo Classic C1, eficiente y de uso doméstico.",220,703
+C02,limpieza,E00036,Plancha,M00036,Philips,MD0036,GC5039/30,2022,"Plancha marca Philips modelo GC5039/30, eficiente y de uso doméstico.",127,1752
+C02,limpieza,E00037,Secadora,M00037,Whirlpool,MD0037,WED4815EW,2020,"Secadora marca Whirlpool modelo WED4815EW, eficiente y de uso doméstico.",127,806
+C02,limpieza,E00038,Lavadora,M00038,LG,MD0038,F4J6VY2W,2023,"Lavadora marca LG modelo F4J6VY2W, eficiente y de uso doméstico.",220,1762
+C02,limpieza,E00039,Lavavajillas,M00039,Bosch,MD0039,Serie 4 SMS46KW02E,2024,"Lavavajillas marca Bosch modelo Serie 4 SMS46KW02E, eficiente y de uso doméstico.",120,1466
+C02,limpieza,E00040,Lavavajillas,M00040,Mabe,MD0040,LP8000WG,2022,"Lavavajillas marca Mabe modelo LP8000WG, eficiente y de uso doméstico.",220,2163
+C02,limpieza,E00041,Plancha,M00041,Rowenta,MD0041,DW5080,2024,"Plancha marca Rowenta modelo DW5080, eficiente y de uso doméstico.",127,1358
+C02,limpieza,E00042,Hidrolavadora,M00042,Sun Joe,MD0042,SPX3000,2015,"Hidrolavadora marca Sun Joe modelo SPX3000, eficiente y de uso doméstico.",127,2067
+C02,limpieza,E00043,Lavadora,M00043,Bosch,MD0043,Serie 6 WAU28PH9ES,2017,"Lavadora marca Bosch modelo Serie 6 WAU28PH9ES, eficiente y de uso doméstico.",240,1024
+C02,limpieza,E00044,Plancha,M00044,Black+Decker,MD0044,D3030,2015,"Plancha marca Black+Decker modelo D3030, eficiente y de uso doméstico.",240,1020
+C02,limpieza,E00045,Lavadora,M00045,Samsung,MD0045,WA50R5400AV,2018,"Lavadora marca Samsung modelo WA50R5400AV, eficiente y de uso doméstico.",240,1245
+C02,limpieza,E00046,Vaporeta,M00046,Bissell,MD0046,PowerFresh 1940,2017,"Vaporeta marca Bissell modelo PowerFresh 1940, eficiente y de uso doméstico.",120,1146
+C02,limpieza,E00047,Plancha,M00047,Philips,MD0047,GC5039/30,2018,"Plancha marca Philips modelo GC5039/30, eficiente y de uso doméstico.",220,1146
+C02,limpieza,E00048,Hidrolavadora,M00048,Bosch,MD0048,EasyAquatak 120,2018,"Hidrolavadora marca Bosch modelo EasyAquatak 120, eficiente y de uso doméstico.",127,2063
+C02,limpieza,E00049,Hidrolavadora,M00049,Karcher,MD0049,K4 Full Control,2017,"Hidrolavadora marca Karcher modelo K4 Full Control, eficiente y de uso doméstico.",220,1544
+C02,limpieza,E00050,Vaporeta,M00050,Karcher,MD0050,SC 3,2021,"Vaporeta marca Karcher modelo SC 3, eficiente y de uso doméstico.",220,1465
+C02,limpieza,E00051,Aspiradora,M00051,Xiaomi,MD0051,Mi Handheld Vacuum,2022,"Aspiradora marca Xiaomi modelo Mi Handheld Vacuum, eficiente y de uso doméstico.",120,1443
+C02,limpieza,E00052,Vaporeta,M00052,Karcher,MD0052,SC 3,2021,"Vaporeta marca Karcher modelo SC 3, eficiente y de uso doméstico.",120,1568
+C02,limpieza,E00053,Hidrolavadora,M00053,Karcher,MD0053,K4 Full Control,2017,"Hidrolavadora marca Karcher modelo K4 Full Control, eficiente y de uso doméstico.",240,1341
+C02,limpieza,E00054,Lavadora,M00054,Whirlpool,MD0054,WTW5000DW,2017,"Lavadora marca Whirlpool modelo WTW5000DW, eficiente y de uso doméstico.",240,1021
+C02,limpieza,E00055,Lavavajillas,M00055,Bosch,MD0055,Serie 4 SMS46KW02E,2020,"Lavavajillas marca Bosch modelo Serie 4 SMS46KW02E, eficiente y de uso doméstico.",127,1892
+C02,limpieza,E00056,Aspiradora,M00056,Roborock,MD0056,S7,2016,"Aspiradora marca Roborock modelo S7, eficiente y de uso doméstico.",220,1228
+C02,limpieza,E00057,Lavadora,M00057,Bosch,MD0057,Serie 6 WAU28PH9ES,2017,"Lavadora marca Bosch modelo Serie 6 WAU28PH9ES, eficiente y de uso doméstico.",127,1427
+C02,limpieza,E00058,Vaporeta,M00058,Polti,MD0058,Vaporella,2021,"Vaporeta marca Polti modelo Vaporella, eficiente y de uso doméstico.",240,1781
+C02,limpieza,E00059,Plancha,M00059,Oster,MD0059,GCSTBS5802,2016,"Plancha marca Oster modelo GCSTBS5802, eficiente y de uso doméstico.",127,1793
+C02,limpieza,E00060,Secadora,M00060,Samsung,MD0060,DV42H5000EW,2020,"Secadora marca Samsung modelo DV42H5000EW, eficiente y de uso doméstico.",120,4641
+C02,limpieza,E00061,Lavadora,M00061,Whirlpool,MD0061,WTW5000DW,2015,"Lavadora marca Whirlpool modelo WTW5000DW, eficiente y de uso doméstico.",120,1794
+C02,limpieza,E00062,Plancha,M00062,Black+Decker,MD0062,D3030,2025,"Plancha marca Black+Decker modelo D3030, eficiente y de uso doméstico.",220,1808
+C02,limpieza,E00063,Lavadora,M00063,LG,MD0063,F4J6VY2W,2016,"Lavadora marca LG modelo F4J6VY2W, eficiente y de uso doméstico.",240,1883
+C02,limpieza,E00064,Hidrolavadora,M00064,Bosch,MD0064,EasyAquatak 120,2018,"Hidrolavadora marca Bosch modelo EasyAquatak 120, eficiente y de uso doméstico.",127,1472
+C02,limpieza,E00065,Aspiradora,M00065,Dyson,MD0065,V8 Absolute,2021,"Aspiradora marca Dyson modelo V8 Absolute, eficiente y de uso doméstico.",120,754
+C02,limpieza,E00066,Vaporeta,M00066,Karcher,MD0066,SC 3,2019,"Vaporeta marca Karcher modelo SC 3, eficiente y de uso doméstico.",220,1457
+C02,limpieza,E00067,Secadora,M00067,Bosch,MD0067,Serie 4 WTG86400UC,2025,"Secadora marca Bosch modelo Serie 4 WTG86400UC, eficiente y de uso doméstico.",120,3252
+C02,limpieza,E00068,Aspiradora,M00068,Dyson,MD0068,V15 Detect,2020,"Aspiradora marca Dyson modelo V15 Detect, eficiente y de uso doméstico.",120,1743
+C02,limpieza,E00069,Lavavajillas,M00069,Bosch,MD0069,SPS2HKW58E,2016,"Lavavajillas marca Bosch modelo SPS2HKW58E, eficiente y de uso doméstico.",120,2086
+C02,limpieza,E00070,Aspiradora,M00070,Shark,MD0070,Navigator Lift-Away NV352,2018,"Aspiradora marca Shark modelo Navigator Lift-Away NV352, eficiente y de uso doméstico.",240,1341
+C02,limpieza,E00071,Plancha,M00071,Philips,MD0071,GC5039/30,2021,"Plancha marca Philips modelo GC5039/30, eficiente y de uso doméstico.",120,2183
+C02,limpieza,E00072,Lavadora,M00072,Samsung,MD0072,WA50R5400AV,2022,"Lavadora marca Samsung modelo WA50R5400AV, eficiente y de uso doméstico.",127,884
+C02,limpieza,E00073,Aspiradora,M00073,iRobot,MD0073,Roomba s9,2017,"Aspiradora marca iRobot modelo Roomba s9, eficiente y de uso doméstico.",220,251
+C02,limpieza,E00074,Lavavajillas,M00074,Mabe,MD0074,LP8000WG,2023,"Lavavajillas marca Mabe modelo LP8000WG, eficiente y de uso doméstico.",220,1626
+C02,limpieza,E00075,Lavadora,M00075,Maytag,MD0075,MVWC565FW,2023,"Lavadora marca Maytag modelo MVWC565FW, eficiente y de uso doméstico.",240,761
+C02,limpieza,E00076,Lavadora,M00076,LG,MD0076,F4J6VY2W,2024,"Lavadora marca LG modelo F4J6VY2W, eficiente y de uso doméstico.",127,723
+C02,limpieza,E00077,Secadora,M00077,Samsung,MD0077,DV42H5000EW,2016,"Secadora marca Samsung modelo DV42H5000EW, eficiente y de uso doméstico.",120,1942
+C02,limpieza,E00078,Lavadora,M00078,Maytag,MD0078,MVWC565FW,2017,"Lavadora marca Maytag modelo MVWC565FW, eficiente y de uso doméstico.",127,837
+C02,limpieza,E00079,Lavavajillas,M00079,GE,MD0079,GDT665SSNSS,2023,"Lavavajillas marca GE modelo GDT665SSNSS, eficiente y de uso doméstico.",220,1817
+C02,limpieza,E00080,Secadora,M00080,Bosch,MD0080,Serie 4 WTG86400UC,2020,"Secadora marca Bosch modelo Serie 4 WTG86400UC, eficiente y de uso doméstico.",120,3696
+C02,limpieza,E00081,Lavavajillas,M00081,GE,MD0081,GDT665SSNSS,2016,"Lavavajillas marca GE modelo GDT665SSNSS, eficiente y de uso doméstico.",220,2383
+C02,limpieza,E00082,Aspiradora,M00082,Roborock,MD0082,S7,2021,"Aspiradora marca Roborock modelo S7, eficiente y de uso doméstico.",240,1149
+C02,limpieza,E00083,Plancha,M00083,Philips,MD0083,GC5039/30,2020,"Plancha marca Philips modelo GC5039/30, eficiente y de uso doméstico.",120,2570
+C02,limpieza,E00084,Lavadora,M00084,Maytag,MD0084,MVWC565FW,2020,"Lavadora marca Maytag modelo MVWC565FW, eficiente y de uso doméstico.",127,1013
+C02,limpieza,E00085,Lavadora,M00085,Samsung,MD0085,WA50R5400AV,2017,"Lavadora marca Samsung modelo WA50R5400AV, eficiente y de uso doméstico.",120,1827
+C02,limpieza,E00086,Lavavajillas,M00086,Bosch,MD0086,Serie 4 SMS46KW02E,2021,"Lavavajillas marca Bosch modelo Serie 4 SMS46KW02E, eficiente y de uso doméstico.",120,1751
+C02,limpieza,E00087,Hidrolavadora,M00087,Karcher,MD0087,K4 Full Control,2021,"Hidrolavadora marca Karcher modelo K4 Full Control, eficiente y de uso doméstico.",127,1976
+C02,limpieza,E00088,Vaporeta,M00088,Polti,MD0088,Vaporella,2017,"Vaporeta marca Polti modelo Vaporella, eficiente y de uso doméstico.",120,1308
+C02,limpieza,E00089,Vaporeta,M00089,Polti,MD0089,Vaporella,2019,"Vaporeta marca Polti modelo Vaporella, eficiente y de uso doméstico.",127,1247
+C02,limpieza,E00090,Lavadora,M00090,Bosch,MD0090,Serie 6 WAU28PH9ES,2024,"Lavadora marca Bosch modelo Serie 6 WAU28PH9ES, eficiente y de uso doméstico.",127,875
+C02,limpieza,E00091,Aspiradora,M00091,Dyson,MD0091,V8 Absolute,2018,"Aspiradora marca Dyson modelo V8 Absolute, eficiente y de uso doméstico.",240,1872
+C02,limpieza,E00092,Hidrolavadora,M00092,Karcher,MD0092,K4 Full Control,2021,"Hidrolavadora marca Karcher modelo K4 Full Control, eficiente y de uso doméstico.",220,1873
+C02,limpieza,E00093,Secadora,M00093,LG,MD0093,DLE3500W,2020,"Secadora marca LG modelo DLE3500W, eficiente y de uso doméstico.",120,1074
+C02,limpieza,E00094,Secadora,M00094,Whirlpool,MD0094,WED4815EW,2024,"Secadora marca Whirlpool modelo WED4815EW, eficiente y de uso doméstico.",120,2239
+C02,limpieza,E00095,Plancha,M00095,Oster,MD0095,GCSTBS5802,2019,"Plancha marca Oster modelo GCSTBS5802, eficiente y de uso doméstico.",127,1181
+C02,limpieza,E00096,Secadora,M00096,LG,MD0096,DLE3500W,2019,"Secadora marca LG modelo DLE3500W, eficiente y de uso doméstico.",120,4246
+C02,limpieza,E00097,Hidrolavadora,M00097,Karcher,MD0097,K4 Full Control,2016,"Hidrolavadora marca Karcher modelo K4 Full Control, eficiente y de uso doméstico.",220,2302
+C02,limpieza,E00098,Secadora,M00098,LG,MD0098,DLE3500W,2020,"Secadora marca LG modelo DLE3500W, eficiente y de uso doméstico.",240,4203
+C02,limpieza,E00099,Hidrolavadora,M00099,Sun Joe,MD0099,SPX3000,2023,"Hidrolavadora marca Sun Joe modelo SPX3000, eficiente y de uso doméstico.",240,2257
+C02,limpieza,E00100,Vaporeta,M00100,Karcher,MD0100,SC 3,2016,"Vaporeta marca Karcher modelo SC 3, eficiente y de uso doméstico.",127,1605
+C02,limpieza,E00101,Aspiradora,M00101,Dyson,MD0101,V15 Detect,2022,"Aspiradora marca Dyson modelo V15 Detect, eficiente y de uso doméstico.",127,1413
+C02,limpieza,E00102,Lavadora,M00102,Bosch,MD0102,Serie 6 WAU28PH9ES,2021,"Lavadora marca Bosch modelo Serie 6 WAU28PH9ES, eficiente y de uso doméstico.",240,1313
+C02,limpieza,E00103,Lavadora,M00103,Samsung,MD0103,WA50R5400AV,2015,"Lavadora marca Samsung modelo WA50R5400AV, eficiente y de uso doméstico.",240,607
+C02,limpieza,E00104,Vaporeta,M00104,Bissell,MD0104,PowerFresh 1940,2016,"Vaporeta marca Bissell modelo PowerFresh 1940, eficiente y de uso doméstico.",127,1596
+C02,limpieza,E00105,Aspiradora,M00105,Hoover,MD0105,WindTunnel 2 UH72630,2021,"Aspiradora marca Hoover modelo WindTunnel 2 UH72630, eficiente y de uso doméstico.",240,1343
+C02,limpieza,E00106,Aspiradora,M00106,Dyson,MD0106,V15 Detect,2016,"Aspiradora marca Dyson modelo V15 Detect, eficiente y de uso doméstico.",240,101
+C02,limpieza,E00107,Plancha,M00107,Oster,MD0107,GCSTBS5802,2020,"Plancha marca Oster modelo GCSTBS5802, eficiente y de uso doméstico.",127,2948
+C02,limpieza,E00108,Lavadora,M00108,Bosch,MD0108,Serie 6 WAU28PH9ES,2016,"Lavadora marca Bosch modelo Serie 6 WAU28PH9ES, eficiente y de uso doméstico.",120,1585
+C02,limpieza,E00109,Plancha,M00109,Rowenta,MD0109,DW5080,2025,"Plancha marca Rowenta modelo DW5080, eficiente y de uso doméstico.",127,2177
+C02,limpieza,E00110,Vaporeta,M00110,Bissell,MD0110,PowerFresh 1940,2016,"Vaporeta marca Bissell modelo PowerFresh 1940, eficiente y de uso doméstico.",127,1244
+C02,limpieza,E00111,Aspiradora,M00111,Dyson,MD0111,V15 Detect,2019,"Aspiradora marca Dyson modelo V15 Detect, eficiente y de uso doméstico.",240,1969
+C02,limpieza,E00112,Aspiradora,M00112,Roborock,MD0112,S7,2016,"Aspiradora marca Roborock modelo S7, eficiente y de uso doméstico.",240,1058
+C02,limpieza,E00113,Hidrolavadora,M00113,Bosch,MD0113,EasyAquatak 120,2016,"Hidrolavadora marca Bosch modelo EasyAquatak 120, eficiente y de uso doméstico.",120,1453
+C02,limpieza,E00114,Lavadora,M00114,Maytag,MD0114,MVWC565FW,2018,"Lavadora marca Maytag modelo MVWC565FW, eficiente y de uso doméstico.",120,1901
+C02,limpieza,E00115,Plancha,M00115,Rowenta,MD0115,DW5080,2019,"Plancha marca Rowenta modelo DW5080, eficiente y de uso doméstico.",220,2184
+C02,limpieza,E00116,Aspiradora,M00116,Shark,MD0116,Navigator Lift-Away NV352,2020,"Aspiradora marca Shark modelo Navigator Lift-Away NV352, eficiente y de uso doméstico.",127,1020
+C02,limpieza,E00117,Aspiradora,M00117,iRobot,MD0117,Roomba s9,2020,"Aspiradora marca iRobot modelo Roomba s9, eficiente y de uso doméstico.",120,662
+C02,limpieza,E00118,Lavadora,M00118,Bosch,MD0118,Serie 6 WAU28PH9ES,2015,"Lavadora marca Bosch modelo Serie 6 WAU28PH9ES, eficiente y de uso doméstico.",220,844
+C02,limpieza,E00119,Plancha,M00119,Black+Decker,MD0119,D3030,2018,"Plancha marca Black+Decker modelo D3030, eficiente y de uso doméstico.",127,1759
+C02,limpieza,E00120,Secadora,M00120,Samsung,MD0120,DV42H5000EW,2020,"Secadora marca Samsung modelo DV42H5000EW, eficiente y de uso doméstico.",120,1304
+C02,limpieza,E00121,Lavavajillas,M00121,Mabe,MD0121,LP8000WG,2025,"Lavavajillas marca Mabe modelo LP8000WG, eficiente y de uso doméstico.",120,2126
+C02,limpieza,E00122,Vaporeta,M00122,Polti,MD0122,Vaporella,2023,"Vaporeta marca Polti modelo Vaporella, eficiente y de uso doméstico.",240,1119
+C02,limpieza,E00123,Lavavajillas,M00123,Bosch,MD0123,SPS2HKW58E,2018,"Lavavajillas marca Bosch modelo SPS2HKW58E, eficiente y de uso doméstico.",120,2059
+C02,limpieza,E00124,Lavadora,M00124,Whirlpool,MD0124,WTW5000DW,2015,"Lavadora marca Whirlpool modelo WTW5000DW, eficiente y de uso doméstico.",240,978
+C02,limpieza,E00125,Lavadora,M00125,LG,MD0125,F4J6VY2W,2024,"Lavadora marca LG modelo F4J6VY2W, eficiente y de uso doméstico.",127,1397
+C02,limpieza,E00126,Vaporeta,M00126,Karcher,MD0126,SC 3,2017,"Vaporeta marca Karcher modelo SC 3, eficiente y de uso doméstico.",240,1525
+C02,limpieza,E00127,Aspiradora,M00127,Dyson,MD0127,V8 Absolute,2023,"Aspiradora marca Dyson modelo V8 Absolute, eficiente y de uso doméstico.",220,1081
+C02,limpieza,E00128,Secadora,M00128,LG,MD0128,DLE3500W,2022,"Secadora marca LG modelo DLE3500W, eficiente y de uso doméstico.",120,3143
+C02,limpieza,E00129,Aspiradora,M00129,iRobot,MD0129,Roomba s9,2015,"Aspiradora marca iRobot modelo Roomba s9, eficiente y de uso doméstico.",240,690
+C02,limpieza,E00130,Lavavajillas,M00130,Bosch,MD0130,SPS2HKW58E,2022,"Lavavajillas marca Bosch modelo SPS2HKW58E, eficiente y de uso doméstico.",120,1384
+C02,limpieza,E00131,Lavavajillas,M00131,Bosch,MD0131,Serie 4 SMS46KW02E,2023,"Lavavajillas marca Bosch modelo Serie 4 SMS46KW02E, eficiente y de uso doméstico.",120,2273
+C02,limpieza,E00132,Aspiradora,M00132,Miele,MD0132,Classic C1,2016,"Aspiradora marca Miele modelo Classic C1, eficiente y de uso doméstico.",220,1604
+C02,limpieza,E00133,Vaporeta,M00133,Polti,MD0133,Vaporella,2018,"Vaporeta marca Polti modelo Vaporella, eficiente y de uso doméstico.",240,1108
+C02,limpieza,E00134,Hidrolavadora,M00134,Bosch,MD0134,EasyAquatak 120,2018,"Hidrolavadora marca Bosch modelo EasyAquatak 120, eficiente y de uso doméstico.",127,1804
+C02,limpieza,E00135,Vaporeta,M00135,Bissell,MD0135,PowerFresh 1940,2018,"Vaporeta marca Bissell modelo PowerFresh 1940, eficiente y de uso doméstico.",240,1194
+C02,limpieza,E00136,Aspiradora,M00136,iRobot,MD0136,Roomba s9,2015,"Aspiradora marca iRobot modelo Roomba s9, eficiente y de uso doméstico.",240,1545
+C02,limpieza,E00137,Vaporeta,M00137,Polti,MD0137,Vaporella,2016,"Vaporeta marca Polti modelo Vaporella, eficiente y de uso doméstico.",120,1573
+C02,limpieza,E00138,Aspiradora,M00138,Xiaomi,MD0138,Mi Handheld Vacuum,2020,"Aspiradora marca Xiaomi modelo Mi Handheld Vacuum, eficiente y de uso doméstico.",127,1419
+C02,limpieza,E00139,Plancha,M00139,Black+Decker,MD0139,D3030,2019,"Plancha marca Black+Decker modelo D3030, eficiente y de uso doméstico.",120,2016
+C02,limpieza,E00140,Aspiradora,M00140,Shark,MD0140,Navigator Lift-Away NV352,2022,"Aspiradora marca Shark modelo Navigator Lift-Away NV352, eficiente y de uso doméstico.",127,1909
+C02,limpieza,E00141,Plancha,M00141,Black+Decker,MD0141,D3030,2018,"Plancha marca Black+Decker modelo D3030, eficiente y de uso doméstico.",220,1235
+C02,limpieza,E00142,Plancha,M00142,Philips,MD0142,GC5039/30,2021,"Plancha marca Philips modelo GC5039/30, eficiente y de uso doméstico.",220,2888
+C02,limpieza,E00143,Aspiradora,M00143,Dyson,MD0143,V15 Detect,2015,"Aspiradora marca Dyson modelo V15 Detect, eficiente y de uso doméstico.",120,607
+C02,limpieza,E00144,Lavadora,M00144,Samsung,MD0144,WA50R5400AV,2025,"Lavadora marca Samsung modelo WA50R5400AV, eficiente y de uso doméstico.",127,797
+C02,limpieza,E00145,Vaporeta,M00145,Bissell,MD0145,PowerFresh 1940,2021,"Vaporeta marca Bissell modelo PowerFresh 1940, eficiente y de uso doméstico.",120,1735
+C02,limpieza,E00146,Vaporeta,M00146,Karcher,MD0146,SC 3,2021,"Vaporeta marca Karcher modelo SC 3, eficiente y de uso doméstico.",127,1097
+C02,limpieza,E00147,Secadora,M00147,Samsung,MD0147,DV42H5000EW,2023,"Secadora marca Samsung modelo DV42H5000EW, eficiente y de uso doméstico.",240,1482
+C02,limpieza,E00148,Plancha,M00148,Black+Decker,MD0148,D3030,2024,"Plancha marca Black+Decker modelo D3030, eficiente y de uso doméstico.",120,1731
+C02,limpieza,E00149,Vaporeta,M00149,Polti,MD0149,Vaporella,2022,"Vaporeta marca Polti modelo Vaporella, eficiente y de uso doméstico.",220,1463
+C02,limpieza,E00150,Vaporeta,M00150,Karcher,MD0150,SC 3,2023,"Vaporeta marca Karcher modelo SC 3, eficiente y de uso doméstico.",127,1950
+C02,limpieza,E00151,Plancha,M00151,Oster,MD0151,GCSTBS5802,2023,"Plancha marca Oster modelo GCSTBS5802, eficiente y de uso doméstico.",120,1768
+C02,limpieza,E00152,Plancha,M00152,Black+Decker,MD0152,D3030,2025,"Plancha marca Black+Decker modelo D3030, eficiente y de uso doméstico.",127,1582
+C02,limpieza,E00153,Hidrolavadora,M00153,Bosch,MD0153,EasyAquatak 120,2018,"Hidrolavadora marca Bosch modelo EasyAquatak 120, eficiente y de uso doméstico.",220,1470
+C02,limpieza,E00154,Vaporeta,M00154,Bissell,MD0154,PowerFresh 1940,2017,"Vaporeta marca Bissell modelo PowerFresh 1940, eficiente y de uso doméstico.",127,1669
+C02,limpieza,E00155,Plancha,M00155,Black+Decker,MD0155,D3030,2021,"Plancha marca Black+Decker modelo D3030, eficiente y de uso doméstico.",220,1065
+C02,limpieza,E00156,Lavavajillas,M00156,Bosch,MD0156,SPS2HKW58E,2024,"Lavavajillas marca Bosch modelo SPS2HKW58E, eficiente y de uso doméstico.",127,1774
+C02,limpieza,E00157,Aspiradora,M00157,Miele,MD0157,Classic C1,2020,"Aspiradora marca Miele modelo Classic C1, eficiente y de uso doméstico.",127,224
+C02,limpieza,E00158,Lavadora,M00158,Bosch,MD0158,Serie 6 WAU28PH9ES,2022,"Lavadora marca Bosch modelo Serie 6 WAU28PH9ES, eficiente y de uso doméstico.",127,1243
+C02,limpieza,E00159,Hidrolavadora,M00159,Karcher,MD0159,K4 Full Control,2020,"Hidrolavadora marca Karcher modelo K4 Full Control, eficiente y de uso doméstico.",220,1390
+C02,limpieza,E00160,Secadora,M00160,Whirlpool,MD0160,WED4815EW,2019,"Secadora marca Whirlpool modelo WED4815EW, eficiente y de uso doméstico.",220,2336
+C02,limpieza,E00161,Lavavajillas,M00161,Mabe,MD0161,LP8000WG,2021,"Lavavajillas marca Mabe modelo LP8000WG, eficiente y de uso doméstico.",220,2103
+C02,limpieza,E00162,Plancha,M00162,Rowenta,MD0162,DW5080,2019,"Plancha marca Rowenta modelo DW5080, eficiente y de uso doméstico.",127,1177
+C02,limpieza,E00163,Aspiradora,M00163,Miele,MD0163,Classic C1,2021,"Aspiradora marca Miele modelo Classic C1, eficiente y de uso doméstico.",120,1304
+C02,limpieza,E00164,Aspiradora,M00164,Dyson,MD0164,V15 Detect,2020,"Aspiradora marca Dyson modelo V15 Detect, eficiente y de uso doméstico.",220,1944
+C02,limpieza,E00165,Lavadora,M00165,LG,MD0165,F4J6VY2W,2023,"Lavadora marca LG modelo F4J6VY2W, eficiente y de uso doméstico.",240,1832
+C02,limpieza,E00166,Lavavajillas,M00166,Bosch,MD0166,SPS2HKW58E,2016,"Lavavajillas marca Bosch modelo SPS2HKW58E, eficiente y de uso doméstico.",127,1897
+C02,limpieza,E00167,Lavavajillas,M00167,Whirlpool,MD0167,WDF330PAHW,2025,"Lavavajillas marca Whirlpool modelo WDF330PAHW, eficiente y de uso doméstico.",240,2242
+C02,limpieza,E00168,Vaporeta,M00168,Bissell,MD0168,PowerFresh 1940,2021,"Vaporeta marca Bissell modelo PowerFresh 1940, eficiente y de uso doméstico.",220,1738
+C02,limpieza,E00169,Lavavajillas,M00169,Bosch,MD0169,Serie 4 SMS46KW02E,2025,"Lavavajillas marca Bosch modelo Serie 4 SMS46KW02E, eficiente y de uso doméstico.",240,1429
+C02,limpieza,E00170,Vaporeta,M00170,Polti,MD0170,Vaporella,2024,"Vaporeta marca Polti modelo Vaporella, eficiente y de uso doméstico.",240,1345
+C02,limpieza,E00171,Secadora,M00171,Bosch,MD0171,Serie 4 WTG86400UC,2019,"Secadora marca Bosch modelo Serie 4 WTG86400UC, eficiente y de uso doméstico.",220,1726
+C02,limpieza,E00172,Secadora,M00172,Whirlpool,MD0172,WED4815EW,2019,"Secadora marca Whirlpool modelo WED4815EW, eficiente y de uso doméstico.",240,3141
+C02,limpieza,E00173,Lavavajillas,M00173,GE,MD0173,GDT665SSNSS,2022,"Lavavajillas marca GE modelo GDT665SSNSS, eficiente y de uso doméstico.",120,1732
+C02,limpieza,E00174,Plancha,M00174,Oster,MD0174,GCSTBS5802,2019,"Plancha marca Oster modelo GCSTBS5802, eficiente y de uso doméstico.",127,2011
+C02,limpieza,E00175,Hidrolavadora,M00175,Karcher,MD0175,K4 Full Control,2019,"Hidrolavadora marca Karcher modelo K4 Full Control, eficiente y de uso doméstico.",240,2012
+C02,limpieza,E00176,Plancha,M00176,Philips,MD0176,GC5039/30,2024,"Plancha marca Philips modelo GC5039/30, eficiente y de uso doméstico.",220,1625
+C02,limpieza,E00177,Plancha,M00177,Philips,MD0177,GC5039/30,2017,"Plancha marca Philips modelo GC5039/30, eficiente y de uso doméstico.",120,1941
+C02,limpieza,E00178,Secadora,M00178,Whirlpool,MD0178,WED4815EW,2019,"Secadora marca Whirlpool modelo WED4815EW, eficiente y de uso doméstico.",240,631
+C02,limpieza,E00179,Plancha,M00179,Black+Decker,MD0179,D3030,2015,"Plancha marca Black+Decker modelo D3030, eficiente y de uso doméstico.",240,2217
+C02,limpieza,E00180,Lavavajillas,M00180,GE,MD0180,GDT665SSNSS,2017,"Lavavajillas marca GE modelo GDT665SSNSS, eficiente y de uso doméstico.",127,1475
+C02,limpieza,E00181,Aspiradora,M00181,Roborock,MD0181,S7,2023,"Aspiradora marca Roborock modelo S7, eficiente y de uso doméstico.",220,151
+C02,limpieza,E00182,Hidrolavadora,M00182,Karcher,MD0182,K4 Full Control,2023,"Hidrolavadora marca Karcher modelo K4 Full Control, eficiente y de uso doméstico.",220,1789
+C02,limpieza,E00183,Lavavajillas,M00183,Bosch,MD0183,Serie 4 SMS46KW02E,2021,"Lavavajillas marca Bosch modelo Serie 4 SMS46KW02E, eficiente y de uso doméstico.",120,1678
+C02,limpieza,E00184,Plancha,M00184,Black+Decker,MD0184,D3030,2016,"Plancha marca Black+Decker modelo D3030, eficiente y de uso doméstico.",240,1011
+C02,limpieza,E00185,Vaporeta,M00185,Polti,MD0185,Vaporella,2022,"Vaporeta marca Polti modelo Vaporella, eficiente y de uso doméstico.",120,1012
+C02,limpieza,E00186,Plancha,M00186,Philips,MD0186,GC5039/30,2017,"Plancha marca Philips modelo GC5039/30, eficiente y de uso doméstico.",220,2775
+C02,limpieza,E00187,Lavadora,M00187,Bosch,MD0187,Serie 6 WAU28PH9ES,2023,"Lavadora marca Bosch modelo Serie 6 WAU28PH9ES, eficiente y de uso doméstico.",220,976
+C02,limpieza,E00188,Aspiradora,M00188,iRobot,MD0188,Roomba s9,2022,"Aspiradora marca iRobot modelo Roomba s9, eficiente y de uso doméstico.",240,432
+C02,limpieza,E00189,Plancha,M00189,Philips,MD0189,GC5039/30,2023,"Plancha marca Philips modelo GC5039/30, eficiente y de uso doméstico.",120,1980
+C02,limpieza,E00190,Vaporeta,M00190,Polti,MD0190,Vaporella,2022,"Vaporeta marca Polti modelo Vaporella, eficiente y de uso doméstico.",220,1189
+C02,limpieza,E00191,Plancha,M00191,Oster,MD0191,GCSTBS5802,2022,"Plancha marca Oster modelo GCSTBS5802, eficiente y de uso doméstico.",120,2850
+C02,limpieza,E00192,Aspiradora,M00192,Hoover,MD0192,WindTunnel 2 UH72630,2024,"Aspiradora marca Hoover modelo WindTunnel 2 UH72630, eficiente y de uso doméstico.",240,884
+C02,limpieza,E00193,Secadora,M00193,Samsung,MD0193,DV42H5000EW,2024,"Secadora marca Samsung modelo DV42H5000EW, eficiente y de uso doméstico.",127,4584
+C02,limpieza,E00194,Vaporeta,M00194,Polti,MD0194,Vaporella,2025,"Vaporeta marca Polti modelo Vaporella, eficiente y de uso doméstico.",120,1225
+C02,limpieza,E00195,Hidrolavadora,M00195,Karcher,MD0195,K4 Full Control,2018,"Hidrolavadora marca Karcher modelo K4 Full Control, eficiente y de uso doméstico.",120,2399
+C02,limpieza,E00196,Lavavajillas,M00196,Bosch,MD0196,SPS2HKW58E,2015,"Lavavajillas marca Bosch modelo SPS2HKW58E, eficiente y de uso doméstico.",120,2073
+C02,limpieza,E00197,Lavadora,M00197,Samsung,MD0197,WA50R5400AV,2024,"Lavadora marca Samsung modelo WA50R5400AV, eficiente y de uso doméstico.",127,942
+C02,limpieza,E00198,Hidrolavadora,M00198,Bosch,MD0198,EasyAquatak 120,2017,"Hidrolavadora marca Bosch modelo EasyAquatak 120, eficiente y de uso doméstico.",240,2028
+C02,limpieza,E00199,Aspiradora,M00199,Dyson,MD0199,V15 Detect,2017,"Aspiradora marca Dyson modelo V15 Detect, eficiente y de uso doméstico.",220,430
+C02,limpieza,E00200,Aspiradora,M00200,Xiaomi,MD0200,Mi Handheld Vacuum,2018,"Aspiradora marca Xiaomi modelo Mi Handheld Vacuum, eficiente y de uso doméstico.",220,645
+C02,limpieza,E00201,Secadora,M00201,Whirlpool,MD0201,WED4815EW,2020,"Secadora marca Whirlpool modelo WED4815EW, eficiente y de uso doméstico.",127,3564
+C02,limpieza,E00202,Secadora,M00202,Bosch,MD0202,Serie 4 WTG86400UC,2018,"Secadora marca Bosch modelo Serie 4 WTG86400UC, eficiente y de uso doméstico.",240,781
+C02,limpieza,E00203,Vaporeta,M00203,Karcher,MD0203,SC 3,2019,"Vaporeta marca Karcher modelo SC 3, eficiente y de uso doméstico.",127,1431
+C02,limpieza,E00204,Vaporeta,M00204,Polti,MD0204,Vaporella,2025,"Vaporeta marca Polti modelo Vaporella, eficiente y de uso doméstico.",220,1631
+C02,limpieza,E00205,Secadora,M00205,Samsung,MD0205,DV42H5000EW,2025,"Secadora marca Samsung modelo DV42H5000EW, eficiente y de uso doméstico.",240,2255
+C02,limpieza,E00206,Lavadora,M00206,Maytag,MD0206,MVWC565FW,2015,"Lavadora marca Maytag modelo MVWC565FW, eficiente y de uso doméstico.",220,1564
+C02,limpieza,E00207,Lavadora,M00207,LG,MD0207,F4J6VY2W,2017,"Lavadora marca LG modelo F4J6VY2W, eficiente y de uso doméstico.",240,512
+C02,limpieza,E00208,Plancha,M00208,Oster,MD0208,GCSTBS5802,2021,"Plancha marca Oster modelo GCSTBS5802, eficiente y de uso doméstico.",120,1599
+C02,limpieza,E00209,Aspiradora,M00209,Hoover,MD0209,WindTunnel 2 UH72630,2018,"Aspiradora marca Hoover modelo WindTunnel 2 UH72630, eficiente y de uso doméstico.",220,599
+C02,limpieza,E00210,Secadora,M00210,Whirlpool,MD0210,WED4815EW,2016,"Secadora marca Whirlpool modelo WED4815EW, eficiente y de uso doméstico.",120,2513
+C02,limpieza,E00211,Lavadora,M00211,Whirlpool,MD0211,WTW5000DW,2022,"Lavadora marca Whirlpool modelo WTW5000DW, eficiente y de uso doméstico.",220,916
+C02,limpieza,E00212,Lavavajillas,M00212,GE,MD0212,GDT665SSNSS,2025,"Lavavajillas marca GE modelo GDT665SSNSS, eficiente y de uso doméstico.",240,2385
+C02,limpieza,E00213,Hidrolavadora,M00213,Karcher,MD0213,K4 Full Control,2018,"Hidrolavadora marca Karcher modelo K4 Full Control, eficiente y de uso doméstico.",127,1561
+C02,limpieza,E00214,Lavadora,M00214,Samsung,MD0214,WA50R5400AV,2024,"Lavadora marca Samsung modelo WA50R5400AV, eficiente y de uso doméstico.",120,1973
+C02,limpieza,E00215,Vaporeta,M00215,Polti,MD0215,Vaporella,2016,"Vaporeta marca Polti modelo Vaporella, eficiente y de uso doméstico.",120,1976
+C02,limpieza,E00216,Lavavajillas,M00216,GE,MD0216,GDT665SSNSS,2020,"Lavavajillas marca GE modelo GDT665SSNSS, eficiente y de uso doméstico.",127,1961
+C02,limpieza,E00217,Lavadora,M00217,LG,MD0217,F4J6VY2W,2025,"Lavadora marca LG modelo F4J6VY2W, eficiente y de uso doméstico.",120,889
+C02,limpieza,E00218,Lavadora,M00218,Samsung,MD0218,WA50R5400AV,2019,"Lavadora marca Samsung modelo WA50R5400AV, eficiente y de uso doméstico.",127,1699
+C02,limpieza,E00219,Hidrolavadora,M00219,Karcher,MD0219,K4 Full Control,2025,"Hidrolavadora marca Karcher modelo K4 Full Control, eficiente y de uso doméstico.",120,1606
+C02,limpieza,E00220,Plancha,M00220,Black+Decker,MD0220,D3030,2021,"Plancha marca Black+Decker modelo D3030, eficiente y de uso doméstico.",220,2308
+C01,cocina,E00221,Licuadora,M00221,Black+Decker,MD0221,Crush Master BL2010BP,2017,"Licuadora marca Black+Decker modelo Crush Master BL2010BP, ideal para cocina doméstica.",120,564
+C01,cocina,E00222,Licuadora,M00222,Hamilton Beach,MD0222,Power Elite 58148A,2018,"Licuadora marca Hamilton Beach modelo Power Elite 58148A, ideal para cocina doméstica.",120,202
+C01,cocina,E00223,Horno Electrico,M00223,Hamilton Beach,MD0223,31103DA,2020,"Horno Electrico marca Hamilton Beach modelo 31103DA, ideal para cocina doméstica.",120,2491
+C01,cocina,E00224,Cafetera,M00224,Hamilton Beach,MD0224,FlexBrew 49976,2015,"Cafetera marca Hamilton Beach modelo FlexBrew 49976, ideal para cocina doméstica.",240,1033
+C01,cocina,E00225,Cafetera,M00225,DeLonghi,MD0225,Magnifica ESAM3300,2020,"Cafetera marca DeLonghi modelo Magnifica ESAM3300, ideal para cocina doméstica.",127,1327
+C01,cocina,E00226,Refrigerador,M00226,Bosch,MD0226,Serie 6 KGN36XI3P,2023,"Refrigerador marca Bosch modelo Serie 6 KGN36XI3P, ideal para cocina doméstica.",240,306
+C01,cocina,E00227,Cafetera,M00227,Hamilton Beach,MD0227,FlexBrew 49976,2015,"Cafetera marca Hamilton Beach modelo FlexBrew 49976, ideal para cocina doméstica.",127,1046
+C01,cocina,E00228,Licuadora,M00228,Philips,MD0228,HR3652/00 Avance,2022,"Licuadora marca Philips modelo HR3652/00 Avance, ideal para cocina doméstica.",120,887
+C01,cocina,E00229,Horno Electrico,M00229,Cuisinart,MD0229,TOB-260N1,2023,"Horno Electrico marca Cuisinart modelo TOB-260N1, ideal para cocina doméstica.",127,1284
+C01,cocina,E00230,Microondas,M00230,Whirlpool,MD0230,WMH31017HS,2020,"Microondas marca Whirlpool modelo WMH31017HS, ideal para cocina doméstica.",127,1044
+C01,cocina,E00231,Licuadora,M00231,Oster,MD0231,Classic BLST4655,2022,"Licuadora marca Oster modelo Classic BLST4655, ideal para cocina doméstica.",220,835
+C01,cocina,E00232,Tostadora,M00232,Hamilton Beach,MD0232,22796,2023,"Tostadora marca Hamilton Beach modelo 22796, ideal para cocina doméstica.",220,1130
+C01,cocina,E00233,Licuadora,M00233,Black+Decker,MD0233,Crush Master BL2010BP,2023,"Licuadora marca Black+Decker modelo Crush Master BL2010BP, ideal para cocina doméstica.",120,1146
+C01,cocina,E00234,Refrigerador,M00234,Samsung,MD0234,Family Hub RF28R7551SR,2016,"Refrigerador marca Samsung modelo Family Hub RF28R7551SR, ideal para cocina doméstica.",220,213
+C01,cocina,E00235,Cafetera,M00235,Hamilton Beach,MD0235,FlexBrew 49976,2015,"Cafetera marca Hamilton Beach modelo FlexBrew 49976, ideal para cocina doméstica.",127,1287
+C01,cocina,E00236,Cafetera,M00236,DeLonghi,MD0236,Magnifica ESAM3300,2016,"Cafetera marca DeLonghi modelo Magnifica ESAM3300, ideal para cocina doméstica.",220,1186
+C01,cocina,E00237,Horno Electrico,M00237,Cuisinart,MD0237,TOB-260N1,2022,"Horno Electrico marca Cuisinart modelo TOB-260N1, ideal para cocina doméstica.",240,2388
+C01,cocina,E00238,Horno Electrico,M00238,Black+Decker,MD0238,TO3250XSB,2023,"Horno Electrico marca Black+Decker modelo TO3250XSB, ideal para cocina doméstica.",240,1708
+C01,cocina,E00239,Cafetera,M00239,Mr. Coffee,MD0239,12-Cup Coffee Maker,2019,"Cafetera marca Mr. Coffee modelo 12-Cup Coffee Maker, ideal para cocina doméstica.",240,883
+C01,cocina,E00240,Tostadora,M00240,Hamilton Beach,MD0240,22796,2017,"Tostadora marca Hamilton Beach modelo 22796, ideal para cocina doméstica.",220,1373
+C01,cocina,E00241,Licuadora,M00241,Hamilton Beach,MD0241,Power Elite 58148A,2015,"Licuadora marca Hamilton Beach modelo Power Elite 58148A, ideal para cocina doméstica.",240,896
+C01,cocina,E00242,Microondas,M00242,Daewoo,MD0242,KOR-7LREM,2019,"Microondas marca Daewoo modelo KOR-7LREM, ideal para cocina doméstica.",240,1186
+C01,cocina,E00243,Tostadora,M00243,Oster,MD0243,TSSTTRJB30R,2017,"Tostadora marca Oster modelo TSSTTRJB30R, ideal para cocina doméstica.",240,777
+C01,cocina,E00244,Horno Electrico,M00244,Cuisinart,MD0244,TOB-260N1,2016,"Horno Electrico marca Cuisinart modelo TOB-260N1, ideal para cocina doméstica.",127,2124
+C01,cocina,E00245,Tostadora,M00245,Hamilton Beach,MD0245,22796,2024,"Tostadora marca Hamilton Beach modelo 22796, ideal para cocina doméstica.",240,837
+C01,cocina,E00246,Licuadora,M00246,Philips,MD0246,HR3652/00 Avance,2017,"Licuadora marca Philips modelo HR3652/00 Avance, ideal para cocina doméstica.",240,406
+C01,cocina,E00247,Horno Electrico,M00247,Black+Decker,MD0247,TO3250XSB,2018,"Horno Electrico marca Black+Decker modelo TO3250XSB, ideal para cocina doméstica.",220,1877
+C01,cocina,E00248,Horno Electrico,M00248,Hamilton Beach,MD0248,31103DA,2022,"Horno Electrico marca Hamilton Beach modelo 31103DA, ideal para cocina doméstica.",220,1353
+C01,cocina,E00249,Cafetera,M00249,Mr. Coffee,MD0249,12-Cup Coffee Maker,2025,"Cafetera marca Mr. Coffee modelo 12-Cup Coffee Maker, ideal para cocina doméstica.",120,1137
+C01,cocina,E00250,Horno Electrico,M00250,Oster,MD0250,TSSTTVMNDG,2015,"Horno Electrico marca Oster modelo TSSTTVMNDG, ideal para cocina doméstica.",127,1917
+C01,cocina,E00251,Refrigerador,M00251,Samsung,MD0251,Family Hub RF28R7551SR,2015,"Refrigerador marca Samsung modelo Family Hub RF28R7551SR, ideal para cocina doméstica.",120,234
+C01,cocina,E00252,Batidora,M00252,KitchenAid,MD0252,Artisan KSM150,2022,"Batidora marca KitchenAid modelo Artisan KSM150, ideal para cocina doméstica.",220,716
+C01,cocina,E00253,Batidora,M00253,Philips,MD0253,HR3741/00,2021,"Batidora marca Philips modelo HR3741/00, ideal para cocina doméstica.",127,636
+C01,cocina,E00254,Microondas,M00254,LG,MD0254,NeoChef MH8265CIS,2016,"Microondas marca LG modelo NeoChef MH8265CIS, ideal para cocina doméstica.",220,1171
+C01,cocina,E00255,Refrigerador,M00255,Whirlpool,MD0255,WRS325SDHZ,2016,"Refrigerador marca Whirlpool modelo WRS325SDHZ, ideal para cocina doméstica.",220,177
+C01,cocina,E00256,Batidora,M00256,Cuisinart,MD0256,SM-50BK,2015,"Batidora marca Cuisinart modelo SM-50BK, ideal para cocina doméstica.",120,375
+C01,cocina,E00257,Batidora,M00257,KitchenAid,MD0257,Artisan KSM150,2023,"Batidora marca KitchenAid modelo Artisan KSM150, ideal para cocina doméstica.",127,710
+C01,cocina,E00258,Horno Electrico,M00258,Black+Decker,MD0258,TO3250XSB,2016,"Horno Electrico marca Black+Decker modelo TO3250XSB, ideal para cocina doméstica.",120,1011
+C01,cocina,E00259,Microondas,M00259,Daewoo,MD0259,KOR-7LREM,2025,"Microondas marca Daewoo modelo KOR-7LREM, ideal para cocina doméstica.",220,968
+C01,cocina,E00260,Batidora,M00260,Oster,MD0260,FPSTSMPL1,2017,"Batidora marca Oster modelo FPSTSMPL1, ideal para cocina doméstica.",220,681
+C01,cocina,E00261,Horno Electrico,M00261,Cuisinart,MD0261,TOB-260N1,2015,"Horno Electrico marca Cuisinart modelo TOB-260N1, ideal para cocina doméstica.",220,1287
+C01,cocina,E00262,Horno Electrico,M00262,Cuisinart,MD0262,TOB-260N1,2016,"Horno Electrico marca Cuisinart modelo TOB-260N1, ideal para cocina doméstica.",220,1696
+C01,cocina,E00263,Licuadora,M00263,Nutribullet,MD0263,Pro 900,2019,"Licuadora marca Nutribullet modelo Pro 900, ideal para cocina doméstica.",120,1081
+C01,cocina,E00264,Cafetera,M00264,DeLonghi,MD0264,Magnifica ESAM3300,2022,"Cafetera marca DeLonghi modelo Magnifica ESAM3300, ideal para cocina doméstica.",220,1027
+C01,cocina,E00265,Licuadora,M00265,Oster,MD0265,Classic BLST4655,2024,"Licuadora marca Oster modelo Classic BLST4655, ideal para cocina doméstica.",240,782
+C01,cocina,E00266,Licuadora,M00266,Oster,MD0266,Classic BLST4655,2019,"Licuadora marca Oster modelo Classic BLST4655, ideal para cocina doméstica.",127,252
+C01,cocina,E00267,Horno Electrico,M00267,Cuisinart,MD0267,TOB-260N1,2015,"Horno Electrico marca Cuisinart modelo TOB-260N1, ideal para cocina doméstica.",120,2453
+C01,cocina,E00268,Tostadora,M00268,Cuisinart,MD0268,CPT-180,2017,"Tostadora marca Cuisinart modelo CPT-180, ideal para cocina doméstica.",127,1493
+C01,cocina,E00269,Tostadora,M00269,Breville,MD0269,BTA820XL,2023,"Tostadora marca Breville modelo BTA820XL, ideal para cocina doméstica.",120,1249
+C01,cocina,E00270,Horno Electrico,M00270,Oster,MD0270,TSSTTVMNDG,2019,"Horno Electrico marca Oster modelo TSSTTVMNDG, ideal para cocina doméstica.",127,2105
+C01,cocina,E00271,Horno Electrico,M00271,Cuisinart,MD0271,TOB-260N1,2020,"Horno Electrico marca Cuisinart modelo TOB-260N1, ideal para cocina doméstica.",240,1554
+C01,cocina,E00272,Tostadora,M00272,Oster,MD0272,TSSTTRJB30R,2015,"Tostadora marca Oster modelo TSSTTRJB30R, ideal para cocina doméstica.",120,1113
+C01,cocina,E00273,Horno Electrico,M00273,Cuisinart,MD0273,TOB-260N1,2025,"Horno Electrico marca Cuisinart modelo TOB-260N1, ideal para cocina doméstica.",240,1517
+C01,cocina,E00274,Licuadora,M00274,Hamilton Beach,MD0274,Power Elite 58148A,2018,"Licuadora marca Hamilton Beach modelo Power Elite 58148A, ideal para cocina doméstica.",220,864
+C01,cocina,E00275,Refrigerador,M00275,LG,MD0275,InstaView Door-in-Door,2025,"Refrigerador marca LG modelo InstaView Door-in-Door, ideal para cocina doméstica.",120,257
+C01,cocina,E00276,Cafetera,M00276,Mr. Coffee,MD0276,12-Cup Coffee Maker,2016,"Cafetera marca Mr. Coffee modelo 12-Cup Coffee Maker, ideal para cocina doméstica.",120,1367
+C01,cocina,E00277,Microondas,M00277,Daewoo,MD0277,KOR-7LREM,2016,"Microondas marca Daewoo modelo KOR-7LREM, ideal para cocina doméstica.",127,1046
+C01,cocina,E00278,Refrigerador,M00278,Bosch,MD0278,Serie 6 KGN36XI3P,2024,"Refrigerador marca Bosch modelo Serie 6 KGN36XI3P, ideal para cocina doméstica.",120,327
+C01,cocina,E00279,Cafetera,M00279,Nespresso,MD0279,VertuoPlus,2019,"Cafetera marca Nespresso modelo VertuoPlus, ideal para cocina doméstica.",120,889
+C01,cocina,E00280,Microondas,M00280,Daewoo,MD0280,KOR-7LREM,2019,"Microondas marca Daewoo modelo KOR-7LREM, ideal para cocina doméstica.",127,1139
+C01,cocina,E00281,Licuadora,M00281,Hamilton Beach,MD0281,Power Elite 58148A,2016,"Licuadora marca Hamilton Beach modelo Power Elite 58148A, ideal para cocina doméstica.",120,1128
+C01,cocina,E00282,Licuadora,M00282,Philips,MD0282,HR3652/00 Avance,2016,"Licuadora marca Philips modelo HR3652/00 Avance, ideal para cocina doméstica.",220,1134
+C01,cocina,E00283,Licuadora,M00283,Nutribullet,MD0283,Pro 900,2019,"Licuadora marca Nutribullet modelo Pro 900, ideal para cocina doméstica.",120,305
+C01,cocina,E00284,Cafetera,M00284,Mr. Coffee,MD0284,12-Cup Coffee Maker,2020,"Cafetera marca Mr. Coffee modelo 12-Cup Coffee Maker, ideal para cocina doméstica.",220,686
+C01,cocina,E00285,Horno Electrico,M00285,Breville,MD0285,BOV800XL,2021,"Horno Electrico marca Breville modelo BOV800XL, ideal para cocina doméstica.",220,2051
+C01,cocina,E00286,Refrigerador,M00286,Bosch,MD0286,Serie 6 KGN36XI3P,2025,"Refrigerador marca Bosch modelo Serie 6 KGN36XI3P, ideal para cocina doméstica.",220,131
+C01,cocina,E00287,Cafetera,M00287,Hamilton Beach,MD0287,FlexBrew 49976,2018,"Cafetera marca Hamilton Beach modelo FlexBrew 49976, ideal para cocina doméstica.",127,1020
+C01,cocina,E00288,Licuadora,M00288,Oster,MD0288,Classic BLST4655,2016,"Licuadora marca Oster modelo Classic BLST4655, ideal para cocina doméstica.",120,245
+C01,cocina,E00289,Refrigerador,M00289,Mabe,MD0289,RME360FYCU,2022,"Refrigerador marca Mabe modelo RME360FYCU, ideal para cocina doméstica.",240,217
+C01,cocina,E00290,Tostadora,M00290,Breville,MD0290,BTA820XL,2022,"Tostadora marca Breville modelo BTA820XL, ideal para cocina doméstica.",240,987
+C01,cocina,E00291,Batidora,M00291,Oster,MD0291,FPSTSMPL1,2024,"Batidora marca Oster modelo FPSTSMPL1, ideal para cocina doméstica.",120,231
+C01,cocina,E00292,Licuadora,M00292,Black+Decker,MD0292,Crush Master BL2010BP,2022,"Licuadora marca Black+Decker modelo Crush Master BL2010BP, ideal para cocina doméstica.",220,710
+C01,cocina,E00293,Licuadora,M00293,Black+Decker,MD0293,Crush Master BL2010BP,2021,"Licuadora marca Black+Decker modelo Crush Master BL2010BP, ideal para cocina doméstica.",127,674
+C01,cocina,E00294,Cafetera,M00294,Hamilton Beach,MD0294,FlexBrew 49976,2018,"Cafetera marca Hamilton Beach modelo FlexBrew 49976, ideal para cocina doméstica.",127,828
+C01,cocina,E00295,Horno Electrico,M00295,Oster,MD0295,TSSTTVMNDG,2015,"Horno Electrico marca Oster modelo TSSTTVMNDG, ideal para cocina doméstica.",240,2040
+C01,cocina,E00296,Microondas,M00296,Panasonic,MD0296,NN-SN966S,2015,"Microondas marca Panasonic modelo NN-SN966S, ideal para cocina doméstica.",240,1135
+C01,cocina,E00297,Cafetera,M00297,Hamilton Beach,MD0297,FlexBrew 49976,2016,"Cafetera marca Hamilton Beach modelo FlexBrew 49976, ideal para cocina doméstica.",127,936
+C01,cocina,E00298,Horno Electrico,M00298,Oster,MD0298,TSSTTVMNDG,2023,"Horno Electrico marca Oster modelo TSSTTVMNDG, ideal para cocina doméstica.",127,1842
+C01,cocina,E00299,Microondas,M00299,Whirlpool,MD0299,WMH31017HS,2015,"Microondas marca Whirlpool modelo WMH31017HS, ideal para cocina doméstica.",120,817
+C01,cocina,E00300,Refrigerador,M00300,Samsung,MD0300,Family Hub RF28R7551SR,2021,"Refrigerador marca Samsung modelo Family Hub RF28R7551SR, ideal para cocina doméstica.",127,139
+C01,cocina,E00301,Refrigerador,M00301,Samsung,MD0301,Family Hub RF28R7551SR,2015,"Refrigerador marca Samsung modelo Family Hub RF28R7551SR, ideal para cocina doméstica.",220,149
+C01,cocina,E00302,Cafetera,M00302,DeLonghi,MD0302,Magnifica ESAM3300,2023,"Cafetera marca DeLonghi modelo Magnifica ESAM3300, ideal para cocina doméstica.",220,891
+C01,cocina,E00303,Cafetera,M00303,Mr. Coffee,MD0303,12-Cup Coffee Maker,2020,"Cafetera marca Mr. Coffee modelo 12-Cup Coffee Maker, ideal para cocina doméstica.",120,1249
+C01,cocina,E00304,Batidora,M00304,Cuisinart,MD0304,SM-50BK,2015,"Batidora marca Cuisinart modelo SM-50BK, ideal para cocina doméstica.",120,613
+C01,cocina,E00305,Licuadora,M00305,Nutribullet,MD0305,Pro 900,2022,"Licuadora marca Nutribullet modelo Pro 900, ideal para cocina doméstica.",120,1142
+C01,cocina,E00306,Refrigerador,M00306,LG,MD0306,InstaView Door-in-Door,2015,"Refrigerador marca LG modelo InstaView Door-in-Door, ideal para cocina doméstica.",220,119
+C01,cocina,E00307,Batidora,M00307,Cuisinart,MD0307,SM-50BK,2016,"Batidora marca Cuisinart modelo SM-50BK, ideal para cocina doméstica.",220,408
+C01,cocina,E00308,Horno Electrico,M00308,Hamilton Beach,MD0308,31103DA,2018,"Horno Electrico marca Hamilton Beach modelo 31103DA, ideal para cocina doméstica.",220,1660
+C01,cocina,E00309,Tostadora,M00309,Cuisinart,MD0309,CPT-180,2019,"Tostadora marca Cuisinart modelo CPT-180, ideal para cocina doméstica.",120,1034
+C01,cocina,E00310,Cafetera,M00310,Keurig,MD0310,K-Elite,2018,"Cafetera marca Keurig modelo K-Elite, ideal para cocina doméstica.",127,928
+C01,cocina,E00311,Cafetera,M00311,Hamilton Beach,MD0311,FlexBrew 49976,2024,"Cafetera marca Hamilton Beach modelo FlexBrew 49976, ideal para cocina doméstica.",120,635
+C01,cocina,E00312,Cafetera,M00312,Nespresso,MD0312,VertuoPlus,2024,"Cafetera marca Nespresso modelo VertuoPlus, ideal para cocina doméstica.",127,1312
+C01,cocina,E00313,Licuadora,M00313,Oster,MD0313,Classic BLST4655,2016,"Licuadora marca Oster modelo Classic BLST4655, ideal para cocina doméstica.",220,692
+C01,cocina,E00314,Microondas,M00314,LG,MD0314,NeoChef MH8265CIS,2015,"Microondas marca LG modelo NeoChef MH8265CIS, ideal para cocina doméstica.",120,1062
+C01,cocina,E00315,Microondas,M00315,Whirlpool,MD0315,WMH31017HS,2024,"Microondas marca Whirlpool modelo WMH31017HS, ideal para cocina doméstica.",120,711
+C01,cocina,E00316,Horno Electrico,M00316,Black+Decker,MD0316,TO3250XSB,2019,"Horno Electrico marca Black+Decker modelo TO3250XSB, ideal para cocina doméstica.",120,1935
+C01,cocina,E00317,Tostadora,M00317,Breville,MD0317,BTA820XL,2020,"Tostadora marca Breville modelo BTA820XL, ideal para cocina doméstica.",220,967
+C01,cocina,E00318,Tostadora,M00318,Cuisinart,MD0318,CPT-180,2017,"Tostadora marca Cuisinart modelo CPT-180, ideal para cocina doméstica.",240,1060
+C01,cocina,E00319,Tostadora,M00319,Oster,MD0319,TSSTTRJB30R,2025,"Tostadora marca Oster modelo TSSTTRJB30R, ideal para cocina doméstica.",127,1472
+C01,cocina,E00320,Cafetera,M00320,Mr. Coffee,MD0320,12-Cup Coffee Maker,2016,"Cafetera marca Mr. Coffee modelo 12-Cup Coffee Maker, ideal para cocina doméstica.",220,849
+C01,cocina,E00321,Batidora,M00321,Hamilton Beach,MD0321,63391,2020,"Batidora marca Hamilton Beach modelo 63391, ideal para cocina doméstica.",240,353
+C01,cocina,E00322,Horno Electrico,M00322,Breville,MD0322,BOV800XL,2017,"Horno Electrico marca Breville modelo BOV800XL, ideal para cocina doméstica.",220,1903
+C01,cocina,E00323,Licuadora,M00323,Oster,MD0323,Classic BLST4655,2019,"Licuadora marca Oster modelo Classic BLST4655, ideal para cocina doméstica.",220,861
+C01,cocina,E00324,Refrigerador,M00324,LG,MD0324,InstaView Door-in-Door,2019,"Refrigerador marca LG modelo InstaView Door-in-Door, ideal para cocina doméstica.",220,332
+C01,cocina,E00325,Microondas,M00325,Daewoo,MD0325,KOR-7LREM,2016,"Microondas marca Daewoo modelo KOR-7LREM, ideal para cocina doméstica.",120,1113
+C01,cocina,E00326,Microondas,M00326,Panasonic,MD0326,NN-SN966S,2018,"Microondas marca Panasonic modelo NN-SN966S, ideal para cocina doméstica.",120,1082
+C01,cocina,E00327,Refrigerador,M00327,LG,MD0327,InstaView Door-in-Door,2022,"Refrigerador marca LG modelo InstaView Door-in-Door, ideal para cocina doméstica.",220,144
+C01,cocina,E00328,Microondas,M00328,LG,MD0328,NeoChef MH8265CIS,2022,"Microondas marca LG modelo NeoChef MH8265CIS, ideal para cocina doméstica.",240,1062
+C01,cocina,E00329,Batidora,M00329,Cuisinart,MD0329,SM-50BK,2019,"Batidora marca Cuisinart modelo SM-50BK, ideal para cocina doméstica.",127,720
+C01,cocina,E00330,Microondas,M00330,LG,MD0330,NeoChef MH8265CIS,2020,"Microondas marca LG modelo NeoChef MH8265CIS, ideal para cocina doméstica.",220,855
+C01,cocina,E00331,Batidora,M00331,Hamilton Beach,MD0331,63391,2019,"Batidora marca Hamilton Beach modelo 63391, ideal para cocina doméstica.",127,360
+C01,cocina,E00332,Licuadora,M00332,Nutribullet,MD0332,Pro 900,2015,"Licuadora marca Nutribullet modelo Pro 900, ideal para cocina doméstica.",220,967
+C01,cocina,E00333,Cafetera,M00333,Keurig,MD0333,K-Elite,2019,"Cafetera marca Keurig modelo K-Elite, ideal para cocina doméstica.",220,1177
+C01,cocina,E00334,Licuadora,M00334,Black+Decker,MD0334,Crush Master BL2010BP,2024,"Licuadora marca Black+Decker modelo Crush Master BL2010BP, ideal para cocina doméstica.",127,355
+C01,cocina,E00335,Tostadora,M00335,Cuisinart,MD0335,CPT-180,2018,"Tostadora marca Cuisinart modelo CPT-180, ideal para cocina doméstica.",127,768
+C01,cocina,E00336,Licuadora,M00336,Nutribullet,MD0336,Pro 900,2021,"Licuadora marca Nutribullet modelo Pro 900, ideal para cocina doméstica.",240,1106
+C01,cocina,E00337,Batidora,M00337,Cuisinart,MD0337,SM-50BK,2020,"Batidora marca Cuisinart modelo SM-50BK, ideal para cocina doméstica.",120,203
+C01,cocina,E00338,Horno Electrico,M00338,Black+Decker,MD0338,TO3250XSB,2017,"Horno Electrico marca Black+Decker modelo TO3250XSB, ideal para cocina doméstica.",120,2091
+C01,cocina,E00339,Refrigerador,M00339,Mabe,MD0339,RME360FYCU,2021,"Refrigerador marca Mabe modelo RME360FYCU, ideal para cocina doméstica.",120,321
+C01,cocina,E00340,Tostadora,M00340,Breville,MD0340,BTA820XL,2019,"Tostadora marca Breville modelo BTA820XL, ideal para cocina doméstica.",127,688
+C01,cocina,E00341,Licuadora,M00341,Hamilton Beach,MD0341,Power Elite 58148A,2015,"Licuadora marca Hamilton Beach modelo Power Elite 58148A, ideal para cocina doméstica.",127,1029
+C01,cocina,E00342,Microondas,M00342,Samsung,MD0342,MG402MADXBB,2022,"Microondas marca Samsung modelo MG402MADXBB, ideal para cocina doméstica.",120,865
+C01,cocina,E00343,Tostadora,M00343,Cuisinart,MD0343,CPT-180,2018,"Tostadora marca Cuisinart modelo CPT-180, ideal para cocina doméstica.",240,1363
+C01,cocina,E00344,Horno Electrico,M00344,Breville,MD0344,BOV800XL,2016,"Horno Electrico marca Breville modelo BOV800XL, ideal para cocina doméstica.",120,2080
+C01,cocina,E00345,Licuadora,M00345,Oster,MD0345,Classic BLST4655,2015,"Licuadora marca Oster modelo Classic BLST4655, ideal para cocina doméstica.",127,1003
+C01,cocina,E00346,Horno Electrico,M00346,Cuisinart,MD0346,TOB-260N1,2023,"Horno Electrico marca Cuisinart modelo TOB-260N1, ideal para cocina doméstica.",120,2292
+C01,cocina,E00347,Licuadora,M00347,Black+Decker,MD0347,Crush Master BL2010BP,2016,"Licuadora marca Black+Decker modelo Crush Master BL2010BP, ideal para cocina doméstica.",120,460
+C01,cocina,E00348,Cafetera,M00348,Keurig,MD0348,K-Elite,2018,"Cafetera marca Keurig modelo K-Elite, ideal para cocina doméstica.",120,640
+C01,cocina,E00349,Tostadora,M00349,Oster,MD0349,TSSTTRJB30R,2024,"Tostadora marca Oster modelo TSSTTRJB30R, ideal para cocina doméstica.",220,1055
+C01,cocina,E00350,Licuadora,M00350,Hamilton Beach,MD0350,Power Elite 58148A,2017,"Licuadora marca Hamilton Beach modelo Power Elite 58148A, ideal para cocina doméstica.",240,919
+C01,cocina,E00351,Batidora,M00351,Oster,MD0351,FPSTSMPL1,2021,"Batidora marca Oster modelo FPSTSMPL1, ideal para cocina doméstica.",120,549
+C01,cocina,E00352,Microondas,M00352,Whirlpool,MD0352,WMH31017HS,2020,"Microondas marca Whirlpool modelo WMH31017HS, ideal para cocina doméstica.",120,1001
+C01,cocina,E00353,Cafetera,M00353,DeLonghi,MD0353,Magnifica ESAM3300,2015,"Cafetera marca DeLonghi modelo Magnifica ESAM3300, ideal para cocina doméstica.",127,1349
+C01,cocina,E00354,Refrigerador,M00354,Bosch,MD0354,Serie 6 KGN36XI3P,2016,"Refrigerador marca Bosch modelo Serie 6 KGN36XI3P, ideal para cocina doméstica.",127,392
+C01,cocina,E00355,Tostadora,M00355,Hamilton Beach,MD0355,22796,2023,"Tostadora marca Hamilton Beach modelo 22796, ideal para cocina doméstica.",127,740
+C01,cocina,E00356,Refrigerador,M00356,Samsung,MD0356,Family Hub RF28R7551SR,2019,"Refrigerador marca Samsung modelo Family Hub RF28R7551SR, ideal para cocina doméstica.",220,351
+C01,cocina,E00357,Microondas,M00357,Whirlpool,MD0357,WMH31017HS,2020,"Microondas marca Whirlpool modelo WMH31017HS, ideal para cocina doméstica.",240,894
+C01,cocina,E00358,Refrigerador,M00358,LG,MD0358,InstaView Door-in-Door,2018,"Refrigerador marca LG modelo InstaView Door-in-Door, ideal para cocina doméstica.",220,230
+C01,cocina,E00359,Licuadora,M00359,Oster,MD0359,Classic BLST4655,2020,"Licuadora marca Oster modelo Classic BLST4655, ideal para cocina doméstica.",120,205
+C01,cocina,E00360,Licuadora,M00360,Nutribullet,MD0360,Pro 900,2020,"Licuadora marca Nutribullet modelo Pro 900, ideal para cocina doméstica.",240,354
+C01,cocina,E00361,Tostadora,M00361,Cuisinart,MD0361,CPT-180,2025,"Tostadora marca Cuisinart modelo CPT-180, ideal para cocina doméstica.",240,1237
+C01,cocina,E00362,Batidora,M00362,Philips,MD0362,HR3741/00,2024,"Batidora marca Philips modelo HR3741/00, ideal para cocina doméstica.",240,390
+C01,cocina,E00363,Licuadora,M00363,Black+Decker,MD0363,Crush Master BL2010BP,2021,"Licuadora marca Black+Decker modelo Crush Master BL2010BP, ideal para cocina doméstica.",240,225
+C01,cocina,E00364,Refrigerador,M00364,Whirlpool,MD0364,WRS325SDHZ,2021,"Refrigerador marca Whirlpool modelo WRS325SDHZ, ideal para cocina doméstica.",220,305
+C01,cocina,E00365,Tostadora,M00365,Oster,MD0365,TSSTTRJB30R,2025,"Tostadora marca Oster modelo TSSTTRJB30R, ideal para cocina doméstica.",120,819
+C01,cocina,E00366,Tostadora,M00366,Oster,MD0366,TSSTTRJB30R,2017,"Tostadora marca Oster modelo TSSTTRJB30R, ideal para cocina doméstica.",120,1064
+C01,cocina,E00367,Batidora,M00367,Philips,MD0367,HR3741/00,2021,"Batidora marca Philips modelo HR3741/00, ideal para cocina doméstica.",240,724
+C01,cocina,E00368,Microondas,M00368,Samsung,MD0368,MG402MADXBB,2021,"Microondas marca Samsung modelo MG402MADXBB, ideal para cocina doméstica.",240,867
+C01,cocina,E00369,Batidora,M00369,Oster,MD0369,FPSTSMPL1,2016,"Batidora marca Oster modelo FPSTSMPL1, ideal para cocina doméstica.",127,521
+C01,cocina,E00370,Refrigerador,M00370,Mabe,MD0370,RME360FYCU,2017,"Refrigerador marca Mabe modelo RME360FYCU, ideal para cocina doméstica.",240,276
+C01,cocina,E00371,Batidora,M00371,Hamilton Beach,MD0371,63391,2018,"Batidora marca Hamilton Beach modelo 63391, ideal para cocina doméstica.",120,203
+C01,cocina,E00372,Batidora,M00372,KitchenAid,MD0372,Artisan KSM150,2016,"Batidora marca KitchenAid modelo Artisan KSM150, ideal para cocina doméstica.",220,220
+C01,cocina,E00373,Licuadora,M00373,Black+Decker,MD0373,Crush Master BL2010BP,2018,"Licuadora marca Black+Decker modelo Crush Master BL2010BP, ideal para cocina doméstica.",220,766
+C01,cocina,E00374,Refrigerador,M00374,Samsung,MD0374,Family Hub RF28R7551SR,2025,"Refrigerador marca Samsung modelo Family Hub RF28R7551SR, ideal para cocina doméstica.",127,272
+C01,cocina,E00375,Batidora,M00375,Cuisinart,MD0375,SM-50BK,2016,"Batidora marca Cuisinart modelo SM-50BK, ideal para cocina doméstica.",220,370
+C01,cocina,E00376,Licuadora,M00376,Philips,MD0376,HR3652/00 Avance,2021,"Licuadora marca Philips modelo HR3652/00 Avance, ideal para cocina doméstica.",240,424
+C01,cocina,E00377,Licuadora,M00377,Philips,MD0377,HR3652/00 Avance,2024,"Licuadora marca Philips modelo HR3652/00 Avance, ideal para cocina doméstica.",120,768
+C01,cocina,E00378,Refrigerador,M00378,LG,MD0378,InstaView Door-in-Door,2019,"Refrigerador marca LG modelo InstaView Door-in-Door, ideal para cocina doméstica.",240,106
+C01,cocina,E00379,Licuadora,M00379,Oster,MD0379,Classic BLST4655,2024,"Licuadora marca Oster modelo Classic BLST4655, ideal para cocina doméstica.",120,585
+C01,cocina,E00380,Horno Electrico,M00380,Cuisinart,MD0380,TOB-260N1,2023,"Horno Electrico marca Cuisinart modelo TOB-260N1, ideal para cocina doméstica.",240,1884
+C01,cocina,E00381,Batidora,M00381,KitchenAid,MD0381,Artisan KSM150,2018,"Batidora marca KitchenAid modelo Artisan KSM150, ideal para cocina doméstica.",220,295
+C01,cocina,E00382,Tostadora,M00382,Breville,MD0382,BTA820XL,2020,"Tostadora marca Breville modelo BTA820XL, ideal para cocina doméstica.",120,847
+C01,cocina,E00383,Licuadora,M00383,Oster,MD0383,Classic BLST4655,2015,"Licuadora marca Oster modelo Classic BLST4655, ideal para cocina doméstica.",240,421
+C01,cocina,E00384,Horno Electrico,M00384,Hamilton Beach,MD0384,31103DA,2024,"Horno Electrico marca Hamilton Beach modelo 31103DA, ideal para cocina doméstica.",240,2041
+C01,cocina,E00385,Refrigerador,M00385,Whirlpool,MD0385,WRS325SDHZ,2022,"Refrigerador marca Whirlpool modelo WRS325SDHZ, ideal para cocina doméstica.",120,305
+C01,cocina,E00386,Microondas,M00386,Panasonic,MD0386,NN-SN966S,2016,"Microondas marca Panasonic modelo NN-SN966S, ideal para cocina doméstica.",240,953
+C01,cocina,E00387,Refrigerador,M00387,Whirlpool,MD0387,WRS325SDHZ,2018,"Refrigerador marca Whirlpool modelo WRS325SDHZ, ideal para cocina doméstica.",120,127
+C01,cocina,E00388,Cafetera,M00388,Mr. Coffee,MD0388,12-Cup Coffee Maker,2020,"Cafetera marca Mr. Coffee modelo 12-Cup Coffee Maker, ideal para cocina doméstica.",220,725
+C01,cocina,E00389,Cafetera,M00389,DeLonghi,MD0389,Magnifica ESAM3300,2025,"Cafetera marca DeLonghi modelo Magnifica ESAM3300, ideal para cocina doméstica.",240,1342
+C01,cocina,E00390,Tostadora,M00390,Oster,MD0390,TSSTTRJB30R,2021,"Tostadora marca Oster modelo TSSTTRJB30R, ideal para cocina doméstica.",220,1341
+C01,cocina,E00391,Cafetera,M00391,Nespresso,MD0391,VertuoPlus,2020,"Cafetera marca Nespresso modelo VertuoPlus, ideal para cocina doméstica.",220,1007
+C01,cocina,E00392,Cafetera,M00392,DeLonghi,MD0392,Magnifica ESAM3300,2024,"Cafetera marca DeLonghi modelo Magnifica ESAM3300, ideal para cocina doméstica.",127,1414
+C01,cocina,E00393,Cafetera,M00393,Hamilton Beach,MD0393,FlexBrew 49976,2024,"Cafetera marca Hamilton Beach modelo FlexBrew 49976, ideal para cocina doméstica.",220,1313
+C01,cocina,E00394,Refrigerador,M00394,Whirlpool,MD0394,WRS325SDHZ,2015,"Refrigerador marca Whirlpool modelo WRS325SDHZ, ideal para cocina doméstica.",240,320
+C01,cocina,E00395,Licuadora,M00395,Nutribullet,MD0395,Pro 900,2016,"Licuadora marca Nutribullet modelo Pro 900, ideal para cocina doméstica.",127,380
+C01,cocina,E00396,Tostadora,M00396,Black+Decker,MD0396,TR1278B,2019,"Tostadora marca Black+Decker modelo TR1278B, ideal para cocina doméstica.",220,1415
+C01,cocina,E00397,Horno Electrico,M00397,Breville,MD0397,BOV800XL,2018,"Horno Electrico marca Breville modelo BOV800XL, ideal para cocina doméstica.",240,1302
+C01,cocina,E00398,Tostadora,M00398,Oster,MD0398,TSSTTRJB30R,2020,"Tostadora marca Oster modelo TSSTTRJB30R, ideal para cocina doméstica.",220,864
+C01,cocina,E00399,Microondas,M00399,Panasonic,MD0399,NN-SN966S,2019,"Microondas marca Panasonic modelo NN-SN966S, ideal para cocina doméstica.",240,799
+C01,cocina,E00400,Tostadora,M00400,Black+Decker,MD0400,TR1278B,2015,"Tostadora marca Black+Decker modelo TR1278B, ideal para cocina doméstica.",127,1225
+C01,cocina,E00401,Cafetera,M00401,Hamilton Beach,MD0401,FlexBrew 49976,2025,"Cafetera marca Hamilton Beach modelo FlexBrew 49976, ideal para cocina doméstica.",127,725
+C01,cocina,E00402,Horno Electrico,M00402,Black+Decker,MD0402,TO3250XSB,2017,"Horno Electrico marca Black+Decker modelo TO3250XSB, ideal para cocina doméstica.",127,1017
+C01,cocina,E00403,Licuadora,M00403,Philips,MD0403,HR3652/00 Avance,2021,"Licuadora marca Philips modelo HR3652/00 Avance, ideal para cocina doméstica.",220,879
+C01,cocina,E00404,Licuadora,M00404,Oster,MD0404,Classic BLST4655,2017,"Licuadora marca Oster modelo Classic BLST4655, ideal para cocina doméstica.",220,1109
+C01,cocina,E00405,Refrigerador,M00405,Samsung,MD0405,Family Hub RF28R7551SR,2017,"Refrigerador marca Samsung modelo Family Hub RF28R7551SR, ideal para cocina doméstica.",240,375
+C01,cocina,E00406,Tostadora,M00406,Oster,MD0406,TSSTTRJB30R,2019,"Tostadora marca Oster modelo TSSTTRJB30R, ideal para cocina doméstica.",127,1323
+C01,cocina,E00407,Refrigerador,M00407,LG,MD0407,InstaView Door-in-Door,2018,"Refrigerador marca LG modelo InstaView Door-in-Door, ideal para cocina doméstica.",220,110
+C01,cocina,E00408,Batidora,M00408,Oster,MD0408,FPSTSMPL1,2017,"Batidora marca Oster modelo FPSTSMPL1, ideal para cocina doméstica.",120,303
+C01,cocina,E00409,Cafetera,M00409,Hamilton Beach,MD0409,FlexBrew 49976,2020,"Cafetera marca Hamilton Beach modelo FlexBrew 49976, ideal para cocina doméstica.",127,1178
+C01,cocina,E00410,Cafetera,M00410,Nespresso,MD0410,VertuoPlus,2024,"Cafetera marca Nespresso modelo VertuoPlus, ideal para cocina doméstica.",120,1174
+C01,cocina,E00411,Batidora,M00411,Oster,MD0411,FPSTSMPL1,2021,"Batidora marca Oster modelo FPSTSMPL1, ideal para cocina doméstica.",120,660
+C01,cocina,E00412,Licuadora,M00412,Black+Decker,MD0412,Crush Master BL2010BP,2022,"Licuadora marca Black+Decker modelo Crush Master BL2010BP, ideal para cocina doméstica.",127,623
+C01,cocina,E00413,Tostadora,M00413,Cuisinart,MD0413,CPT-180,2015,"Tostadora marca Cuisinart modelo CPT-180, ideal para cocina doméstica.",220,842
+C01,cocina,E00414,Licuadora,M00414,Nutribullet,MD0414,Pro 900,2015,"Licuadora marca Nutribullet modelo Pro 900, ideal para cocina doméstica.",240,793
+C01,cocina,E00415,Refrigerador,M00415,Samsung,MD0415,Family Hub RF28R7551SR,2017,"Refrigerador marca Samsung modelo Family Hub RF28R7551SR, ideal para cocina doméstica.",120,181
+C01,cocina,E00416,Tostadora,M00416,Hamilton Beach,MD0416,22796,2021,"Tostadora marca Hamilton Beach modelo 22796, ideal para cocina doméstica.",120,1222
+C01,cocina,E00417,Tostadora,M00417,Breville,MD0417,BTA820XL,2021,"Tostadora marca Breville modelo BTA820XL, ideal para cocina doméstica.",120,1391
+C01,cocina,E00418,Horno Electrico,M00418,Breville,MD0418,BOV800XL,2018,"Horno Electrico marca Breville modelo BOV800XL, ideal para cocina doméstica.",120,1638
+C01,cocina,E00419,Batidora,M00419,KitchenAid,MD0419,Artisan KSM150,2016,"Batidora marca KitchenAid modelo Artisan KSM150, ideal para cocina doméstica.",120,341
+C01,cocina,E00420,Batidora,M00420,Hamilton Beach,MD0420,63391,2018,"Batidora marca Hamilton Beach modelo 63391, ideal para cocina doméstica.",120,156
+C01,cocina,E00421,Cafetera,M00421,Keurig,MD0421,K-Elite,2024,"Cafetera marca Keurig modelo K-Elite, ideal para cocina doméstica.",240,1370
+C01,cocina,E00422,Horno Electrico,M00422,Oster,MD0422,TSSTTVMNDG,2023,"Horno Electrico marca Oster modelo TSSTTVMNDG, ideal para cocina doméstica.",220,1733
+C01,cocina,E00423,Licuadora,M00423,Nutribullet,MD0423,Pro 900,2017,"Licuadora marca Nutribullet modelo Pro 900, ideal para cocina doméstica.",120,671
+C01,cocina,E00424,Refrigerador,M00424,LG,MD0424,InstaView Door-in-Door,2015,"Refrigerador marca LG modelo InstaView Door-in-Door, ideal para cocina doméstica.",240,250
+C01,cocina,E00425,Tostadora,M00425,Hamilton Beach,MD0425,22796,2022,"Tostadora marca Hamilton Beach modelo 22796, ideal para cocina doméstica.",240,895
+C01,cocina,E00426,Tostadora,M00426,Cuisinart,MD0426,CPT-180,2025,"Tostadora marca Cuisinart modelo CPT-180, ideal para cocina doméstica.",240,1331
+C01,cocina,E00427,Cafetera,M00427,DeLonghi,MD0427,Magnifica ESAM3300,2025,"Cafetera marca DeLonghi modelo Magnifica ESAM3300, ideal para cocina doméstica.",220,836
+C01,cocina,E00428,Microondas,M00428,Samsung,MD0428,MG402MADXBB,2016,"Microondas marca Samsung modelo MG402MADXBB, ideal para cocina doméstica.",220,1016
+C01,cocina,E00429,Refrigerador,M00429,Samsung,MD0429,Family Hub RF28R7551SR,2015,"Refrigerador marca Samsung modelo Family Hub RF28R7551SR, ideal para cocina doméstica.",127,113
+C01,cocina,E00430,Horno Electrico,M00430,Oster,MD0430,TSSTTVMNDG,2019,"Horno Electrico marca Oster modelo TSSTTVMNDG, ideal para cocina doméstica.",220,2469
+C01,cocina,E00431,Tostadora,M00431,Breville,MD0431,BTA820XL,2023,"Tostadora marca Breville modelo BTA820XL, ideal para cocina doméstica.",240,1335
+C01,cocina,E00432,Licuadora,M00432,Black+Decker,MD0432,Crush Master BL2010BP,2025,"Licuadora marca Black+Decker modelo Crush Master BL2010BP, ideal para cocina doméstica.",220,1028
+C01,cocina,E00433,Refrigerador,M00433,Mabe,MD0433,RME360FYCU,2022,"Refrigerador marca Mabe modelo RME360FYCU, ideal para cocina doméstica.",240,202
+C01,cocina,E00434,Licuadora,M00434,Black+Decker,MD0434,Crush Master BL2010BP,2021,"Licuadora marca Black+Decker modelo Crush Master BL2010BP, ideal para cocina doméstica.",120,1054
+C01,cocina,E00435,Licuadora,M00435,Philips,MD0435,HR3652/00 Avance,2021,"Licuadora marca Philips modelo HR3652/00 Avance, ideal para cocina doméstica.",127,816
+C01,cocina,E00436,Batidora,M00436,Cuisinart,MD0436,SM-50BK,2023,"Batidora marca Cuisinart modelo SM-50BK, ideal para cocina doméstica.",127,445
+C01,cocina,E00437,Refrigerador,M00437,Mabe,MD0437,RME360FYCU,2024,"Refrigerador marca Mabe modelo RME360FYCU, ideal para cocina doméstica.",120,381
+C01,cocina,E00438,Horno Electrico,M00438,Breville,MD0438,BOV800XL,2015,"Horno Electrico marca Breville modelo BOV800XL, ideal para cocina doméstica.",240,1115
+C01,cocina,E00439,Licuadora,M00439,Black+Decker,MD0439,Crush Master BL2010BP,2022,"Licuadora marca Black+Decker modelo Crush Master BL2010BP, ideal para cocina doméstica.",127,545
+C01,cocina,E00440,Licuadora,M00440,Nutribullet,MD0440,Pro 900,2022,"Licuadora marca Nutribullet modelo Pro 900, ideal para cocina doméstica.",220,459
+C03,entretenimiento,E00441,Televisor,M00441,TCL,MD0441,6-Series R635,2016,"Televisor marca TCL modelo 6-Series R635, ideal para entretenimiento.",110,150
+C03,entretenimiento,E00442,Consola de Videojuegos,M00442,Microsoft,MD0442,Xbox One X,2024,"Consola de Videojuegos marca Microsoft modelo Xbox One X, ideal para entretenimiento.",127,194
+C03,entretenimiento,E00443,Laptop Gamer,M00443,Razer,MD0443,Blade 15,2024,"Laptop Gamer marca Razer modelo Blade 15, ideal para entretenimiento.",220,188
+C03,entretenimiento,E00444,Televisor,M00444,Sony,MD0444,Bravia X900H,2018,"Televisor marca Sony modelo Bravia X900H, ideal para entretenimiento.",120,118
+C03,entretenimiento,E00445,Teatro en Casa,M00445,Onkyo,MD0445,HT-S3910,2018,"Teatro en Casa marca Onkyo modelo HT-S3910, ideal para entretenimiento.",110,852
+C03,entretenimiento,E00446,Tablet,M00446,Samsung,MD0446,Galaxy Tab S7+,2016,"Tablet marca Samsung modelo Galaxy Tab S7+, ideal para entretenimiento.",127,18
+C03,entretenimiento,E00447,Barra de Sonido,M00447,Samsung,MD0447,HW-Q950A,2023,"Barra de Sonido marca Samsung modelo HW-Q950A, ideal para entretenimiento.",110,243
+C03,entretenimiento,E00448,Consola de Videojuegos,M00448,Sony,MD0448,PlayStation 5,2024,"Consola de Videojuegos marca Sony modelo PlayStation 5, ideal para entretenimiento.",127,159
+C03,entretenimiento,E00449,Laptop Gamer,M00449,MSI,MD0449,GE76 Raider,2017,"Laptop Gamer marca MSI modelo GE76 Raider, ideal para entretenimiento.",110,103
+C03,entretenimiento,E00450,Laptop Gamer,M00450,Razer,MD0450,Blade 15,2017,"Laptop Gamer marca Razer modelo Blade 15, ideal para entretenimiento.",127,107
+C03,entretenimiento,E00451,Laptop Gamer,M00451,Acer,MD0451,Predator Helios 300,2017,"Laptop Gamer marca Acer modelo Predator Helios 300, ideal para entretenimiento.",120,276
+C03,entretenimiento,E00452,Consola de Videojuegos,M00452,Sony,MD0452,PlayStation 4 Pro,2020,"Consola de Videojuegos marca Sony modelo PlayStation 4 Pro, ideal para entretenimiento.",110,90
+C03,entretenimiento,E00453,Laptop Gamer,M00453,HP,MD0453,Omen 15,2025,"Laptop Gamer marca HP modelo Omen 15, ideal para entretenimiento.",120,173
+C03,entretenimiento,E00454,Barra de Sonido,M00454,LG,MD0454,SN11RG,2023,"Barra de Sonido marca LG modelo SN11RG, ideal para entretenimiento.",110,382
+C03,entretenimiento,E00455,Proyector,M00455,BenQ,MD0455,HT2050A,2020,"Proyector marca BenQ modelo HT2050A, ideal para entretenimiento.",120,321
+C03,entretenimiento,E00456,Televisor,M00456,TCL,MD0456,6-Series R635,2025,"Televisor marca TCL modelo 6-Series R635, ideal para entretenimiento.",220,144
+C03,entretenimiento,E00457,Tablet,M00457,Lenovo,MD0457,Tab P11 Pro,2020,"Tablet marca Lenovo modelo Tab P11 Pro, ideal para entretenimiento.",220,39
+C03,entretenimiento,E00458,Laptop Gamer,M00458,Asus,MD0458,ROG Zephyrus G14,2018,"Laptop Gamer marca Asus modelo ROG Zephyrus G14, ideal para entretenimiento.",110,113
+C03,entretenimiento,E00459,Proyector,M00459,LG,MD0459,CineBeam HU70LA,2023,"Proyector marca LG modelo CineBeam HU70LA, ideal para entretenimiento.",120,361
+C03,entretenimiento,E00460,Tablet,M00460,Amazon,MD0460,Fire HD 10,2015,"Tablet marca Amazon modelo Fire HD 10, ideal para entretenimiento.",220,26
+C03,entretenimiento,E00461,Televisor,M00461,LG,MD0461,OLED CX,2020,"Televisor marca LG modelo OLED CX, ideal para entretenimiento.",127,95
+C03,entretenimiento,E00462,Tablet,M00462,Microsoft,MD0462,Surface Go 3,2021,"Tablet marca Microsoft modelo Surface Go 3, ideal para entretenimiento.",220,16
+C03,entretenimiento,E00463,Teatro en Casa,M00463,Yamaha,MD0463,YHT-4950U,2018,"Teatro en Casa marca Yamaha modelo YHT-4950U, ideal para entretenimiento.",110,794
+C03,entretenimiento,E00464,Tablet,M00464,Apple,MD0464,iPad Pro 12.9,2017,"Tablet marca Apple modelo iPad Pro 12.9, ideal para entretenimiento.",220,39
+C03,entretenimiento,E00465,Barra de Sonido,M00465,Samsung,MD0465,HW-Q950A,2025,"Barra de Sonido marca Samsung modelo HW-Q950A, ideal para entretenimiento.",110,43
+C03,entretenimiento,E00466,Teatro en Casa,M00466,Denon,MD0466,AVR-S750H,2022,"Teatro en Casa marca Denon modelo AVR-S750H, ideal para entretenimiento.",220,662
+C03,entretenimiento,E00467,Proyector,M00467,Epson,MD0467,Home Cinema 2150,2021,"Proyector marca Epson modelo Home Cinema 2150, ideal para entretenimiento.",120,311
+C03,entretenimiento,E00468,Proyector,M00468,Epson,MD0468,Home Cinema 2150,2024,"Proyector marca Epson modelo Home Cinema 2150, ideal para entretenimiento.",120,388
+C03,entretenimiento,E00469,Teatro en Casa,M00469,Pioneer,MD0469,HTP-076,2017,"Teatro en Casa marca Pioneer modelo HTP-076, ideal para entretenimiento.",120,462
+C03,entretenimiento,E00470,Laptop Gamer,M00470,HP,MD0470,Omen 15,2025,"Laptop Gamer marca HP modelo Omen 15, ideal para entretenimiento.",110,127
+C03,entretenimiento,E00471,Tablet,M00471,Amazon,MD0471,Fire HD 10,2023,"Tablet marca Amazon modelo Fire HD 10, ideal para entretenimiento.",110,41
+C03,entretenimiento,E00472,Consola de Videojuegos,M00472,Nintendo,MD0472,Switch OLED,2019,"Consola de Videojuegos marca Nintendo modelo Switch OLED, ideal para entretenimiento.",127,156
+C03,entretenimiento,E00473,Tablet,M00473,Samsung,MD0473,Galaxy Tab S7+,2017,"Tablet marca Samsung modelo Galaxy Tab S7+, ideal para entretenimiento.",220,39
+C03,entretenimiento,E00474,Teatro en Casa,M00474,Yamaha,MD0474,YHT-4950U,2023,"Teatro en Casa marca Yamaha modelo YHT-4950U, ideal para entretenimiento.",220,638
+C03,entretenimiento,E00475,Proyector,M00475,Optoma,MD0475,HD146X,2017,"Proyector marca Optoma modelo HD146X, ideal para entretenimiento.",110,239
+C03,entretenimiento,E00476,Laptop Gamer,M00476,Razer,MD0476,Blade 15,2023,"Laptop Gamer marca Razer modelo Blade 15, ideal para entretenimiento.",110,196
+C03,entretenimiento,E00477,Proyector,M00477,LG,MD0477,CineBeam HU70LA,2018,"Proyector marca LG modelo CineBeam HU70LA, ideal para entretenimiento.",220,173
+C03,entretenimiento,E00478,Televisor,M00478,Hisense,MD0478,U8G,2025,"Televisor marca Hisense modelo U8G, ideal para entretenimiento.",120,222
+C03,entretenimiento,E00479,Consola de Videojuegos,M00479,Microsoft,MD0479,Xbox One X,2022,"Consola de Videojuegos marca Microsoft modelo Xbox One X, ideal para entretenimiento.",110,83
+C03,entretenimiento,E00480,Laptop Gamer,M00480,Razer,MD0480,Blade 15,2021,"Laptop Gamer marca Razer modelo Blade 15, ideal para entretenimiento.",110,137
+C03,entretenimiento,E00481,Barra de Sonido,M00481,JBL,MD0481,Bar 9.1,2020,"Barra de Sonido marca JBL modelo Bar 9.1, ideal para entretenimiento.",110,482
+C03,entretenimiento,E00482,Tablet,M00482,Samsung,MD0482,Galaxy Tab S7+,2021,"Tablet marca Samsung modelo Galaxy Tab S7+, ideal para entretenimiento.",120,13
+C03,entretenimiento,E00483,Barra de Sonido,M00483,LG,MD0483,SN11RG,2020,"Barra de Sonido marca LG modelo SN11RG, ideal para entretenimiento.",120,242
+C03,entretenimiento,E00484,Barra de Sonido,M00484,Bose,MD0484,Smart Soundbar 700,2025,"Barra de Sonido marca Bose modelo Smart Soundbar 700, ideal para entretenimiento.",127,261
+C03,entretenimiento,E00485,Consola de Videojuegos,M00485,Microsoft,MD0485,Xbox Series X,2021,"Consola de Videojuegos marca Microsoft modelo Xbox Series X, ideal para entretenimiento.",110,194
+C03,entretenimiento,E00486,Televisor,M00486,TCL,MD0486,6-Series R635,2025,"Televisor marca TCL modelo 6-Series R635, ideal para entretenimiento.",120,201
+C03,entretenimiento,E00487,Laptop Gamer,M00487,Asus,MD0487,ROG Zephyrus G14,2023,"Laptop Gamer marca Asus modelo ROG Zephyrus G14, ideal para entretenimiento.",127,103
+C03,entretenimiento,E00488,Proyector,M00488,Xiaomi,MD0488,Mi Smart Projector 2 Pro,2017,"Proyector marca Xiaomi modelo Mi Smart Projector 2 Pro, ideal para entretenimiento.",220,383
+C03,entretenimiento,E00489,Consola de Videojuegos,M00489,Sony,MD0489,PlayStation 4 Pro,2015,"Consola de Videojuegos marca Sony modelo PlayStation 4 Pro, ideal para entretenimiento.",127,223
+C03,entretenimiento,E00490,Laptop Gamer,M00490,Razer,MD0490,Blade 15,2017,"Laptop Gamer marca Razer modelo Blade 15, ideal para entretenimiento.",120,119
+C03,entretenimiento,E00491,Proyector,M00491,Optoma,MD0491,HD146X,2018,"Proyector marca Optoma modelo HD146X, ideal para entretenimiento.",127,333
+C03,entretenimiento,E00492,Tablet,M00492,Samsung,MD0492,Galaxy Tab S7+,2021,"Tablet marca Samsung modelo Galaxy Tab S7+, ideal para entretenimiento.",110,26
+C03,entretenimiento,E00493,Televisor,M00493,Hisense,MD0493,U8G,2025,"Televisor marca Hisense modelo U8G, ideal para entretenimiento.",220,216
+C03,entretenimiento,E00494,Proyector,M00494,BenQ,MD0494,HT2050A,2022,"Proyector marca BenQ modelo HT2050A, ideal para entretenimiento.",110,264
+C03,entretenimiento,E00495,Laptop Gamer,M00495,HP,MD0495,Omen 15,2018,"Laptop Gamer marca HP modelo Omen 15, ideal para entretenimiento.",110,193
+C03,entretenimiento,E00496,Proyector,M00496,Epson,MD0496,Home Cinema 2150,2015,"Proyector marca Epson modelo Home Cinema 2150, ideal para entretenimiento.",220,198
+C03,entretenimiento,E00497,Proyector,M00497,Epson,MD0497,Home Cinema 2150,2019,"Proyector marca Epson modelo Home Cinema 2150, ideal para entretenimiento.",220,296
+C03,entretenimiento,E00498,Barra de Sonido,M00498,Samsung,MD0498,HW-Q950A,2022,"Barra de Sonido marca Samsung modelo HW-Q950A, ideal para entretenimiento.",110,232
+C03,entretenimiento,E00499,Laptop Gamer,M00499,MSI,MD0499,GE76 Raider,2017,"Laptop Gamer marca MSI modelo GE76 Raider, ideal para entretenimiento.",127,222
+C03,entretenimiento,E00500,Tablet,M00500,Lenovo,MD0500,Tab P11 Pro,2022,"Tablet marca Lenovo modelo Tab P11 Pro, ideal para entretenimiento.",127,36
+C03,entretenimiento,E00501,Proyector,M00501,Epson,MD0501,Home Cinema 2150,2018,"Proyector marca Epson modelo Home Cinema 2150, ideal para entretenimiento.",127,362
+C03,entretenimiento,E00502,Barra de Sonido,M00502,Bose,MD0502,Smart Soundbar 700,2024,"Barra de Sonido marca Bose modelo Smart Soundbar 700, ideal para entretenimiento.",110,106
+C03,entretenimiento,E00503,Barra de Sonido,M00503,Bose,MD0503,Smart Soundbar 700,2017,"Barra de Sonido marca Bose modelo Smart Soundbar 700, ideal para entretenimiento.",120,439
+C03,entretenimiento,E00504,Tablet,M00504,Lenovo,MD0504,Tab P11 Pro,2015,"Tablet marca Lenovo modelo Tab P11 Pro, ideal para entretenimiento.",110,49
+C03,entretenimiento,E00505,Proyector,M00505,LG,MD0505,CineBeam HU70LA,2019,"Proyector marca LG modelo CineBeam HU70LA, ideal para entretenimiento.",120,375
+C03,entretenimiento,E00506,Barra de Sonido,M00506,Samsung,MD0506,HW-Q950A,2015,"Barra de Sonido marca Samsung modelo HW-Q950A, ideal para entretenimiento.",120,68
+C03,entretenimiento,E00507,Barra de Sonido,M00507,Samsung,MD0507,HW-Q950A,2021,"Barra de Sonido marca Samsung modelo HW-Q950A, ideal para entretenimiento.",110,252
+C03,entretenimiento,E00508,Televisor,M00508,Sony,MD0508,Bravia X900H,2023,"Televisor marca Sony modelo Bravia X900H, ideal para entretenimiento.",220,259
+C03,entretenimiento,E00509,Tablet,M00509,Apple,MD0509,iPad Pro 12.9,2023,"Tablet marca Apple modelo iPad Pro 12.9, ideal para entretenimiento.",110,27
+C03,entretenimiento,E00510,Laptop Gamer,M00510,MSI,MD0510,GE76 Raider,2018,"Laptop Gamer marca MSI modelo GE76 Raider, ideal para entretenimiento.",220,146
+C03,entretenimiento,E00511,Tablet,M00511,Samsung,MD0511,Galaxy Tab S7+,2022,"Tablet marca Samsung modelo Galaxy Tab S7+, ideal para entretenimiento.",120,28
+C03,entretenimiento,E00512,Barra de Sonido,M00512,JBL,MD0512,Bar 9.1,2020,"Barra de Sonido marca JBL modelo Bar 9.1, ideal para entretenimiento.",110,109
+C03,entretenimiento,E00513,Laptop Gamer,M00513,MSI,MD0513,GE76 Raider,2021,"Laptop Gamer marca MSI modelo GE76 Raider, ideal para entretenimiento.",127,154
+C03,entretenimiento,E00514,Laptop Gamer,M00514,MSI,MD0514,GE76 Raider,2020,"Laptop Gamer marca MSI modelo GE76 Raider, ideal para entretenimiento.",220,219
+C03,entretenimiento,E00515,Laptop Gamer,M00515,Razer,MD0515,Blade 15,2023,"Laptop Gamer marca Razer modelo Blade 15, ideal para entretenimiento.",127,171
+C03,entretenimiento,E00516,Proyector,M00516,Epson,MD0516,Home Cinema 2150,2020,"Proyector marca Epson modelo Home Cinema 2150, ideal para entretenimiento.",110,342
+C03,entretenimiento,E00517,Consola de Videojuegos,M00517,Microsoft,MD0517,Xbox One X,2018,"Consola de Videojuegos marca Microsoft modelo Xbox One X, ideal para entretenimiento.",127,244
+C03,entretenimiento,E00518,Tablet,M00518,Samsung,MD0518,Galaxy Tab S7+,2021,"Tablet marca Samsung modelo Galaxy Tab S7+, ideal para entretenimiento.",110,25
+C03,entretenimiento,E00519,Televisor,M00519,Hisense,MD0519,U8G,2020,"Televisor marca Hisense modelo U8G, ideal para entretenimiento.",127,256
+C03,entretenimiento,E00520,Tablet,M00520,Apple,MD0520,iPad Pro 12.9,2025,"Tablet marca Apple modelo iPad Pro 12.9, ideal para entretenimiento.",220,47
+C03,entretenimiento,E00521,Proyector,M00521,Optoma,MD0521,HD146X,2024,"Proyector marca Optoma modelo HD146X, ideal para entretenimiento.",120,379
+C03,entretenimiento,E00522,Televisor,M00522,TCL,MD0522,6-Series R635,2019,"Televisor marca TCL modelo 6-Series R635, ideal para entretenimiento.",220,208
+C03,entretenimiento,E00523,Tablet,M00523,Amazon,MD0523,Fire HD 10,2022,"Tablet marca Amazon modelo Fire HD 10, ideal para entretenimiento.",220,38
+C03,entretenimiento,E00524,Televisor,M00524,TCL,MD0524,6-Series R635,2023,"Televisor marca TCL modelo 6-Series R635, ideal para entretenimiento.",220,193
+C03,entretenimiento,E00525,Tablet,M00525,Lenovo,MD0525,Tab P11 Pro,2017,"Tablet marca Lenovo modelo Tab P11 Pro, ideal para entretenimiento.",120,24
+C03,entretenimiento,E00526,Consola de Videojuegos,M00526,Sony,MD0526,PlayStation 4 Pro,2023,"Consola de Videojuegos marca Sony modelo PlayStation 4 Pro, ideal para entretenimiento.",127,116
+C03,entretenimiento,E00527,Televisor,M00527,TCL,MD0527,6-Series R635,2024,"Televisor marca TCL modelo 6-Series R635, ideal para entretenimiento.",220,231
+C03,entretenimiento,E00528,Televisor,M00528,Samsung,MD0528,QLED Q80T,2018,"Televisor marca Samsung modelo QLED Q80T, ideal para entretenimiento.",110,100
+C03,entretenimiento,E00529,Laptop Gamer,M00529,Acer,MD0529,Predator Helios 300,2016,"Laptop Gamer marca Acer modelo Predator Helios 300, ideal para entretenimiento.",110,268
+C03,entretenimiento,E00530,Televisor,M00530,Hisense,MD0530,U8G,2021,"Televisor marca Hisense modelo U8G, ideal para entretenimiento.",110,246
+C03,entretenimiento,E00531,Teatro en Casa,M00531,Onkyo,MD0531,HT-S3910,2017,"Teatro en Casa marca Onkyo modelo HT-S3910, ideal para entretenimiento.",220,268
+C03,entretenimiento,E00532,Televisor,M00532,Hisense,MD0532,U8G,2015,"Televisor marca Hisense modelo U8G, ideal para entretenimiento.",127,237
+C03,entretenimiento,E00533,Televisor,M00533,TCL,MD0533,6-Series R635,2018,"Televisor marca TCL modelo 6-Series R635, ideal para entretenimiento.",220,297
+C03,entretenimiento,E00534,Tablet,M00534,Amazon,MD0534,Fire HD 10,2017,"Tablet marca Amazon modelo Fire HD 10, ideal para entretenimiento.",120,21
+C03,entretenimiento,E00535,Consola de Videojuegos,M00535,Microsoft,MD0535,Xbox Series X,2016,"Consola de Videojuegos marca Microsoft modelo Xbox Series X, ideal para entretenimiento.",127,107
+C03,entretenimiento,E00536,Laptop Gamer,M00536,Razer,MD0536,Blade 15,2019,"Laptop Gamer marca Razer modelo Blade 15, ideal para entretenimiento.",110,174
+C03,entretenimiento,E00537,Laptop Gamer,M00537,Asus,MD0537,ROG Zephyrus G14,2016,"Laptop Gamer marca Asus modelo ROG Zephyrus G14, ideal para entretenimiento.",127,265
+C03,entretenimiento,E00538,Laptop Gamer,M00538,Asus,MD0538,ROG Zephyrus G14,2016,"Laptop Gamer marca Asus modelo ROG Zephyrus G14, ideal para entretenimiento.",120,282
+C03,entretenimiento,E00539,Barra de Sonido,M00539,LG,MD0539,SN11RG,2018,"Barra de Sonido marca LG modelo SN11RG, ideal para entretenimiento.",110,475
+C03,entretenimiento,E00540,Teatro en Casa,M00540,Pioneer,MD0540,HTP-076,2025,"Teatro en Casa marca Pioneer modelo HTP-076, ideal para entretenimiento.",220,231
+C03,entretenimiento,E00541,Teatro en Casa,M00541,Onkyo,MD0541,HT-S3910,2023,"Teatro en Casa marca Onkyo modelo HT-S3910, ideal para entretenimiento.",220,538
+C03,entretenimiento,E00542,Televisor,M00542,Samsung,MD0542,QLED Q80T,2021,"Televisor marca Samsung modelo QLED Q80T, ideal para entretenimiento.",120,107
+C03,entretenimiento,E00543,Laptop Gamer,M00543,Acer,MD0543,Predator Helios 300,2023,"Laptop Gamer marca Acer modelo Predator Helios 300, ideal para entretenimiento.",127,189
+C03,entretenimiento,E00544,Teatro en Casa,M00544,Yamaha,MD0544,YHT-4950U,2021,"Teatro en Casa marca Yamaha modelo YHT-4950U, ideal para entretenimiento.",127,571
+C03,entretenimiento,E00545,Televisor,M00545,Sony,MD0545,Bravia X900H,2020,"Televisor marca Sony modelo Bravia X900H, ideal para entretenimiento.",110,97
+C03,entretenimiento,E00546,Televisor,M00546,Samsung,MD0546,QLED Q80T,2025,"Televisor marca Samsung modelo QLED Q80T, ideal para entretenimiento.",110,97
+C03,entretenimiento,E00547,Proyector,M00547,Xiaomi,MD0547,Mi Smart Projector 2 Pro,2024,"Proyector marca Xiaomi modelo Mi Smart Projector 2 Pro, ideal para entretenimiento.",120,160
+C03,entretenimiento,E00548,Barra de Sonido,M00548,Sony,MD0548,HT-G700,2021,"Barra de Sonido marca Sony modelo HT-G700, ideal para entretenimiento.",220,277
+C03,entretenimiento,E00549,Tablet,M00549,Samsung,MD0549,Galaxy Tab S7+,2017,"Tablet marca Samsung modelo Galaxy Tab S7+, ideal para entretenimiento.",220,34
+C03,entretenimiento,E00550,Consola de Videojuegos,M00550,Sony,MD0550,PlayStation 5,2015,"Consola de Videojuegos marca Sony modelo PlayStation 5, ideal para entretenimiento.",110,236
+C03,entretenimiento,E00551,Laptop Gamer,M00551,Acer,MD0551,Predator Helios 300,2021,"Laptop Gamer marca Acer modelo Predator Helios 300, ideal para entretenimiento.",110,278
+C03,entretenimiento,E00552,Televisor,M00552,Samsung,MD0552,QLED Q80T,2019,"Televisor marca Samsung modelo QLED Q80T, ideal para entretenimiento.",127,77
+C03,entretenimiento,E00553,Proyector,M00553,Optoma,MD0553,HD146X,2024,"Proyector marca Optoma modelo HD146X, ideal para entretenimiento.",127,263
+C03,entretenimiento,E00554,Televisor,M00554,Hisense,MD0554,U8G,2016,"Televisor marca Hisense modelo U8G, ideal para entretenimiento.",110,147
+C03,entretenimiento,E00555,Proyector,M00555,Epson,MD0555,Home Cinema 2150,2020,"Proyector marca Epson modelo Home Cinema 2150, ideal para entretenimiento.",127,262
+C03,entretenimiento,E00556,Proyector,M00556,Optoma,MD0556,HD146X,2015,"Proyector marca Optoma modelo HD146X, ideal para entretenimiento.",120,224
+C03,entretenimiento,E00557,Laptop Gamer,M00557,HP,MD0557,Omen 15,2017,"Laptop Gamer marca HP modelo Omen 15, ideal para entretenimiento.",110,215
+C03,entretenimiento,E00558,Tablet,M00558,Lenovo,MD0558,Tab P11 Pro,2025,"Tablet marca Lenovo modelo Tab P11 Pro, ideal para entretenimiento.",120,40
+C03,entretenimiento,E00559,Consola de Videojuegos,M00559,Sony,MD0559,PlayStation 4 Pro,2017,"Consola de Videojuegos marca Sony modelo PlayStation 4 Pro, ideal para entretenimiento.",120,160
+C03,entretenimiento,E00560,Teatro en Casa,M00560,Onkyo,MD0560,HT-S3910,2018,"Teatro en Casa marca Onkyo modelo HT-S3910, ideal para entretenimiento.",120,285
+C03,entretenimiento,E00561,Proyector,M00561,Xiaomi,MD0561,Mi Smart Projector 2 Pro,2018,"Proyector marca Xiaomi modelo Mi Smart Projector 2 Pro, ideal para entretenimiento.",110,220
+C03,entretenimiento,E00562,Consola de Videojuegos,M00562,Microsoft,MD0562,Xbox One X,2021,"Consola de Videojuegos marca Microsoft modelo Xbox One X, ideal para entretenimiento.",110,132
+C03,entretenimiento,E00563,Tablet,M00563,Microsoft,MD0563,Surface Go 3,2021,"Tablet marca Microsoft modelo Surface Go 3, ideal para entretenimiento.",127,48
+C03,entretenimiento,E00564,Laptop Gamer,M00564,MSI,MD0564,GE76 Raider,2017,"Laptop Gamer marca MSI modelo GE76 Raider, ideal para entretenimiento.",120,195
+C03,entretenimiento,E00565,Proyector,M00565,Optoma,MD0565,HD146X,2019,"Proyector marca Optoma modelo HD146X, ideal para entretenimiento.",110,302
+C03,entretenimiento,E00566,Laptop Gamer,M00566,MSI,MD0566,GE76 Raider,2017,"Laptop Gamer marca MSI modelo GE76 Raider, ideal para entretenimiento.",220,294
+C03,entretenimiento,E00567,Proyector,M00567,Optoma,MD0567,HD146X,2019,"Proyector marca Optoma modelo HD146X, ideal para entretenimiento.",220,316
+C03,entretenimiento,E00568,Televisor,M00568,TCL,MD0568,6-Series R635,2025,"Televisor marca TCL modelo 6-Series R635, ideal para entretenimiento.",110,153
+C03,entretenimiento,E00569,Barra de Sonido,M00569,Bose,MD0569,Smart Soundbar 700,2022,"Barra de Sonido marca Bose modelo Smart Soundbar 700, ideal para entretenimiento.",120,312
+C03,entretenimiento,E00570,Laptop Gamer,M00570,Acer,MD0570,Predator Helios 300,2018,"Laptop Gamer marca Acer modelo Predator Helios 300, ideal para entretenimiento.",220,271
+C03,entretenimiento,E00571,Barra de Sonido,M00571,JBL,MD0571,Bar 9.1,2020,"Barra de Sonido marca JBL modelo Bar 9.1, ideal para entretenimiento.",120,387
+C03,entretenimiento,E00572,Laptop Gamer,M00572,HP,MD0572,Omen 15,2020,"Laptop Gamer marca HP modelo Omen 15, ideal para entretenimiento.",220,268
+C03,entretenimiento,E00573,Proyector,M00573,BenQ,MD0573,HT2050A,2021,"Proyector marca BenQ modelo HT2050A, ideal para entretenimiento.",127,310
+C03,entretenimiento,E00574,Consola de Videojuegos,M00574,Microsoft,MD0574,Xbox One X,2025,"Consola de Videojuegos marca Microsoft modelo Xbox One X, ideal para entretenimiento.",127,175
+C03,entretenimiento,E00575,Laptop Gamer,M00575,Acer,MD0575,Predator Helios 300,2022,"Laptop Gamer marca Acer modelo Predator Helios 300, ideal para entretenimiento.",127,193
+C03,entretenimiento,E00576,Televisor,M00576,TCL,MD0576,6-Series R635,2020,"Televisor marca TCL modelo 6-Series R635, ideal para entretenimiento.",110,70
+C03,entretenimiento,E00577,Tablet,M00577,Microsoft,MD0577,Surface Go 3,2024,"Tablet marca Microsoft modelo Surface Go 3, ideal para entretenimiento.",110,47
+C03,entretenimiento,E00578,Consola de Videojuegos,M00578,Microsoft,MD0578,Xbox Series X,2019,"Consola de Videojuegos marca Microsoft modelo Xbox Series X, ideal para entretenimiento.",110,219
+C03,entretenimiento,E00579,Televisor,M00579,LG,MD0579,OLED CX,2017,"Televisor marca LG modelo OLED CX, ideal para entretenimiento.",220,213
+C03,entretenimiento,E00580,Televisor,M00580,TCL,MD0580,6-Series R635,2025,"Televisor marca TCL modelo 6-Series R635, ideal para entretenimiento.",220,277
+C03,entretenimiento,E00581,Televisor,M00581,LG,MD0581,OLED CX,2024,"Televisor marca LG modelo OLED CX, ideal para entretenimiento.",127,110
+C03,entretenimiento,E00582,Consola de Videojuegos,M00582,Sony,MD0582,PlayStation 4 Pro,2017,"Consola de Videojuegos marca Sony modelo PlayStation 4 Pro, ideal para entretenimiento.",120,93
+C03,entretenimiento,E00583,Consola de Videojuegos,M00583,Microsoft,MD0583,Xbox One X,2021,"Consola de Videojuegos marca Microsoft modelo Xbox One X, ideal para entretenimiento.",120,222
+C03,entretenimiento,E00584,Televisor,M00584,Hisense,MD0584,U8G,2016,"Televisor marca Hisense modelo U8G, ideal para entretenimiento.",120,163
+C03,entretenimiento,E00585,Televisor,M00585,Hisense,MD0585,U8G,2017,"Televisor marca Hisense modelo U8G, ideal para entretenimiento.",110,226
+C03,entretenimiento,E00586,Barra de Sonido,M00586,Samsung,MD0586,HW-Q950A,2016,"Barra de Sonido marca Samsung modelo HW-Q950A, ideal para entretenimiento.",110,416
+C03,entretenimiento,E00587,Barra de Sonido,M00587,LG,MD0587,SN11RG,2022,"Barra de Sonido marca LG modelo SN11RG, ideal para entretenimiento.",120,113
+C03,entretenimiento,E00588,Teatro en Casa,M00588,Denon,MD0588,AVR-S750H,2020,"Teatro en Casa marca Denon modelo AVR-S750H, ideal para entretenimiento.",120,781
+C03,entretenimiento,E00589,Proyector,M00589,Xiaomi,MD0589,Mi Smart Projector 2 Pro,2019,"Proyector marca Xiaomi modelo Mi Smart Projector 2 Pro, ideal para entretenimiento.",220,167
+C03,entretenimiento,E00590,Laptop Gamer,M00590,MSI,MD0590,GE76 Raider,2022,"Laptop Gamer marca MSI modelo GE76 Raider, ideal para entretenimiento.",120,250
+C03,entretenimiento,E00591,Televisor,M00591,Hisense,MD0591,U8G,2024,"Televisor marca Hisense modelo U8G, ideal para entretenimiento.",120,160
+C03,entretenimiento,E00592,Proyector,M00592,Epson,MD0592,Home Cinema 2150,2023,"Proyector marca Epson modelo Home Cinema 2150, ideal para entretenimiento.",127,384
+C03,entretenimiento,E00593,Tablet,M00593,Lenovo,MD0593,Tab P11 Pro,2024,"Tablet marca Lenovo modelo Tab P11 Pro, ideal para entretenimiento.",220,41
+C03,entretenimiento,E00594,Tablet,M00594,Amazon,MD0594,Fire HD 10,2016,"Tablet marca Amazon modelo Fire HD 10, ideal para entretenimiento.",110,11
+C03,entretenimiento,E00595,Tablet,M00595,Microsoft,MD0595,Surface Go 3,2023,"Tablet marca Microsoft modelo Surface Go 3, ideal para entretenimiento.",110,20
+C03,entretenimiento,E00596,Televisor,M00596,TCL,MD0596,6-Series R635,2024,"Televisor marca TCL modelo 6-Series R635, ideal para entretenimiento.",120,182
+C03,entretenimiento,E00597,Laptop Gamer,M00597,Razer,MD0597,Blade 15,2017,"Laptop Gamer marca Razer modelo Blade 15, ideal para entretenimiento.",127,143
+C03,entretenimiento,E00598,Proyector,M00598,LG,MD0598,CineBeam HU70LA,2025,"Proyector marca LG modelo CineBeam HU70LA, ideal para entretenimiento.",110,263
+C03,entretenimiento,E00599,Proyector,M00599,LG,MD0599,CineBeam HU70LA,2015,"Proyector marca LG modelo CineBeam HU70LA, ideal para entretenimiento.",127,311
+C03,entretenimiento,E00600,Laptop Gamer,M00600,MSI,MD0600,GE76 Raider,2024,"Laptop Gamer marca MSI modelo GE76 Raider, ideal para entretenimiento.",120,231
+C03,entretenimiento,E00601,Teatro en Casa,M00601,Sony,MD0601,STR-DH590,2024,"Teatro en Casa marca Sony modelo STR-DH590, ideal para entretenimiento.",110,545
+C03,entretenimiento,E00602,Tablet,M00602,Apple,MD0602,iPad Pro 12.9,2025,"Tablet marca Apple modelo iPad Pro 12.9, ideal para entretenimiento.",120,17
+C03,entretenimiento,E00603,Tablet,M00603,Lenovo,MD0603,Tab P11 Pro,2023,"Tablet marca Lenovo modelo Tab P11 Pro, ideal para entretenimiento.",220,40
+C03,entretenimiento,E00604,Televisor,M00604,Sony,MD0604,Bravia X900H,2022,"Televisor marca Sony modelo Bravia X900H, ideal para entretenimiento.",110,226
+C03,entretenimiento,E00605,Proyector,M00605,Optoma,MD0605,HD146X,2019,"Proyector marca Optoma modelo HD146X, ideal para entretenimiento.",110,356
+C03,entretenimiento,E00606,Proyector,M00606,Epson,MD0606,Home Cinema 2150,2019,"Proyector marca Epson modelo Home Cinema 2150, ideal para entretenimiento.",110,349
+C03,entretenimiento,E00607,Televisor,M00607,LG,MD0607,OLED CX,2018,"Televisor marca LG modelo OLED CX, ideal para entretenimiento.",220,134
+C03,entretenimiento,E00608,Teatro en Casa,M00608,Onkyo,MD0608,HT-S3910,2019,"Teatro en Casa marca Onkyo modelo HT-S3910, ideal para entretenimiento.",110,484
+C03,entretenimiento,E00609,Proyector,M00609,Epson,MD0609,Home Cinema 2150,2022,"Proyector marca Epson modelo Home Cinema 2150, ideal para entretenimiento.",110,280
+C03,entretenimiento,E00610,Consola de Videojuegos,M00610,Sony,MD0610,PlayStation 5,2016,"Consola de Videojuegos marca Sony modelo PlayStation 5, ideal para entretenimiento.",220,236
+C03,entretenimiento,E00611,Proyector,M00611,Epson,MD0611,Home Cinema 2150,2017,"Proyector marca Epson modelo Home Cinema 2150, ideal para entretenimiento.",110,287
+C03,entretenimiento,E00612,Barra de Sonido,M00612,Samsung,MD0612,HW-Q950A,2023,"Barra de Sonido marca Samsung modelo HW-Q950A, ideal para entretenimiento.",110,397
+C03,entretenimiento,E00613,Consola de Videojuegos,M00613,Sony,MD0613,PlayStation 4 Pro,2015,"Consola de Videojuegos marca Sony modelo PlayStation 4 Pro, ideal para entretenimiento.",220,128
+C03,entretenimiento,E00614,Consola de Videojuegos,M00614,Microsoft,MD0614,Xbox One X,2018,"Consola de Videojuegos marca Microsoft modelo Xbox One X, ideal para entretenimiento.",220,207
+C03,entretenimiento,E00615,Proyector,M00615,BenQ,MD0615,HT2050A,2015,"Proyector marca BenQ modelo HT2050A, ideal para entretenimiento.",127,355
+C03,entretenimiento,E00616,Proyector,M00616,Optoma,MD0616,HD146X,2015,"Proyector marca Optoma modelo HD146X, ideal para entretenimiento.",220,399
+C03,entretenimiento,E00617,Barra de Sonido,M00617,Samsung,MD0617,HW-Q950A,2025,"Barra de Sonido marca Samsung modelo HW-Q950A, ideal para entretenimiento.",127,295
+C03,entretenimiento,E00618,Tablet,M00618,Amazon,MD0618,Fire HD 10,2015,"Tablet marca Amazon modelo Fire HD 10, ideal para entretenimiento.",120,15
+C03,entretenimiento,E00619,Teatro en Casa,M00619,Pioneer,MD0619,HTP-076,2017,"Teatro en Casa marca Pioneer modelo HTP-076, ideal para entretenimiento.",127,249
+C03,entretenimiento,E00620,Laptop Gamer,M00620,HP,MD0620,Omen 15,2021,"Laptop Gamer marca HP modelo Omen 15, ideal para entretenimiento.",110,270
+C03,entretenimiento,E00621,Laptop Gamer,M00621,Acer,MD0621,Predator Helios 300,2015,"Laptop Gamer marca Acer modelo Predator Helios 300, ideal para entretenimiento.",220,243
+C03,entretenimiento,E00622,Consola de Videojuegos,M00622,Microsoft,MD0622,Xbox Series X,2024,"Consola de Videojuegos marca Microsoft modelo Xbox Series X, ideal para entretenimiento.",127,133
+C03,entretenimiento,E00623,Televisor,M00623,LG,MD0623,OLED CX,2021,"Televisor marca LG modelo OLED CX, ideal para entretenimiento.",127,281
+C03,entretenimiento,E00624,Televisor,M00624,Sony,MD0624,Bravia X900H,2023,"Televisor marca Sony modelo Bravia X900H, ideal para entretenimiento.",110,244
+C03,entretenimiento,E00625,Barra de Sonido,M00625,Samsung,MD0625,HW-Q950A,2024,"Barra de Sonido marca Samsung modelo HW-Q950A, ideal para entretenimiento.",220,242
+C03,entretenimiento,E00626,Televisor,M00626,TCL,MD0626,6-Series R635,2023,"Televisor marca TCL modelo 6-Series R635, ideal para entretenimiento.",127,284
+C03,entretenimiento,E00627,Televisor,M00627,Hisense,MD0627,U8G,2016,"Televisor marca Hisense modelo U8G, ideal para entretenimiento.",220,175
+C03,entretenimiento,E00628,Barra de Sonido,M00628,Bose,MD0628,Smart Soundbar 700,2023,"Barra de Sonido marca Bose modelo Smart Soundbar 700, ideal para entretenimiento.",120,345
+C03,entretenimiento,E00629,Teatro en Casa,M00629,Denon,MD0629,AVR-S750H,2017,"Teatro en Casa marca Denon modelo AVR-S750H, ideal para entretenimiento.",220,385
+C03,entretenimiento,E00630,Consola de Videojuegos,M00630,Sony,MD0630,PlayStation 4 Pro,2015,"Consola de Videojuegos marca Sony modelo PlayStation 4 Pro, ideal para entretenimiento.",110,242
+C03,entretenimiento,E00631,Televisor,M00631,TCL,MD0631,6-Series R635,2016,"Televisor marca TCL modelo 6-Series R635, ideal para entretenimiento.",120,278
+C03,entretenimiento,E00632,Televisor,M00632,Sony,MD0632,Bravia X900H,2017,"Televisor marca Sony modelo Bravia X900H, ideal para entretenimiento.",120,286
+C03,entretenimiento,E00633,Televisor,M00633,Samsung,MD0633,QLED Q80T,2019,"Televisor marca Samsung modelo QLED Q80T, ideal para entretenimiento.",220,234
+C03,entretenimiento,E00634,Consola de Videojuegos,M00634,Microsoft,MD0634,Xbox One X,2019,"Consola de Videojuegos marca Microsoft modelo Xbox One X, ideal para entretenimiento.",120,202
+C03,entretenimiento,E00635,Teatro en Casa,M00635,Onkyo,MD0635,HT-S3910,2023,"Teatro en Casa marca Onkyo modelo HT-S3910, ideal para entretenimiento.",220,389
+C03,entretenimiento,E00636,Laptop Gamer,M00636,HP,MD0636,Omen 15,2021,"Laptop Gamer marca HP modelo Omen 15, ideal para entretenimiento.",120,256
+C03,entretenimiento,E00637,Barra de Sonido,M00637,Sony,MD0637,HT-G700,2023,"Barra de Sonido marca Sony modelo HT-G700, ideal para entretenimiento.",120,389
+C03,entretenimiento,E00638,Televisor,M00638,Hisense,MD0638,U8G,2016,"Televisor marca Hisense modelo U8G, ideal para entretenimiento.",110,157
+C03,entretenimiento,E00639,Teatro en Casa,M00639,Denon,MD0639,AVR-S750H,2023,"Teatro en Casa marca Denon modelo AVR-S750H, ideal para entretenimiento.",127,736
+C03,entretenimiento,E00640,Barra de Sonido,M00640,LG,MD0640,SN11RG,2020,"Barra de Sonido marca LG modelo SN11RG, ideal para entretenimiento.",127,282
+C03,entretenimiento,E00641,Tablet,M00641,Amazon,MD0641,Fire HD 10,2018,"Tablet marca Amazon modelo Fire HD 10, ideal para entretenimiento.",110,44
+C03,entretenimiento,E00642,Consola de Videojuegos,M00642,Sony,MD0642,PlayStation 4 Pro,2019,"Consola de Videojuegos marca Sony modelo PlayStation 4 Pro, ideal para entretenimiento.",127,247
+C03,entretenimiento,E00643,Consola de Videojuegos,M00643,Microsoft,MD0643,Xbox One X,2015,"Consola de Videojuegos marca Microsoft modelo Xbox One X, ideal para entretenimiento.",110,198
+C03,entretenimiento,E00644,Consola de Videojuegos,M00644,Sony,MD0644,PlayStation 4 Pro,2017,"Consola de Videojuegos marca Sony modelo PlayStation 4 Pro, ideal para entretenimiento.",127,159
+C03,entretenimiento,E00645,Laptop Gamer,M00645,Razer,MD0645,Blade 15,2022,"Laptop Gamer marca Razer modelo Blade 15, ideal para entretenimiento.",110,223
+C03,entretenimiento,E00646,Teatro en Casa,M00646,Onkyo,MD0646,HT-S3910,2025,"Teatro en Casa marca Onkyo modelo HT-S3910, ideal para entretenimiento.",220,937
+C03,entretenimiento,E00647,Laptop Gamer,M00647,HP,MD0647,Omen 15,2022,"Laptop Gamer marca HP modelo Omen 15, ideal para entretenimiento.",110,211
+C03,entretenimiento,E00648,Consola de Videojuegos,M00648,Sony,MD0648,PlayStation 5,2025,"Consola de Videojuegos marca Sony modelo PlayStation 5, ideal para entretenimiento.",127,174
+C03,entretenimiento,E00649,Televisor,M00649,Hisense,MD0649,U8G,2021,"Televisor marca Hisense modelo U8G, ideal para entretenimiento.",120,157
+C03,entretenimiento,E00650,Tablet,M00650,Microsoft,MD0650,Surface Go 3,2021,"Tablet marca Microsoft modelo Surface Go 3, ideal para entretenimiento.",120,29
+C03,entretenimiento,E00651,Consola de Videojuegos,M00651,Microsoft,MD0651,Xbox One X,2023,"Consola de Videojuegos marca Microsoft modelo Xbox One X, ideal para entretenimiento.",220,236
+C03,entretenimiento,E00652,Proyector,M00652,Optoma,MD0652,HD146X,2018,"Proyector marca Optoma modelo HD146X, ideal para entretenimiento.",110,368
+C03,entretenimiento,E00653,Laptop Gamer,M00653,Acer,MD0653,Predator Helios 300,2022,"Laptop Gamer marca Acer modelo Predator Helios 300, ideal para entretenimiento.",220,237
+C03,entretenimiento,E00654,Laptop Gamer,M00654,MSI,MD0654,GE76 Raider,2022,"Laptop Gamer marca MSI modelo GE76 Raider, ideal para entretenimiento.",127,142
+C03,entretenimiento,E00655,Proyector,M00655,Optoma,MD0655,HD146X,2018,"Proyector marca Optoma modelo HD146X, ideal para entretenimiento.",110,152
+C03,entretenimiento,E00656,Barra de Sonido,M00656,JBL,MD0656,Bar 9.1,2017,"Barra de Sonido marca JBL modelo Bar 9.1, ideal para entretenimiento.",220,321
+C03,entretenimiento,E00657,Consola de Videojuegos,M00657,Microsoft,MD0657,Xbox One X,2021,"Consola de Videojuegos marca Microsoft modelo Xbox One X, ideal para entretenimiento.",120,247
+C03,entretenimiento,E00658,Consola de Videojuegos,M00658,Microsoft,MD0658,Xbox Series X,2023,"Consola de Videojuegos marca Microsoft modelo Xbox Series X, ideal para entretenimiento.",220,187
+C03,entretenimiento,E00659,Consola de Videojuegos,M00659,Sony,MD0659,PlayStation 5,2020,"Consola de Videojuegos marca Sony modelo PlayStation 5, ideal para entretenimiento.",120,140
+C03,entretenimiento,E00660,Barra de Sonido,M00660,Sony,MD0660,HT-G700,2018,"Barra de Sonido marca Sony modelo HT-G700, ideal para entretenimiento.",220,445
+C04,climatizacion,E00661,Enfriador evaporativo,M00661,Honeywell,MD0661,Honeywell-962B,2017,Diseño compacto y eficiente,110,1013
+C04,climatizacion,E00662,Aire acondicionado portátil,M00662,Whirlpool,MD0662,Whirlpool-196B,2017,Control remoto incluido,220,853
+C04,climatizacion,E00663,Calefactor de aceite,M00663,Midea,MD0663,Midea-451B,2023,Alta eficiencia energética,220,696
+C04,climatizacion,E00664,Climatizador portátil,M00664,Daikin,MD0664,Daikin-124X,2015,Alta eficiencia energética,220,1325
+C04,climatizacion,E00665,Ventilador de techo,M00665,Toshiba,MD0665,Toshiba-533B,2016,Compatible con casas y oficinas,220,1053
+C04,climatizacion,E00666,Aire acondicionado portátil,M00666,Toshiba,MD0666,Toshiba-312B,2020,Diseñado para ahorro de energía,220,3101
+C04,climatizacion,E00667,Calefactor eléctrico,M00667,Daikin,MD0667,Daikin-547C,2016,Control remoto incluido,110,548
+C04,climatizacion,E00668,Estufa eléctrica,M00668,Philips,MD0668,Philips-834B,2024,Pantalla digital,110,1032
+C04,climatizacion,E00669,Ventilador de techo,M00669,Toshiba,MD0669,Toshiba-234Z,2020,Control remoto incluido,110,2645
+C04,climatizacion,E00670,Aire acondicionado portátil,M00670,Sharp,MD0670,Sharp-191A,2023,Alta eficiencia energética,220,1743
+C04,climatizacion,E00671,Deshumidificador,M00671,Philips,MD0671,Philips-768A,2017,Diseñado para ahorro de energía,110,2560
+C04,climatizacion,E00672,Ventilador de torre,M00672,Whirlpool,MD0672,Whirlpool-784X,2018,Modo automático,110,3002
+C04,climatizacion,E00673,Ventilador de techo,M00673,Daikin,MD0673,Daikin-600B,2017,Control remoto incluido,110,1951
+C04,climatizacion,E00674,Estufa eléctrica,M00674,Panasonic,MD0674,Panasonic-532X,2021,Tecnología inverter,220,767
+C04,climatizacion,E00675,Ventilador de techo,M00675,Whirlpool,MD0675,Whirlpool-271C,2022,Diseño compacto y eficiente,220,1813
+C04,climatizacion,E00676,Ventilador de techo,M00676,Midea,MD0676,Midea-885B,2022,Compatible con casas y oficinas,220,3218
+C04,climatizacion,E00677,Purificador de aire,M00677,Bosch,MD0677,Bosch-966X,2024,Bajo nivel de ruido,220,602
+C04,climatizacion,E00678,Ventilador de techo,M00678,Daikin,MD0678,Daikin-575C,2020,Control remoto incluido,220,954
+C04,climatizacion,E00679,Enfriador evaporativo,M00679,Bosch,MD0679,Bosch-368X,2020,Pantalla digital,110,955
+C04,climatizacion,E00680,Extractor de aire,M00680,Toshiba,MD0680,Toshiba-519C,2017,Control remoto incluido,110,934
+C04,climatizacion,E00681,Extractor de aire,M00681,Philips,MD0681,Philips-294C,2015,Bajo nivel de ruido,110,3472
+C04,climatizacion,E00682,Aire acondicionado split,M00682,Panasonic,MD0682,Panasonic-193C,2015,Diseñado para ahorro de energía,110,785
+C04,climatizacion,E00683,Calefactor eléctrico,M00683,LG,MD0683,LG-562C,2021,Bajo nivel de ruido,110,502
+C04,climatizacion,E00684,Climatizador portátil,M00684,Bosch,MD0684,Bosch-152Z,2018,Diseñado para ahorro de energía,110,1704
+C04,climatizacion,E00685,Deshumidificador,M00685,Midea,MD0685,Midea-237Z,2024,Fácil instalación,220,1079
+C04,climatizacion,E00686,Climatizador portátil,M00686,Honeywell,MD0686,Honeywell-235A,2024,Modo automático,110,714
+C04,climatizacion,E00687,Extractor de aire,M00687,Sharp,MD0687,Sharp-568Z,2019,Diseñado para ahorro de energía,110,2197
+C04,climatizacion,E00688,Aire acondicionado split,M00688,Samsung,MD0688,Samsung-616Z,2025,Alta eficiencia energética,110,3331
+C04,climatizacion,E00689,Calefactor de aceite,M00689,Toshiba,MD0689,Toshiba-571X,2021,Compatible con casas y oficinas,220,736
+C04,climatizacion,E00690,Estufa eléctrica,M00690,Honeywell,MD0690,Honeywell-765C,2017,Bajo nivel de ruido,110,3001
+C04,climatizacion,E00691,Aire acondicionado split,M00691,Philips,MD0691,Philips-462X,2022,Pantalla digital,220,2513
+C04,climatizacion,E00692,Aire acondicionado portátil,M00692,Daikin,MD0692,Daikin-271X,2020,Pantalla digital,110,2890
+C04,climatizacion,E00693,Extractor de aire,M00693,Philips,MD0693,Philips-613Z,2017,Fácil instalación,220,2739
+C04,climatizacion,E00694,Enfriador evaporativo,M00694,Philips,MD0694,Philips-886X,2025,Tecnología inverter,110,1313
+C04,climatizacion,E00695,Ventilador de techo,M00695,Frigidaire,MD0695,Frigidaire-459X,2016,Tecnología inverter,110,1909
+C04,climatizacion,E00696,Enfriador evaporativo,M00696,Bosch,MD0696,Bosch-408B,2016,Modo automático,110,2983
+C04,climatizacion,E00697,Deshumidificador,M00697,Sharp,MD0697,Sharp-204C,2017,Alta eficiencia energética,220,2795
+C04,climatizacion,E00698,Deshumidificador,M00698,Honeywell,MD0698,Honeywell-998B,2020,Bajo nivel de ruido,110,2178
+C04,climatizacion,E00699,Ventilador de techo,M00699,Bosch,MD0699,Bosch-240X,2022,Compatible con casas y oficinas,110,1627
+C04,climatizacion,E00700,Ventilador de techo,M00700,Samsung,MD0700,Samsung-212A,2024,Diseño compacto y eficiente,110,3006
+C04,climatizacion,E00701,Estufa eléctrica,M00701,Sharp,MD0701,Sharp-754B,2023,Control remoto incluido,110,2996
+C04,climatizacion,E00702,Ventilador de torre,M00702,Daikin,MD0702,Daikin-360X,2015,Tecnología inverter,220,1733
+C04,climatizacion,E00703,Enfriador evaporativo,M00703,Philips,MD0703,Philips-363C,2023,Compatible con casas y oficinas,220,1323
+C04,climatizacion,E00704,Aire acondicionado split,M00704,Daikin,MD0704,Daikin-117X,2022,Diseñado para ahorro de energía,110,2578
+C04,climatizacion,E00705,Enfriador evaporativo,M00705,Whirlpool,MD0705,Whirlpool-858X,2016,Fácil instalación,110,2713
+C04,climatizacion,E00706,Calefactor eléctrico,M00706,Samsung,MD0706,Samsung-137Z,2022,Pantalla digital,220,1483
+C04,climatizacion,E00707,Enfriador evaporativo,M00707,Frigidaire,MD0707,Frigidaire-221C,2022,Bajo nivel de ruido,110,669
+C04,climatizacion,E00708,Enfriador evaporativo,M00708,Sharp,MD0708,Sharp-265X,2018,Pantalla digital,110,1790
+C04,climatizacion,E00709,Estufa eléctrica,M00709,Toshiba,MD0709,Toshiba-922A,2017,Diseñado para ahorro de energía,110,3400
+C04,climatizacion,E00710,Purificador de aire,M00710,Whirlpool,MD0710,Whirlpool-401C,2023,Compatible con casas y oficinas,220,1151
+C04,climatizacion,E00711,Calefactor eléctrico,M00711,LG,MD0711,LG-288Z,2025,Compatible con casas y oficinas,110,2566
+C04,climatizacion,E00712,Purificador de aire,M00712,Honeywell,MD0712,Honeywell-983Z,2017,Diseño compacto y eficiente,220,1735
+C04,climatizacion,E00713,Enfriador evaporativo,M00713,Whirlpool,MD0713,Whirlpool-341C,2021,Compatible con casas y oficinas,110,1180
+C04,climatizacion,E00714,Enfriador evaporativo,M00714,Philips,MD0714,Philips-684X,2017,Diseño compacto y eficiente,110,2148
+C04,climatizacion,E00715,Purificador de aire,M00715,Samsung,MD0715,Samsung-577Z,2024,Diseñado para ahorro de energía,220,532
+C04,climatizacion,E00716,Calefactor de aceite,M00716,Midea,MD0716,Midea-816C,2015,Diseñado para ahorro de energía,110,900
+C04,climatizacion,E00717,Purificador de aire,M00717,Panasonic,MD0717,Panasonic-355X,2017,Modo automático,220,1090
+C04,climatizacion,E00718,Climatizador portátil,M00718,Hisense,MD0718,Hisense-289A,2020,Fácil instalación,220,1517
+C04,climatizacion,E00719,Extractor de aire,M00719,Frigidaire,MD0719,Frigidaire-446C,2017,Fácil instalación,220,1559
+C04,climatizacion,E00720,Purificador de aire,M00720,Midea,MD0720,Midea-731C,2022,Diseño compacto y eficiente,220,2743
+C04,climatizacion,E00721,Estufa eléctrica,M00721,Sharp,MD0721,Sharp-195Z,2017,Tecnología inverter,220,2052
+C04,climatizacion,E00722,Estufa eléctrica,M00722,Hisense,MD0722,Hisense-338B,2020,Fácil instalación,220,1198
+C04,climatizacion,E00723,Purificador de aire,M00723,Samsung,MD0723,Samsung-751C,2021,Diseñado para ahorro de energía,220,1663
+C04,climatizacion,E00724,Estufa eléctrica,M00724,Midea,MD0724,Midea-554X,2021,Control remoto incluido,110,1585
+C04,climatizacion,E00725,Aire acondicionado split,M00725,Frigidaire,MD0725,Frigidaire-926Z,2023,Modo automático,220,2113
+C04,climatizacion,E00726,Deshumidificador,M00726,Whirlpool,MD0726,Whirlpool-977B,2025,Fácil instalación,110,2663
+C04,climatizacion,E00727,Calefactor eléctrico,M00727,Bosch,MD0727,Bosch-554B,2015,Alta eficiencia energética,110,2419
+C04,climatizacion,E00728,Calefactor eléctrico,M00728,Whirlpool,MD0728,Whirlpool-114A,2024,Diseñado para ahorro de energía,110,2033
+C04,climatizacion,E00729,Calefactor eléctrico,M00729,Bosch,MD0729,Bosch-943B,2019,Modo automático,220,1440
+C04,climatizacion,E00730,Calefactor eléctrico,M00730,Midea,MD0730,Midea-815Z,2022,Bajo nivel de ruido,220,1096
+C04,climatizacion,E00731,Aire acondicionado portátil,M00731,Whirlpool,MD0731,Whirlpool-908Z,2018,Tecnología inverter,220,3308
+C04,climatizacion,E00732,Ventilador de torre,M00732,Philips,MD0732,Philips-375X,2018,Fácil instalación,220,2371
+C04,climatizacion,E00733,Ventilador de torre,M00733,Honeywell,MD0733,Honeywell-358A,2023,Modo automático,220,2414
+C04,climatizacion,E00734,Aire acondicionado split,M00734,Panasonic,MD0734,Panasonic-900A,2016,Alta eficiencia energética,220,1899
+C04,climatizacion,E00735,Extractor de aire,M00735,Toshiba,MD0735,Toshiba-392A,2020,Fácil instalación,110,1489
+C04,climatizacion,E00736,Deshumidificador,M00736,Hisense,MD0736,Hisense-863C,2021,Tecnología inverter,110,1016
+C04,climatizacion,E00737,Aire acondicionado split,M00737,Frigidaire,MD0737,Frigidaire-398Z,2017,Tecnología inverter,220,1056
+C04,climatizacion,E00738,Deshumidificador,M00738,Daikin,MD0738,Daikin-695X,2021,Bajo nivel de ruido,220,3109
+C04,climatizacion,E00739,Estufa eléctrica,M00739,Bosch,MD0739,Bosch-848C,2022,Modo automático,220,1837
+C04,climatizacion,E00740,Deshumidificador,M00740,Samsung,MD0740,Samsung-889X,2023,Fácil instalación,110,2749
+C04,climatizacion,E00741,Deshumidificador,M00741,LG,MD0741,LG-323Z,2023,Fácil instalación,110,2421
+C04,climatizacion,E00742,Purificador de aire,M00742,Toshiba,MD0742,Toshiba-759X,2016,Pantalla digital,110,2291
+C04,climatizacion,E00743,Climatizador portátil,M00743,Whirlpool,MD0743,Whirlpool-936Z,2017,Control remoto incluido,110,2353
+C04,climatizacion,E00744,Deshumidificador,M00744,Bosch,MD0744,Bosch-622B,2024,Alta eficiencia energética,220,2560
+C04,climatizacion,E00745,Calefactor de aceite,M00745,Hisense,MD0745,Hisense-463X,2024,Modo automático,110,2217
+C04,climatizacion,E00746,Aire acondicionado portátil,M00746,Frigidaire,MD0746,Frigidaire-174X,2025,Diseñado para ahorro de energía,110,1000
+C04,climatizacion,E00747,Purificador de aire,M00747,Daikin,MD0747,Daikin-950Z,2021,Fácil instalación,220,3084
+C04,climatizacion,E00748,Calefactor eléctrico,M00748,Bosch,MD0748,Bosch-145B,2021,Control remoto incluido,220,673
+C04,climatizacion,E00749,Extractor de aire,M00749,Philips,MD0749,Philips-541X,2018,Diseño compacto y eficiente,220,1923
+C04,climatizacion,E00750,Extractor de aire,M00750,Toshiba,MD0750,Toshiba-534X,2015,Diseñado para ahorro de energía,220,2306
+C04,climatizacion,E00751,Ventilador de torre,M00751,Sharp,MD0751,Sharp-775B,2025,Diseñado para ahorro de energía,220,1468
+C04,climatizacion,E00752,Purificador de aire,M00752,Frigidaire,MD0752,Frigidaire-520B,2025,Bajo nivel de ruido,110,1330
+C04,climatizacion,E00753,Ventilador de techo,M00753,Frigidaire,MD0753,Frigidaire-219Z,2025,Tecnología inverter,220,2975
+C04,climatizacion,E00754,Aire acondicionado portátil,M00754,Bosch,MD0754,Bosch-647Z,2019,Diseño compacto y eficiente,220,895
+C04,climatizacion,E00755,Deshumidificador,M00755,Panasonic,MD0755,Panasonic-834A,2024,Diseñado para ahorro de energía,220,749
+C04,climatizacion,E00756,Calefactor de aceite,M00756,Philips,MD0756,Philips-215X,2024,Diseñado para ahorro de energía,110,1630
+C04,climatizacion,E00757,Aire acondicionado portátil,M00757,Honeywell,MD0757,Honeywell-600A,2024,Fácil instalación,110,2756
+C04,climatizacion,E00758,Enfriador evaporativo,M00758,Daikin,MD0758,Daikin-418X,2025,Diseño compacto y eficiente,220,769
+C04,climatizacion,E00759,Climatizador portátil,M00759,Frigidaire,MD0759,Frigidaire-531B,2017,Pantalla digital,220,3062
+C04,climatizacion,E00760,Calefactor de aceite,M00760,LG,MD0760,LG-124A,2018,Fácil instalación,110,1721
+C04,climatizacion,E00761,Calefactor eléctrico,M00761,Sharp,MD0761,Sharp-361B,2020,Tecnología inverter,110,909
+C04,climatizacion,E00762,Purificador de aire,M00762,Whirlpool,MD0762,Whirlpool-201B,2023,Fácil instalación,110,2520
+C04,climatizacion,E00763,Extractor de aire,M00763,Midea,MD0763,Midea-294Z,2016,Alta eficiencia energética,220,577
+C04,climatizacion,E00764,Climatizador portátil,M00764,LG,MD0764,LG-505A,2025,Alta eficiencia energética,220,1361
+C04,climatizacion,E00765,Climatizador portátil,M00765,Daikin,MD0765,Daikin-583B,2019,Modo automático,220,1507
+C04,climatizacion,E00766,Estufa eléctrica,M00766,Honeywell,MD0766,Honeywell-701A,2019,Pantalla digital,220,1455
+C04,climatizacion,E00767,Ventilador de techo,M00767,Hisense,MD0767,Hisense-105A,2020,Control remoto incluido,220,1545
+C04,climatizacion,E00768,Ventilador de techo,M00768,Sharp,MD0768,Sharp-652Z,2015,Diseño compacto y eficiente,110,2772
+C04,climatizacion,E00769,Purificador de aire,M00769,Samsung,MD0769,Samsung-240C,2023,Fácil instalación,220,2095
+C04,climatizacion,E00770,Ventilador de torre,M00770,Toshiba,MD0770,Toshiba-398C,2022,Diseño compacto y eficiente,110,2901
+C04,climatizacion,E00771,Aire acondicionado portátil,M00771,Hisense,MD0771,Hisense-491X,2021,Alta eficiencia energética,110,3234
+C04,climatizacion,E00772,Estufa eléctrica,M00772,Samsung,MD0772,Samsung-409A,2019,Compatible con casas y oficinas,220,980
+C04,climatizacion,E00773,Climatizador portátil,M00773,Hisense,MD0773,Hisense-423A,2025,Tecnología inverter,110,1092
+C04,climatizacion,E00774,Enfriador evaporativo,M00774,Frigidaire,MD0774,Frigidaire-607Z,2017,Modo automático,220,518
+C04,climatizacion,E00775,Ventilador de techo,M00775,Toshiba,MD0775,Toshiba-586X,2019,Alta eficiencia energética,220,1045
+C04,climatizacion,E00776,Enfriador evaporativo,M00776,Toshiba,MD0776,Toshiba-934A,2023,Diseño compacto y eficiente,110,567
+C04,climatizacion,E00777,Calefactor eléctrico,M00777,Hisense,MD0777,Hisense-786C,2024,Tecnología inverter,110,2305
+C04,climatizacion,E00778,Aire acondicionado split,M00778,Whirlpool,MD0778,Whirlpool-678B,2017,Bajo nivel de ruido,220,2600
+C04,climatizacion,E00779,Aire acondicionado split,M00779,Bosch,MD0779,Bosch-638X,2017,Fácil instalación,220,1792
+C04,climatizacion,E00780,Extractor de aire,M00780,Philips,MD0780,Philips-988X,2025,Pantalla digital,220,2671
+C04,climatizacion,E00781,Calefactor eléctrico,M00781,Honeywell,MD0781,Honeywell-137X,2024,Alta eficiencia energética,110,3309
+C04,climatizacion,E00782,Ventilador de torre,M00782,Frigidaire,MD0782,Frigidaire-281C,2019,Modo automático,220,2054
+C04,climatizacion,E00783,Purificador de aire,M00783,Daikin,MD0783,Daikin-548A,2022,Tecnología inverter,110,2589
+C04,climatizacion,E00784,Enfriador evaporativo,M00784,Bosch,MD0784,Bosch-455A,2019,Fácil instalación,110,2999
+C04,climatizacion,E00785,Calefactor de aceite,M00785,Sharp,MD0785,Sharp-205A,2016,Bajo nivel de ruido,110,1316
+C04,climatizacion,E00786,Ventilador de techo,M00786,Bosch,MD0786,Bosch-997A,2020,Diseñado para ahorro de energía,110,3323
+C04,climatizacion,E00787,Enfriador evaporativo,M00787,Honeywell,MD0787,Honeywell-740X,2017,Control remoto incluido,110,3468
+C04,climatizacion,E00788,Enfriador evaporativo,M00788,Daikin,MD0788,Daikin-482X,2018,Fácil instalación,220,2816
+C04,climatizacion,E00789,Deshumidificador,M00789,Honeywell,MD0789,Honeywell-852B,2018,Tecnología inverter,220,2342
+C04,climatizacion,E00790,Ventilador de techo,M00790,LG,MD0790,LG-456X,2022,Diseño compacto y eficiente,220,1488
+C04,climatizacion,E00791,Calefactor de aceite,M00791,Daikin,MD0791,Daikin-208C,2022,Fácil instalación,220,2293
+C04,climatizacion,E00792,Calefactor de aceite,M00792,Honeywell,MD0792,Honeywell-674B,2021,Diseñado para ahorro de energía,220,2298
+C04,climatizacion,E00793,Ventilador de techo,M00793,Philips,MD0793,Philips-337X,2022,Bajo nivel de ruido,110,2888
+C04,climatizacion,E00794,Climatizador portátil,M00794,Daikin,MD0794,Daikin-255X,2022,Tecnología inverter,110,2833
+C04,climatizacion,E00795,Ventilador de techo,M00795,Midea,MD0795,Midea-592C,2016,Alta eficiencia energética,110,2506
+C04,climatizacion,E00796,Ventilador de techo,M00796,Panasonic,MD0796,Panasonic-209A,2020,Alta eficiencia energética,110,2494
+C04,climatizacion,E00797,Climatizador portátil,M00797,LG,MD0797,LG-290B,2025,Control remoto incluido,220,2406
+C04,climatizacion,E00798,Enfriador evaporativo,M00798,Daikin,MD0798,Daikin-238A,2024,Alta eficiencia energética,110,1099
+C04,climatizacion,E00799,Aire acondicionado split,M00799,Bosch,MD0799,Bosch-296Z,2025,Tecnología inverter,220,816
+C04,climatizacion,E00800,Deshumidificador,M00800,Whirlpool,MD0800,Whirlpool-515A,2015,Alta eficiencia energética,220,833
+C04,climatizacion,E00801,Calefactor eléctrico,M00801,LG,MD0801,LG-118B,2018,Fácil instalación,220,2671
+C04,climatizacion,E00802,Deshumidificador,M00802,LG,MD0802,LG-127A,2025,Diseñado para ahorro de energía,220,2733
+C04,climatizacion,E00803,Climatizador portátil,M00803,LG,MD0803,LG-786X,2022,Alta eficiencia energética,110,1556
+C04,climatizacion,E00804,Climatizador portátil,M00804,Midea,MD0804,Midea-526A,2020,Modo automático,220,2335
+C04,climatizacion,E00805,Climatizador portátil,M00805,Whirlpool,MD0805,Whirlpool-326Z,2017,Tecnología inverter,220,2375
+C04,climatizacion,E00806,Aire acondicionado portátil,M00806,Daikin,MD0806,Daikin-494X,2021,Control remoto incluido,220,1274
+C04,climatizacion,E00807,Aire acondicionado portátil,M00807,Panasonic,MD0807,Panasonic-445A,2022,Diseño compacto y eficiente,110,3164
+C04,climatizacion,E00808,Ventilador de techo,M00808,Bosch,MD0808,Bosch-751C,2016,Fácil instalación,110,1662
+C04,climatizacion,E00809,Estufa eléctrica,M00809,Daikin,MD0809,Daikin-411X,2025,Control remoto incluido,220,588
+C04,climatizacion,E00810,Deshumidificador,M00810,Hisense,MD0810,Hisense-994C,2022,Control remoto incluido,220,1021
+C04,climatizacion,E00811,Deshumidificador,M00811,Midea,MD0811,Midea-548A,2020,Alta eficiencia energética,220,521
+C04,climatizacion,E00812,Extractor de aire,M00812,Sharp,MD0812,Sharp-167Z,2018,Control remoto incluido,220,3481
+C04,climatizacion,E00813,Extractor de aire,M00813,Honeywell,MD0813,Honeywell-149B,2016,Fácil instalación,110,2008
+C04,climatizacion,E00814,Ventilador de torre,M00814,Daikin,MD0814,Daikin-800C,2023,Control remoto incluido,220,1309
+C04,climatizacion,E00815,Calefactor eléctrico,M00815,Hisense,MD0815,Hisense-790Z,2015,Diseñado para ahorro de energía,220,701
+C04,climatizacion,E00816,Calefactor eléctrico,M00816,Sharp,MD0816,Sharp-939X,2021,Alta eficiencia energética,110,3237
+C04,climatizacion,E00817,Enfriador evaporativo,M00817,Toshiba,MD0817,Toshiba-642X,2018,Compatible con casas y oficinas,110,2613
+C04,climatizacion,E00818,Calefactor eléctrico,M00818,Honeywell,MD0818,Honeywell-440C,2021,Tecnología inverter,110,2366
+C04,climatizacion,E00819,Calefactor de aceite,M00819,Honeywell,MD0819,Honeywell-964Z,2020,Tecnología inverter,110,1457
+C04,climatizacion,E00820,Calefactor eléctrico,M00820,Daikin,MD0820,Daikin-273A,2017,Tecnología inverter,220,2127
+C04,climatizacion,E00821,Calefactor de aceite,M00821,Honeywell,MD0821,Honeywell-279X,2021,Control remoto incluido,220,871
+C04,climatizacion,E00822,Aire acondicionado split,M00822,Toshiba,MD0822,Toshiba-406C,2017,Control remoto incluido,110,1608
+C04,climatizacion,E00823,Aire acondicionado split,M00823,Honeywell,MD0823,Honeywell-261Z,2016,Control remoto incluido,220,2161
+C04,climatizacion,E00824,Ventilador de torre,M00824,Hisense,MD0824,Hisense-453B,2016,Tecnología inverter,110,1715
+C04,climatizacion,E00825,Deshumidificador,M00825,Sharp,MD0825,Sharp-202X,2020,Diseño compacto y eficiente,110,1781
+C04,climatizacion,E00826,Estufa eléctrica,M00826,Midea,MD0826,Midea-991X,2015,Alta eficiencia energética,110,2843
+C04,climatizacion,E00827,Aire acondicionado portátil,M00827,Daikin,MD0827,Daikin-653Z,2022,Alta eficiencia energética,110,3403
+C04,climatizacion,E00828,Aire acondicionado portátil,M00828,LG,MD0828,LG-407X,2024,Compatible con casas y oficinas,110,1443
+C04,climatizacion,E00829,Estufa eléctrica,M00829,Sharp,MD0829,Sharp-922X,2025,Pantalla digital,220,895
+C04,climatizacion,E00830,Extractor de aire,M00830,Panasonic,MD0830,Panasonic-808Z,2020,Diseñado para ahorro de energía,220,966
+C04,climatizacion,E00831,Extractor de aire,M00831,Toshiba,MD0831,Toshiba-357X,2018,Alta eficiencia energética,220,2022
+C04,climatizacion,E00832,Deshumidificador,M00832,Whirlpool,MD0832,Whirlpool-260Z,2024,Alta eficiencia energética,110,2015
+C04,climatizacion,E00833,Calefactor de aceite,M00833,Sharp,MD0833,Sharp-485Z,2019,Pantalla digital,110,3190
+C04,climatizacion,E00834,Enfriador evaporativo,M00834,Toshiba,MD0834,Toshiba-649A,2019,Alta eficiencia energética,110,1734
+C04,climatizacion,E00835,Aire acondicionado split,M00835,Toshiba,MD0835,Toshiba-844A,2019,Diseño compacto y eficiente,110,2607
+C04,climatizacion,E00836,Ventilador de techo,M00836,LG,MD0836,LG-751B,2025,Diseño compacto y eficiente,110,2560
+C04,climatizacion,E00837,Aire acondicionado split,M00837,Samsung,MD0837,Samsung-583C,2018,Compatible con casas y oficinas,110,2611
+C04,climatizacion,E00838,Calefactor eléctrico,M00838,Toshiba,MD0838,Toshiba-839X,2021,Diseño compacto y eficiente,220,2967
+C04,climatizacion,E00839,Aire acondicionado portátil,M00839,Samsung,MD0839,Samsung-311X,2021,Diseñado para ahorro de energía,220,1719
+C04,climatizacion,E00840,Purificador de aire,M00840,Sharp,MD0840,Sharp-397C,2018,Modo automático,110,882
+C04,climatizacion,E00841,Ventilador de torre,M00841,Midea,MD0841,Midea-561A,2025,Fácil instalación,220,1446
+C04,climatizacion,E00842,Ventilador de torre,M00842,Panasonic,MD0842,Panasonic-878X,2017,Control remoto incluido,220,2890
+C04,climatizacion,E00843,Ventilador de techo,M00843,LG,MD0843,LG-830C,2015,Modo automático,110,2214
+C04,climatizacion,E00844,Ventilador de torre,M00844,Bosch,MD0844,Bosch-806B,2016,Alta eficiencia energética,220,1911
+C04,climatizacion,E00845,Calefactor de aceite,M00845,Frigidaire,MD0845,Frigidaire-535X,2021,Diseñado para ahorro de energía,220,2782
+C04,climatizacion,E00846,Calefactor eléctrico,M00846,Daikin,MD0846,Daikin-254C,2022,Pantalla digital,220,2179
+C04,climatizacion,E00847,Aire acondicionado portátil,M00847,Toshiba,MD0847,Toshiba-913C,2018,Compatible con casas y oficinas,110,2051
+C04,climatizacion,E00848,Ventilador de torre,M00848,LG,MD0848,LG-231B,2020,Tecnología inverter,110,738
+C04,climatizacion,E00849,Purificador de aire,M00849,Sharp,MD0849,Sharp-443A,2022,Diseño compacto y eficiente,110,1898
+C04,climatizacion,E00850,Aire acondicionado split,M00850,Midea,MD0850,Midea-829Z,2022,Modo automático,110,3188
+C04,climatizacion,E00851,Enfriador evaporativo,M00851,Toshiba,MD0851,Toshiba-939A,2018,Tecnología inverter,220,1116
+C04,climatizacion,E00852,Climatizador portátil,M00852,Toshiba,MD0852,Toshiba-298Z,2020,Control remoto incluido,220,1816
+C04,climatizacion,E00853,Ventilador de techo,M00853,Frigidaire,MD0853,Frigidaire-385Z,2022,Control remoto incluido,220,2987
+C04,climatizacion,E00854,Climatizador portátil,M00854,Hisense,MD0854,Hisense-862A,2023,Fácil instalación,220,3267
+C04,climatizacion,E00855,Climatizador portátil,M00855,Philips,MD0855,Philips-938A,2022,Pantalla digital,220,2069
+C04,climatizacion,E00856,Calefactor de aceite,M00856,Samsung,MD0856,Samsung-651X,2020,Diseño compacto y eficiente,110,2614
+C04,climatizacion,E00857,Calefactor de aceite,M00857,Bosch,MD0857,Bosch-154Z,2025,Fácil instalación,110,3459
+C04,climatizacion,E00858,Estufa eléctrica,M00858,Panasonic,MD0858,Panasonic-348Z,2025,Modo automático,110,3140
+C04,climatizacion,E00859,Calefactor de aceite,M00859,Philips,MD0859,Philips-563B,2015,Modo automático,220,902
+C04,climatizacion,E00860,Purificador de aire,M00860,Philips,MD0860,Philips-143X,2017,Diseño compacto y eficiente,220,1349
+C04,climatizacion,E00861,Aire acondicionado split,M00861,Sharp,MD0861,Sharp-965B,2022,Fácil instalación,220,2615
+C04,climatizacion,E00862,Estufa eléctrica,M00862,Honeywell,MD0862,Honeywell-772A,2020,Tecnología inverter,110,1692
+C04,climatizacion,E00863,Deshumidificador,M00863,Midea,MD0863,Midea-255B,2016,Tecnología inverter,110,2834
+C04,climatizacion,E00864,Calefactor eléctrico,M00864,Bosch,MD0864,Bosch-121B,2017,Pantalla digital,220,2378
+C04,climatizacion,E00865,Climatizador portátil,M00865,Bosch,MD0865,Bosch-640X,2021,Modo automático,110,518
+C04,climatizacion,E00866,Purificador de aire,M00866,Hisense,MD0866,Hisense-757Z,2016,Fácil instalación,110,2813
+C04,climatizacion,E00867,Purificador de aire,M00867,Panasonic,MD0867,Panasonic-290Z,2019,Modo automático,220,2728
+C04,climatizacion,E00868,Extractor de aire,M00868,Hisense,MD0868,Hisense-307C,2023,Bajo nivel de ruido,110,2945
+C04,climatizacion,E00869,Deshumidificador,M00869,Midea,MD0869,Midea-517C,2016,Fácil instalación,110,2130
+C04,climatizacion,E00870,Estufa eléctrica,M00870,Daikin,MD0870,Daikin-426B,2018,Diseño compacto y eficiente,110,2106
+C04,climatizacion,E00871,Calefactor de aceite,M00871,Bosch,MD0871,Bosch-345X,2017,Control remoto incluido,220,2842
+C04,climatizacion,E00872,Estufa eléctrica,M00872,Honeywell,MD0872,Honeywell-370A,2022,Diseño compacto y eficiente,220,3425
+C04,climatizacion,E00873,Purificador de aire,M00873,Midea,MD0873,Midea-132A,2016,Pantalla digital,220,2145
+C04,climatizacion,E00874,Calefactor eléctrico,M00874,Daikin,MD0874,Daikin-303B,2022,Alta eficiencia energética,110,2176
+C04,climatizacion,E00875,Purificador de aire,M00875,Frigidaire,MD0875,Frigidaire-251X,2015,Alta eficiencia energética,110,534
+C04,climatizacion,E00876,Ventilador de torre,M00876,Panasonic,MD0876,Panasonic-200B,2020,Diseño compacto y eficiente,220,1217
+C04,climatizacion,E00877,Calefactor de aceite,M00877,Samsung,MD0877,Samsung-188Z,2020,Diseñado para ahorro de energía,110,711
+C04,climatizacion,E00878,Enfriador evaporativo,M00878,Bosch,MD0878,Bosch-783A,2025,Fácil instalación,220,2336
+C04,climatizacion,E00879,Purificador de aire,M00879,LG,MD0879,LG-432A,2018,Fácil instalación,110,2204
+C04,climatizacion,E00880,Aire acondicionado split,M00880,Honeywell,MD0880,Honeywell-891Z,2024,Diseñado para ahorro de energía,110,1060
+C05,cuidado,E00881,Rizador de cabello,M00881,Panasonic,MD0881,Panasonic-497S,2024,Tecnología avanzada,220,808
+C05,cuidado,E00882,Limpiador facial sónico,M00882,Philips,MD0882,Philips-280Q,2025,Diseño ergonómico,110,577
+C05,cuidado,E00883,Depiladora eléctrica,M00883,Rowenta,MD0883,Rowenta-649L,2019,Ligero y portátil,110,469
+C05,cuidado,E00884,Sauna facial,M00884,Panasonic,MD0884,Panasonic-576L,2015,Ideal para uso diario,220,330
+C05,cuidado,E00885,Plancha para cabello,M00885,Rowenta,MD0885,Rowenta-974L,2016,Resistente al agua,110,2234
+C05,cuidado,E00886,Plancha para cabello,M00886,Braun,MD0886,Braun-795L,2020,Carga rápida,220,240
+C05,cuidado,E00887,Rizador de cabello,M00887,GHD,MD0887,GHD-343Q,2019,Alta durabilidad,220,637
+C05,cuidado,E00888,Cepillo de dientes eléctrico,M00888,Beurer,MD0888,Beurer-256X,2015,Ideal para uso diario,220,192
+C05,cuidado,E00889,Afeitadora eléctrica,M00889,Xiaomi,MD0889,Xiaomi-268X,2016,Fácil de usar,220,1330
+C05,cuidado,E00890,Secadora de cabello,M00890,Braun,MD0890,Braun-623S,2016,Diseño compacto,110,1997
+C05,cuidado,E00891,Depiladora eléctrica,M00891,Beurer,MD0891,Beurer-798Q,2018,Fácil de usar,110,2467
+C05,cuidado,E00892,Removedor de puntos negros,M00892,Rowenta,MD0892,Rowenta-785L,2017,Diseño ergonómico,110,1233
+C05,cuidado,E00893,Recortadora de barba,M00893,Oral-B,MD0893,Oral-B-743L,2019,Diseño ergonómico,220,1933
+C05,cuidado,E00894,Rizador de cabello,M00894,Conair,MD0894,Conair-138X,2024,Alta durabilidad,220,358
+C05,cuidado,E00895,Plancha para cabello,M00895,Oral-B,MD0895,Oral-B-535Q,2019,Resistente al agua,110,1974
+C05,cuidado,E00896,Plancha para cabello,M00896,Oral-B,MD0896,Oral-B-931X,2024,Ideal para uso diario,110,145
+C05,cuidado,E00897,Masajeador facial,M00897,Revlon,MD0897,Revlon-450L,2020,Diseño ergonómico,110,10
+C05,cuidado,E00898,Cortadora de cabello,M00898,Xiaomi,MD0898,Xiaomi-520S,2018,Resistente al agua,110,1330
+C05,cuidado,E00899,Recortadora de barba,M00899,GHD,MD0899,GHD-531L,2020,Ideal para uso diario,110,461
+C05,cuidado,E00900,Cepillo de dientes eléctrico,M00900,Oral-B,MD0900,Oral-B-305Q,2019,Ligero y portátil,220,1114
+C05,cuidado,E00901,Plancha para cabello,M00901,Revlon,MD0901,Revlon-274P,2017,Diseño compacto,110,1786
+C05,cuidado,E00902,Afeitadora eléctrica,M00902,Philips,MD0902,Philips-227P,2025,Diseño compacto,110,767
+C05,cuidado,E00903,Cepillo de dientes eléctrico,M00903,Rowenta,MD0903,Rowenta-846S,2021,Carga rápida,220,1124
+C05,cuidado,E00904,Cortadora de cabello,M00904,Philips,MD0904,Philips-163X,2019,Tecnología avanzada,110,1621
+C05,cuidado,E00905,Afeitadora eléctrica,M00905,Xiaomi,MD0905,Xiaomi-920X,2021,Ligero y portátil,220,1938
+C05,cuidado,E00906,Recortadora de barba,M00906,Braun,MD0906,Braun-851Q,2021,Ligero y portátil,110,1213
+C05,cuidado,E00907,Cortadora de cabello,M00907,Panasonic,MD0907,Panasonic-761X,2019,Resistente al agua,220,32
+C05,cuidado,E00908,Cepillo de dientes eléctrico,M00908,Braun,MD0908,Braun-971S,2019,Diseño ergonómico,220,212
+C05,cuidado,E00909,Depiladora eléctrica,M00909,Panasonic,MD0909,Panasonic-201X,2017,Diseño ergonómico,220,549
+C05,cuidado,E00910,Rizador de cabello,M00910,Philips,MD0910,Philips-632L,2017,Diseño compacto,110,1692
+C05,cuidado,E00911,Plancha para cabello,M00911,Braun,MD0911,Braun-478X,2017,Diseño ergonómico,220,2035
+C05,cuidado,E00912,Recortadora de barba,M00912,Conair,MD0912,Conair-595X,2018,Tecnología avanzada,110,1401
+C05,cuidado,E00913,Plancha para cabello,M00913,Beurer,MD0913,Beurer-257P,2023,Ideal para uso diario,110,1913
+C05,cuidado,E00914,Plancha para cabello,M00914,GHD,MD0914,GHD-350L,2015,Diseño compacto,110,796
+C05,cuidado,E00915,Sauna facial,M00915,Conair,MD0915,Conair-356Q,2024,Diseño ergonómico,110,1856
+C05,cuidado,E00916,Removedor de puntos negros,M00916,Babyliss,MD0916,Babyliss-867X,2022,Ligero y portátil,220,2033
+C05,cuidado,E00917,Rizador de cabello,M00917,Rowenta,MD0917,Rowenta-339S,2019,Diseño ergonómico,110,259
+C05,cuidado,E00918,Recortadora de barba,M00918,Xiaomi,MD0918,Xiaomi-786P,2017,Ideal para uso diario,220,952
+C05,cuidado,E00919,Cortadora de cabello,M00919,Oral-B,MD0919,Oral-B-208L,2017,Resistente al agua,220,225
+C05,cuidado,E00920,Plancha para cabello,M00920,Oral-B,MD0920,Oral-B-722L,2015,Diseño ergonómico,220,2436
+C05,cuidado,E00921,Cortadora de cabello,M00921,Babyliss,MD0921,Babyliss-783L,2020,Ligero y portátil,110,2170
+C05,cuidado,E00922,Sauna facial,M00922,Panasonic,MD0922,Panasonic-526S,2016,Diseño ergonómico,110,364
+C05,cuidado,E00923,Esterilizador UV portátil,M00923,Conair,MD0923,Conair-885P,2024,Fácil de usar,220,1901
+C05,cuidado,E00924,Esterilizador UV portátil,M00924,Beurer,MD0924,Beurer-497Q,2018,Ideal para uso diario,220,1212
+C05,cuidado,E00925,Masajeador corporal,M00925,Revlon,MD0925,Revlon-896L,2022,Tecnología avanzada,220,1898
+C05,cuidado,E00926,Depiladora eléctrica,M00926,Rowenta,MD0926,Rowenta-458P,2023,Diseño compacto,110,1595
+C05,cuidado,E00927,Afeitadora eléctrica,M00927,Beurer,MD0927,Beurer-512P,2020,Ligero y portátil,220,202
+C05,cuidado,E00928,Sauna facial,M00928,Panasonic,MD0928,Panasonic-498S,2020,Alta durabilidad,110,302
+C05,cuidado,E00929,Cepillo de dientes eléctrico,M00929,Babyliss,MD0929,Babyliss-348X,2015,Ligero y portátil,110,2114
+C05,cuidado,E00930,Recortadora de barba,M00930,Braun,MD0930,Braun-169P,2022,Resistente al agua,110,338
+C05,cuidado,E00931,Esterilizador UV portátil,M00931,Panasonic,MD0931,Panasonic-438X,2021,Carga rápida,220,970
+C05,cuidado,E00932,Esterilizador UV portátil,M00932,Xiaomi,MD0932,Xiaomi-711Q,2019,Fácil de usar,110,1496
+C05,cuidado,E00933,Rizador de cabello,M00933,Conair,MD0933,Conair-600Q,2017,Tecnología avanzada,220,2039
+C05,cuidado,E00934,Recortadora de barba,M00934,Philips,MD0934,Philips-275P,2018,Diseño ergonómico,220,1862
+C05,cuidado,E00935,Secadora de cabello,M00935,Wahl,MD0935,Wahl-231X,2018,Diseño compacto,220,553
+C05,cuidado,E00936,Masajeador facial,M00936,Philips,MD0936,Philips-815L,2025,Diseño ergonómico,110,1986
+C05,cuidado,E00937,Rizador de cabello,M00937,Xiaomi,MD0937,Xiaomi-980Q,2017,Tecnología avanzada,110,87
+C05,cuidado,E00938,Removedor de puntos negros,M00938,Beurer,MD0938,Beurer-785Q,2021,Tecnología avanzada,110,996
+C05,cuidado,E00939,Esterilizador UV portátil,M00939,Babyliss,MD0939,Babyliss-844X,2015,Carga rápida,110,2462
+C05,cuidado,E00940,Cortadora de cabello,M00940,Revlon,MD0940,Revlon-978Q,2017,Resistente al agua,110,873
+C05,cuidado,E00941,Masajeador corporal,M00941,Revlon,MD0941,Revlon-822X,2023,Resistente al agua,110,1380
+C05,cuidado,E00942,Sauna facial,M00942,Babyliss,MD0942,Babyliss-251P,2017,Ligero y portátil,220,1074
+C05,cuidado,E00943,Plancha para cabello,M00943,Braun,MD0943,Braun-725X,2016,Ideal para uso diario,110,357
+C05,cuidado,E00944,Secadora de cabello,M00944,Beurer,MD0944,Beurer-523Q,2017,Alta durabilidad,110,474
+C05,cuidado,E00945,Masajeador corporal,M00945,Revlon,MD0945,Revlon-459P,2015,Ideal para uso diario,110,1401
+C05,cuidado,E00946,Sauna facial,M00946,Wahl,MD0946,Wahl-449Q,2020,Ligero y portátil,110,2168
+C05,cuidado,E00947,Secadora de cabello,M00947,Babyliss,MD0947,Babyliss-715X,2018,Carga rápida,220,1625
+C05,cuidado,E00948,Limpiador facial sónico,M00948,Conair,MD0948,Conair-376X,2020,Resistente al agua,110,943
+C05,cuidado,E00949,Removedor de puntos negros,M00949,Beurer,MD0949,Beurer-464L,2018,Alta durabilidad,220,2440
+C05,cuidado,E00950,Limpiador facial sónico,M00950,Philips,MD0950,Philips-523X,2019,Ligero y portátil,110,650
+C05,cuidado,E00951,Rizador de cabello,M00951,Babyliss,MD0951,Babyliss-914P,2018,Carga rápida,110,1166
+C05,cuidado,E00952,Limpiador facial sónico,M00952,Wahl,MD0952,Wahl-951L,2023,Batería de larga duración,110,1797
+C05,cuidado,E00953,Cortadora de cabello,M00953,Beurer,MD0953,Beurer-579Q,2023,Ligero y portátil,220,2349
+C05,cuidado,E00954,Removedor de puntos negros,M00954,Oral-B,MD0954,Oral-B-890S,2022,Fácil de usar,110,1377
+C05,cuidado,E00955,Secadora de cabello,M00955,GHD,MD0955,GHD-323X,2016,Batería de larga duración,110,1089
+C05,cuidado,E00956,Recortadora de barba,M00956,Conair,MD0956,Conair-640X,2016,Ideal para uso diario,220,2013
+C05,cuidado,E00957,Sauna facial,M00957,Braun,MD0957,Braun-605S,2021,Alta durabilidad,110,1686
+C05,cuidado,E00958,Cepillo de dientes eléctrico,M00958,Babyliss,MD0958,Babyliss-133Q,2025,Alta durabilidad,220,1159
+C05,cuidado,E00959,Esterilizador UV portátil,M00959,GHD,MD0959,GHD-636Q,2016,Ligero y portátil,220,449
+C05,cuidado,E00960,Depiladora eléctrica,M00960,Oral-B,MD0960,Oral-B-381S,2022,Diseño compacto,110,960
+C05,cuidado,E00961,Masajeador corporal,M00961,Oral-B,MD0961,Oral-B-858L,2022,Resistente al agua,110,1371
+C05,cuidado,E00962,Sauna facial,M00962,Remington,MD0962,Remington-641S,2017,Diseño compacto,220,1681
+C05,cuidado,E00963,Rizador de cabello,M00963,Babyliss,MD0963,Babyliss-905S,2018,Diseño ergonómico,110,159
+C05,cuidado,E00964,Removedor de puntos negros,M00964,Philips,MD0964,Philips-435P,2024,Batería de larga duración,220,380
+C05,cuidado,E00965,Recortadora de barba,M00965,Revlon,MD0965,Revlon-999P,2025,Ideal para uso diario,220,464
+C05,cuidado,E00966,Cepillo de dientes eléctrico,M00966,Babyliss,MD0966,Babyliss-343P,2021,Ideal para uso diario,220,1400
+C05,cuidado,E00967,Plancha para cabello,M00967,Remington,MD0967,Remington-930X,2015,Batería de larga duración,220,778
+C05,cuidado,E00968,Rizador de cabello,M00968,Braun,MD0968,Braun-102S,2020,Resistente al agua,220,1434
+C05,cuidado,E00969,Secadora de cabello,M00969,Beurer,MD0969,Beurer-500S,2021,Diseño compacto,220,357
+C05,cuidado,E00970,Depiladora eléctrica,M00970,Beurer,MD0970,Beurer-210Q,2024,Carga rápida,220,1429
+C05,cuidado,E00971,Recortadora de barba,M00971,Xiaomi,MD0971,Xiaomi-374P,2016,Ideal para uso diario,110,2238
+C05,cuidado,E00972,Cepillo de dientes eléctrico,M00972,Oral-B,MD0972,Oral-B-249X,2022,Tecnología avanzada,220,579
+C05,cuidado,E00973,Rizador de cabello,M00973,Panasonic,MD0973,Panasonic-954L,2017,Carga rápida,220,2402
+C05,cuidado,E00974,Masajeador corporal,M00974,Braun,MD0974,Braun-729X,2017,Resistente al agua,220,2444
+C05,cuidado,E00975,Limpiador facial sónico,M00975,Revlon,MD0975,Revlon-633L,2017,Ideal para uso diario,110,1871
+C05,cuidado,E00976,Cortadora de cabello,M00976,Revlon,MD0976,Revlon-156L,2015,Carga rápida,110,1373
+C05,cuidado,E00977,Limpiador facial sónico,M00977,Braun,MD0977,Braun-889P,2015,Tecnología avanzada,110,991
+C05,cuidado,E00978,Rizador de cabello,M00978,Babyliss,MD0978,Babyliss-786P,2017,Batería de larga duración,220,1540
+C05,cuidado,E00979,Plancha para cabello,M00979,Xiaomi,MD0979,Xiaomi-825P,2022,Ligero y portátil,220,1978
+C05,cuidado,E00980,Esterilizador UV portátil,M00980,Rowenta,MD0980,Rowenta-901L,2023,Alta durabilidad,220,2229
+C05,cuidado,E00981,Cepillo de dientes eléctrico,M00981,Rowenta,MD0981,Rowenta-396S,2018,Tecnología avanzada,220,2250
+C05,cuidado,E00982,Rizador de cabello,M00982,Conair,MD0982,Conair-580L,2018,Carga rápida,110,789
+C05,cuidado,E00983,Cepillo de dientes eléctrico,M00983,Revlon,MD0983,Revlon-432Q,2020,Alta durabilidad,110,1378
+C05,cuidado,E00984,Secadora de cabello,M00984,Rowenta,MD0984,Rowenta-124S,2017,Resistente al agua,220,1730
+C05,cuidado,E00985,Depiladora eléctrica,M00985,Babyliss,MD0985,Babyliss-156Q,2018,Batería de larga duración,220,1824
+C05,cuidado,E00986,Esterilizador UV portátil,M00986,Panasonic,MD0986,Panasonic-568S,2015,Alta durabilidad,110,633
+C05,cuidado,E00987,Removedor de puntos negros,M00987,Xiaomi,MD0987,Xiaomi-790P,2016,Batería de larga duración,110,1427
+C05,cuidado,E00988,Limpiador facial sónico,M00988,GHD,MD0988,GHD-615S,2024,Diseño compacto,110,1001
+C05,cuidado,E00989,Depiladora eléctrica,M00989,Xiaomi,MD0989,Xiaomi-779Q,2022,Carga rápida,220,1847
+C05,cuidado,E00990,Limpiador facial sónico,M00990,Revlon,MD0990,Revlon-482X,2025,Ligero y portátil,220,2483
+C05,cuidado,E00991,Masajeador facial,M00991,Philips,MD0991,Philips-432L,2016,Ideal para uso diario,220,560
+C05,cuidado,E00992,Masajeador facial,M00992,Panasonic,MD0992,Panasonic-411P,2023,Carga rápida,110,1380
+C05,cuidado,E00993,Removedor de puntos negros,M00993,Xiaomi,MD0993,Xiaomi-360L,2022,Fácil de usar,220,1751
+C05,cuidado,E00994,Cortadora de cabello,M00994,Xiaomi,MD0994,Xiaomi-247P,2024,Ideal para uso diario,110,908
+C05,cuidado,E00995,Cepillo de dientes eléctrico,M00995,Revlon,MD0995,Revlon-926P,2021,Fácil de usar,220,1034
+C05,cuidado,E00996,Cortadora de cabello,M00996,Wahl,MD0996,Wahl-764L,2018,Resistente al agua,110,505
+C05,cuidado,E00997,Masajeador facial,M00997,Beurer,MD0997,Beurer-806S,2016,Diseño ergonómico,220,1846
+C05,cuidado,E00998,Depiladora eléctrica,M00998,Panasonic,MD0998,Panasonic-435P,2018,Diseño ergonómico,220,131
+C05,cuidado,E00999,Masajeador facial,M00999,Xiaomi,MD0999,Xiaomi-677X,2017,Carga rápida,220,80
+C05,cuidado,E01000,Masajeador facial,M01000,Panasonic,MD1000,Panasonic-598S,2017,Alta durabilidad,110,1949
+C05,cuidado,E01001,Cepillo de dientes eléctrico,M01001,Oral-B,MD1001,Oral-B-943X,2016,Diseño compacto,220,502
+C05,cuidado,E01002,Cepillo de dientes eléctrico,M01002,Conair,MD1002,Conair-866L,2023,Diseño compacto,110,202
+C05,cuidado,E01003,Removedor de puntos negros,M01003,Revlon,MD1003,Revlon-203S,2019,Fácil de usar,110,1530
+C05,cuidado,E01004,Limpiador facial sónico,M01004,Panasonic,MD1004,Panasonic-474S,2021,Tecnología avanzada,220,1484
+C05,cuidado,E01005,Plancha para cabello,M01005,Philips,MD1005,Philips-756L,2016,Fácil de usar,110,2420
+C05,cuidado,E01006,Cortadora de cabello,M01006,Xiaomi,MD1006,Xiaomi-492P,2018,Ideal para uso diario,220,973
+C05,cuidado,E01007,Afeitadora eléctrica,M01007,Braun,MD1007,Braun-892S,2018,Diseño ergonómico,220,2240
+C05,cuidado,E01008,Cepillo de dientes eléctrico,M01008,Braun,MD1008,Braun-785L,2019,Fácil de usar,110,1091
+C05,cuidado,E01009,Afeitadora eléctrica,M01009,Babyliss,MD1009,Babyliss-855L,2025,Resistente al agua,220,177
+C05,cuidado,E01010,Esterilizador UV portátil,M01010,Wahl,MD1010,Wahl-777Q,2019,Fácil de usar,110,866
+C05,cuidado,E01011,Esterilizador UV portátil,M01011,Babyliss,MD1011,Babyliss-395P,2025,Fácil de usar,110,520
+C05,cuidado,E01012,Rizador de cabello,M01012,GHD,MD1012,GHD-367L,2021,Fácil de usar,110,429
+C05,cuidado,E01013,Cepillo de dientes eléctrico,M01013,Xiaomi,MD1013,Xiaomi-398L,2024,Alta durabilidad,110,2105
+C05,cuidado,E01014,Removedor de puntos negros,M01014,GHD,MD1014,GHD-931P,2020,Ideal para uso diario,110,1306
+C05,cuidado,E01015,Masajeador facial,M01015,Beurer,MD1015,Beurer-792Q,2019,Alta durabilidad,220,1706
+C05,cuidado,E01016,Masajeador corporal,M01016,Babyliss,MD1016,Babyliss-632Q,2021,Diseño ergonómico,110,924
+C05,cuidado,E01017,Depiladora eléctrica,M01017,Conair,MD1017,Conair-923P,2020,Ideal para uso diario,110,1328
+C05,cuidado,E01018,Sauna facial,M01018,Braun,MD1018,Braun-161L,2021,Ideal para uso diario,110,1226
+C05,cuidado,E01019,Plancha para cabello,M01019,Braun,MD1019,Braun-600L,2015,Fácil de usar,110,523
+C05,cuidado,E01020,Rizador de cabello,M01020,GHD,MD1020,GHD-949S,2017,Diseño compacto,220,1709
+C05,cuidado,E01021,Cortadora de cabello,M01021,Oral-B,MD1021,Oral-B-119S,2024,Resistente al agua,220,1049
+C05,cuidado,E01022,Limpiador facial sónico,M01022,Rowenta,MD1022,Rowenta-767P,2019,Tecnología avanzada,220,2126
+C05,cuidado,E01023,Removedor de puntos negros,M01023,Revlon,MD1023,Revlon-879L,2018,Diseño ergonómico,220,2395
+C05,cuidado,E01024,Rizador de cabello,M01024,Rowenta,MD1024,Rowenta-275S,2018,Alta durabilidad,110,1964
+C05,cuidado,E01025,Esterilizador UV portátil,M01025,Panasonic,MD1025,Panasonic-876L,2021,Ligero y portátil,220,2025
+C05,cuidado,E01026,Esterilizador UV portátil,M01026,Braun,MD1026,Braun-230X,2015,Fácil de usar,220,994
+C05,cuidado,E01027,Rizador de cabello,M01027,GHD,MD1027,GHD-931Q,2025,Tecnología avanzada,220,1228
+C05,cuidado,E01028,Cepillo de dientes eléctrico,M01028,GHD,MD1028,GHD-720Q,2025,Resistente al agua,110,678
+C05,cuidado,E01029,Afeitadora eléctrica,M01029,Beurer,MD1029,Beurer-790P,2015,Alta durabilidad,220,2419
+C05,cuidado,E01030,Esterilizador UV portátil,M01030,Philips,MD1030,Philips-768X,2023,Batería de larga duración,220,678
+C05,cuidado,E01031,Afeitadora eléctrica,M01031,Revlon,MD1031,Revlon-345S,2017,Tecnología avanzada,220,1404
+C05,cuidado,E01032,Limpiador facial sónico,M01032,Panasonic,MD1032,Panasonic-832X,2019,Ideal para uso diario,220,539
+C05,cuidado,E01033,Masajeador facial,M01033,Xiaomi,MD1033,Xiaomi-762P,2024,Batería de larga duración,220,1935
+C05,cuidado,E01034,Recortadora de barba,M01034,Xiaomi,MD1034,Xiaomi-915Q,2023,Diseño ergonómico,110,2075
+C05,cuidado,E01035,Limpiador facial sónico,M01035,Oral-B,MD1035,Oral-B-863L,2021,Diseño compacto,220,343
+C05,cuidado,E01036,Depiladora eléctrica,M01036,Revlon,MD1036,Revlon-773P,2021,Tecnología avanzada,220,501
+C05,cuidado,E01037,Cepillo de dientes eléctrico,M01037,Rowenta,MD1037,Rowenta-937P,2022,Ideal para uso diario,110,2094
+C05,cuidado,E01038,Limpiador facial sónico,M01038,GHD,MD1038,GHD-467L,2018,Diseño compacto,110,2085
+C05,cuidado,E01039,Masajeador corporal,M01039,Revlon,MD1039,Revlon-702L,2024,Fácil de usar,110,490
+C05,cuidado,E01040,Cepillo de dientes eléctrico,M01040,Philips,MD1040,Philips-758L,2017,Diseño ergonómico,110,355
+C05,cuidado,E01041,Esterilizador UV portátil,M01041,Wahl,MD1041,Wahl-581P,2015,Tecnología avanzada,110,1763
+C05,cuidado,E01042,Depiladora eléctrica,M01042,Wahl,MD1042,Wahl-567X,2016,Resistente al agua,220,2434
+C05,cuidado,E01043,Depiladora eléctrica,M01043,Philips,MD1043,Philips-722P,2019,Diseño compacto,110,868
+C05,cuidado,E01044,Secadora de cabello,M01044,Oral-B,MD1044,Oral-B-739P,2017,Diseño compacto,220,582
+C05,cuidado,E01045,Afeitadora eléctrica,M01045,Panasonic,MD1045,Panasonic-883X,2019,Resistente al agua,220,1676
+C05,cuidado,E01046,Secadora de cabello,M01046,Wahl,MD1046,Wahl-138P,2022,Batería de larga duración,110,2245
+C05,cuidado,E01047,Removedor de puntos negros,M01047,GHD,MD1047,GHD-265X,2025,Diseño ergonómico,220,1437
+C05,cuidado,E01048,Limpiador facial sónico,M01048,Xiaomi,MD1048,Xiaomi-653Q,2025,Diseño ergonómico,220,1389
+C05,cuidado,E01049,Cortadora de cabello,M01049,Babyliss,MD1049,Babyliss-161P,2018,Ligero y portátil,220,1824
+C05,cuidado,E01050,Plancha para cabello,M01050,Panasonic,MD1050,Panasonic-479S,2019,Resistente al agua,220,322
+C05,cuidado,E01051,Limpiador facial sónico,M01051,GHD,MD1051,GHD-607L,2021,Diseño compacto,110,241
+C05,cuidado,E01052,Esterilizador UV portátil,M01052,Beurer,MD1052,Beurer-362X,2024,Batería de larga duración,110,250
+C05,cuidado,E01053,Removedor de puntos negros,M01053,Philips,MD1053,Philips-100S,2021,Carga rápida,110,1625
+C05,cuidado,E01054,Esterilizador UV portátil,M01054,Braun,MD1054,Braun-394X,2022,Alta durabilidad,220,1210
+C05,cuidado,E01055,Depiladora eléctrica,M01055,Panasonic,MD1055,Panasonic-786S,2016,Alta durabilidad,110,1687
+C05,cuidado,E01056,Cortadora de cabello,M01056,Philips,MD1056,Philips-234X,2022,Ideal para uso diario,220,1705
+C05,cuidado,E01057,Plancha para cabello,M01057,Babyliss,MD1057,Babyliss-839Q,2025,Resistente al agua,220,1357
+C05,cuidado,E01058,Removedor de puntos negros,M01058,Rowenta,MD1058,Rowenta-361P,2020,Alta durabilidad,220,101
+C05,cuidado,E01059,Masajeador corporal,M01059,Braun,MD1059,Braun-919Q,2017,Alta durabilidad,110,2465
+C05,cuidado,E01060,Plancha para cabello,M01060,Remington,MD1060,Remington-827L,2024,Diseño ergonómico,110,2377
+C05,cuidado,E01061,Masajeador corporal,M01061,Beurer,MD1061,Beurer-955L,2020,Diseño ergonómico,220,238
+C05,cuidado,E01062,Afeitadora eléctrica,M01062,GHD,MD1062,GHD-755X,2022,Carga rápida,220,586
+C05,cuidado,E01063,Masajeador facial,M01063,Xiaomi,MD1063,Xiaomi-282Q,2025,Carga rápida,220,1673
+C05,cuidado,E01064,Removedor de puntos negros,M01064,Conair,MD1064,Conair-599S,2023,Ideal para uso diario,110,246
+C05,cuidado,E01065,Masajeador facial,M01065,Braun,MD1065,Braun-520S,2021,Ideal para uso diario,220,180
+C05,cuidado,E01066,Masajeador corporal,M01066,Beurer,MD1066,Beurer-233Q,2022,Diseño ergonómico,220,1467
+C05,cuidado,E01067,Depiladora eléctrica,M01067,Revlon,MD1067,Revlon-150Q,2023,Diseño ergonómico,110,611
+C05,cuidado,E01068,Limpiador facial sónico,M01068,Beurer,MD1068,Beurer-179Q,2016,Diseño ergonómico,220,1140
+C05,cuidado,E01069,Sauna facial,M01069,Remington,MD1069,Remington-251P,2020,Fácil de usar,220,1311
+C05,cuidado,E01070,Depiladora eléctrica,M01070,Braun,MD1070,Braun-828L,2019,Resistente al agua,220,1770
+C05,cuidado,E01071,Masajeador corporal,M01071,GHD,MD1071,GHD-520Q,2023,Diseño compacto,110,1504
+C05,cuidado,E01072,Cepillo de dientes eléctrico,M01072,Braun,MD1072,Braun-716Q,2023,Diseño ergonómico,220,322
+C05,cuidado,E01073,Secadora de cabello,M01073,Braun,MD1073,Braun-466P,2019,Diseño compacto,110,1427
+C05,cuidado,E01074,Depiladora eléctrica,M01074,Wahl,MD1074,Wahl-470L,2025,Carga rápida,220,861
+C05,cuidado,E01075,Cortadora de cabello,M01075,Remington,MD1075,Remington-728P,2020,Carga rápida,110,2018
+C05,cuidado,E01076,Cortadora de cabello,M01076,Xiaomi,MD1076,Xiaomi-684S,2025,Diseño compacto,110,1783
+C05,cuidado,E01077,Rizador de cabello,M01077,Philips,MD1077,Philips-738Q,2015,Resistente al agua,220,288
+C05,cuidado,E01078,Cepillo de dientes eléctrico,M01078,GHD,MD1078,GHD-434L,2021,Ideal para uso diario,110,981
+C05,cuidado,E01079,Sauna facial,M01079,Beurer,MD1079,Beurer-218Q,2018,Ideal para uso diario,220,2100
+C05,cuidado,E01080,Masajeador facial,M01080,GHD,MD1080,GHD-521L,2019,Carga rápida,110,2413
+C05,cuidado,E01081,Rizador de cabello,M01081,Revlon,MD1081,Revlon-613S,2017,Alta durabilidad,220,268
+C05,cuidado,E01082,Esterilizador UV portátil,M01082,Conair,MD1082,Conair-271X,2020,Batería de larga duración,110,481
+C05,cuidado,E01083,Plancha para cabello,M01083,Remington,MD1083,Remington-950L,2021,Diseño ergonómico,110,2089
+C05,cuidado,E01084,Sauna facial,M01084,Philips,MD1084,Philips-763Q,2016,Diseño compacto,110,456
+C05,cuidado,E01085,Plancha para cabello,M01085,Xiaomi,MD1085,Xiaomi-479Q,2016,Resistente al agua,220,466
+C05,cuidado,E01086,Depiladora eléctrica,M01086,Babyliss,MD1086,Babyliss-765S,2016,Diseño ergonómico,110,1414
+C05,cuidado,E01087,Rizador de cabello,M01087,Xiaomi,MD1087,Xiaomi-812P,2019,Alta durabilidad,110,640
+C05,cuidado,E01088,Plancha para cabello,M01088,Rowenta,MD1088,Rowenta-909X,2016,Ligero y portátil,220,2105
+C05,cuidado,E01089,Esterilizador UV portátil,M01089,Oral-B,MD1089,Oral-B-928P,2017,Ligero y portátil,110,2078
+C05,cuidado,E01090,Esterilizador UV portátil,M01090,Braun,MD1090,Braun-332S,2024,Alta durabilidad,110,1332
+C05,cuidado,E01091,Depiladora eléctrica,M01091,Remington,MD1091,Remington-684S,2025,Fácil de usar,220,2175
+C05,cuidado,E01092,Masajeador facial,M01092,Wahl,MD1092,Wahl-664L,2024,Diseño compacto,110,17
+C05,cuidado,E01093,Afeitadora eléctrica,M01093,Philips,MD1093,Philips-596S,2020,Fácil de usar,110,1008
+C05,cuidado,E01094,Masajeador facial,M01094,Conair,MD1094,Conair-791L,2021,Ligero y portátil,110,2445
+C05,cuidado,E01095,Recortadora de barba,M01095,Wahl,MD1095,Wahl-887X,2019,Carga rápida,220,45
+C05,cuidado,E01096,Rizador de cabello,M01096,GHD,MD1096,GHD-266P,2018,Diseño compacto,110,1861
+C05,cuidado,E01097,Afeitadora eléctrica,M01097,Babyliss,MD1097,Babyliss-489Q,2015,Ligero y portátil,220,212
+C05,cuidado,E01098,Plancha para cabello,M01098,Revlon,MD1098,Revlon-704L,2016,Diseño compacto,110,158
+C05,cuidado,E01099,Removedor de puntos negros,M01099,Babyliss,MD1099,Babyliss-908S,2024,Carga rápida,110,2363
+C05,cuidado,E01100,Recortadora de barba,M01100,Beurer,MD1100,Beurer-243X,2015,Carga rápida,110,1173
